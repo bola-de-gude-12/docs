@@ -1,0 +1,9 @@
+Continia hub.md | Integrating Continia Hub
+Using CSV Ports.md | Using CSV ports
+New factoring module.md | New Factoring module
+Continia Finance in US and Canada.md | Continia Finance in the USA and Canada
+Dimension alignment for payment discounts.md | Dimension alignment for payment discounts
+Improved check VAT Code functionality.md | Improved check VAT Code functionality
+Netherlands localization.md | Support for Dutch localization
+Finance in eng in NO, SE and BE.md | Continia Finance in English in Norway, Sweden and Belgium
+Continia Finance in English in Italy and parts of Eastern Europe.md | Continia Finance in English in Italy and parts of Eastern Europe

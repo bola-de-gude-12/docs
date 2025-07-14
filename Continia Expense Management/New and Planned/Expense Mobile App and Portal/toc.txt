@@ -1,0 +1,13 @@
+Configuration of field dependencies in the Expense App and the Expense Portal.md | Configuration of field dependencies in the Expense App and the Expense Portal
+Notifications in the Expense App.md | Notifications in the Expense App
+Saved images improvements.md | Saved receipts improvements
+Receipt lists.md | Receipts list
+Ai receipt scanner.md | AI Receipt Scanner
+Matching variances.md | Matching variance settings synchronization from Business Central to Continia Online
+Improved currency OCR recognition.md | Improved currency OCR recognition by matching against ISO codes
+Autofill in the expense app and expense portal.md | Autofill in the Expense App and Expense Portal
+Support for OData V4 for the Continia Web Approval Portal.md | Support for OData V4 for the Continia Web Approval Portal
+Figures indicating the number of documents for approval per type in the Web Approval Portal.md | Figures indicating the number of documents for approval per type in the Web Approval Portal
+Ai receipt scanner improvements.md | AI receipt scanner improvements
+Expense attachments visible on allocation pages in the mobile expense app.md | Expense attachments visible on allocation pages in the Mobile Expense App
+Boolean value support in field dependencies.md | Boolean value support in field dependencies

@@ -1,0 +1,25 @@
+Overview of business functionality.md | Overview
+
+Basic concepts in Expense Management.md | Basic concepts in Expense Management
+
+Setting up business functionality | Setting up business functionality
+
+Expense Reports | Expense Reports
+
+Expenses | Expenses
+
+Mileages | Mileages
+
+Per Diems | Per diems
+
+Approvals | Approvals
+
+Continia Expense App | Continia Expense Mobile App
+
+Credit Card Transactions | Credit card transactions
+
+Purchase contracts | Purchase contracts
+
+Continia Solutions Integrations | Continia Solutions Integrations
+
+Local functionality | Local functionality

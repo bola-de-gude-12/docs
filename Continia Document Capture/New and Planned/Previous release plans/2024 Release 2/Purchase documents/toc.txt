@@ -1,0 +1,5 @@
+Warnings about invoices already paid and registered in Continia Expense Management.md | Warnings about invoices already paid and registered in Continia Expense Management
+Automatic archiving of purchase orders upon registration of updates.md | Automatic archiving of purchase orders upon registration of updates
+Improvements to the Purchase Contracts module.md | Improvements to the Purchase Contracts module
+Dedicated matching page for the purchase order category.md | Dedicated matching page for the purchase order category
+New line type – Allocation Accounts.md | New line type – Allocation Accounts

@@ -1,0 +1,72 @@
+---
+title: Royal Bank of Scotland
+description: Integration with the bank system Royal Bank of Scotland
+date: 05-12-2024
+id: PM-349
+lang: en
+---
+
+# Royal Bank of Scotland
+
+With Payment Management, you can use direct communication to send bank data between Royal Bank of Scotland and Microsoft Dynamics 365 Business Central. For direct communication between your bank and Microsoft Dynamics 365 Business Central, [Payment Management collaborates with Yapily](@PM-268), an Open Banking payment service provider. 
+
+This article lists the file format requirements for direct communication. 
+
+To learn more about how to set up direct or manual communication:
+
+- Manual communication - refer to the general [To set up bank accounts to use manual communication](@PM-3#to-set-up-bank-accounts-to-use-manual-communication) article. 
+- Direct communication using Yapily - refer to the [Onboarding Yapily to use Direct Communication](@PM-268) article.
+
+> [!NOTE]
+>
+> Connecting banks through Yapily is only supported for Business Central version 24 or higher.
+
+## To connect with Royal Bank of Scotland manually
+
+When initiating manual communication with Royal Bank of Scotland, the following features are supported:
+
+| Communication | Send payments | Import status | Update status | Import payments | Reconcile |
+| ------------- | ------------- | ------------- | ------------- | --------------- | --------- |
+| Manual        | CSV           | {{cross}}     | {{cross}}     | {{cross}}       | {{cross}} |
+
+## To connect with Yapily Connect
+
+{{include "yapily-fees"}}
+
+For direct communication between your bank and Microsoft Dynamics 365 Business Central, you can use Yapily Connect. Yapily is an Open Banking payment service provider. 
+
+Before you can establish direct communication with your bank through Yapily, it is necessary to grant Yapily the required permissions. For more information about granting permissions, please contact your bank or refer to the [Preparing for Direct Communication Through Yapily](@PM-397) article. 
+
+| Communication | Send payments             | Import status | Update status             | Import payments | Reconcile                 |
+| ------------- | ------------------------- | ------------- | ------------------------- | --------------- | ------------------------- |
+| Direct        | [Yapily Connect](@PM-268) | {{cross}}     | [Yapily Connect](@PM-268) | {{cross}}       | [Yapily Connect](@PM-268) |
+
+### Supported functionality
+
+{{include "yapily-payments"}}
+
+| Functionality                                              | Royal Bank</br> of Scotland </br>Bankline | Royal Bank</br>of Scotland                            |
+| ---------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------- |
+| Faster Payment Single                                      | {{checkmark}}                             | ({{checkmark}}<a href="#footnote-1"><sup>1</sup></a>) |
+| Faster Payment Bulk                                        | {{checkmark}}                             | ({{checkmark}}<a href="#footnote-1"><sup>1</sup></a>) |
+| International Single<a href="#footnote-2"><sup>2</sup></a> | ({{cross}}                                | {{cross}}                                             |
+| Bank Reconciliation                                        | {{checkmark}}                             | ({{checkmark}}<a href="#footnote-1"><sup>1</sup></a>) |
+| Direct Debit                                               | {{cross}}                                 | {{cross}}                                             |
+
+<small style>
+
+<div class="footnotes">
+ <hr />
+ <ol>
+ <li id="footnote-1">Direct communication with this bank via Yapily is currently in beta. If you encounter any issues, please reach out to Continia Support for assistance.</li>
+<li id="footnote-2">International Single is only available in beta and is currently being tested.</li>
+ </ol>
+</div>
+
+
+
+</small>
+
+## Related information
+
+[About direct and manual bank communication](@PM-158)  

@@ -1,0 +1,10 @@
+Overview.md | Overview
+Understanding Continia Core.md | Understanding Continia Core
+Feature Management.md | Feature Management 
+Countries and Languages.md | Supported countries and languages 
+Payment Management permissions.md | Payment Management permissions
+Migrating from FOB to Business Central.md | Migrating from FOB to app
+Migrate from On-Premises to Cloud.md | Migrating Business Central On-Premises to Cloud
+Development and customization
+Online | Online
+On-Premises | On-premises 

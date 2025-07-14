@@ -1,0 +1,32 @@
+---
+title: Features Planned and Released in Expense Management 2023 Release 2
+date: 18-03-2024
+description:
+id: EM-220
+lang: en
+---
+
+# Features Planned and Released in Expense Management 2023 Release 2
+
+This article lists all Continia Expense Management features that were released as part of the 2023 Release 2.
+
+| Feature | Public preview | General availability |
+| --- | :-: | :-: |
+| [Introducing Receipts List in the Continia Expense App](@EM-156) | - | {{checkmark}} June 2023 |
+| [VAT/Sales tax input from expense users](@EM-116) | - | {{checkmark}} Oct 2023 |
+| [Matching variance settings synchronization from Business Central to Continia Online](@EM-157) | - | {{checkmark}} Oct 2023 |
+| [Improved currency OCR recognition by matching against ISO codes](@EM-158) | - | {{checkmark}} Oct 2023 |
+| [ESG expense types for carbon footprint registration](@EM-172) | - | {{checkmark}} Oct 2023 |
+| [Autofill in the Expense App and Expense Portal](@EM-174) | - | {{checkmark}} Oct 2023 |
+| [Configurable messages](@EM-175) | - | {{checkmark}} Oct 2023 |
+| [Autozoom in Business Central add-in](@EM-173) | - | {{checkmark}} Oct 2023 |
+| [Continia Hub](@EM-182) | - | {{checkmark}} Oct 2023 |
+| [Secure Archive](@EM-188) | - | {{checkmark}} Oct 2023 |
+
+## Detailed changelog
+For each change to Expense Management, Continia’s detailed changelog is updated with a description of what has changed. You can find the full changelogs [here](/Continia Expense Management/New and Planned/Detailed changelogs/Overview.md).
+
+## See also
+[Notice about Documentation and Website Usage](/Continia Expense Management/Legal notice.md)  
+[Feature Management](/Continia Expense Management/Development and Administration/Feature Management.md)  
+[Detailed Changelog](/Continia Expense Management/New and Planned/Detailed changelogs/Overview.md)  

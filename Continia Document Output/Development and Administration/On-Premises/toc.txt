@@ -1,0 +1,8 @@
+Installing Document Output on-premises.md | Installing Document Output on-premises
+Installing or upgrading Continia apps in multitenant environments.md | Installing or upgrading Continia apps in multitenant environments
+Comparison of features.md | Comparison of features
+Versions On-Premises.md | Supported NAV and Business Central versions
+Countries and languages On-Premises.md | Supported countries and languages (FOB)
+Managing solutions
+Deployment
+Upgrade

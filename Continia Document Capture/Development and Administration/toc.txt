@@ -1,0 +1,12 @@
+Overview.md | Overview
+Understanding Continia Core.md | Understanding Continia Core
+Feature Management.md | Feature management
+Countries and Languages.md | Supported countries and languages
+Document Capture permissions.md | Document Capture permissions
+Data centers.md | Data centers
+Data hosting.md | Data hosting
+Development and customization | Development and customization
+Setting up Azure Blob storage.md | Setting up Azure Blob Storage
+Use of AI in Document Capture.md | Use of AI in Document Capture
+Online | Online
+On-Premises | On-premises

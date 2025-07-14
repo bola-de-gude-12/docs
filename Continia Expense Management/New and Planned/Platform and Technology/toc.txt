@@ -1,0 +1,12 @@
+Signing in with SSO via Azure Active Directory.md | Signing in with SSO via Azure Active Directory
+Avoid business central universal code initiative fees.md | Support for the Business Central Universal Code Initiative
+Support for local file system storage with the Business Central Universal Code Initiative.md | Support for local file system storage with the Business Central Universal Code Initiative
+Cue improvements in the Role Center.md | Cue improvements in the Role Center
+ESG expense types for carbon footprint registration.md | ESG expense types for carbon footprint registration
+Autozoom in business central addin.md | Autozoom in Business Central add-in
+Easier migration from on-premises to online for older versions.md | Easier migration from on-premises to online for older versions
+Optimized export of users – part 1.md | Optimized export of users – part 1
+Optimized export of users – part 2.md | Optimized export of users – part 2
+Data maintenance using a job queue for Continia Expense Management tables.md | Data maintenance using a job queue for Continia Expense Management tables
+Demo machines with local data.md | Demo machines with local data
+Integration with continia sustainability.md | Integration with Continia Sustainability

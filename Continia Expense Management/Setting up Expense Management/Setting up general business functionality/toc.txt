@@ -1,0 +1,20 @@
+Setting up General Business Functionality.md | Overview
+Approver setup for expense management.md | Approver setup for Expense Management
+Expense user setup for expense management.md | Expense user setup for Expense Management
+Expense user group setup for expense management.md | Expense user group setup for expense management
+Setting up the Continia Users Default Setup.md | Setting up the Continia users default setup
+Setting up Reimbursement Method.md | Setting up reimbursement methods
+Job Queues.md | The available job queues
+Setting up Job Queues.md | Setting up job queues
+Setting up Fields.md | Setting up fields
+Setting up Payment Types.md | Setting up payment types
+Setting up Field Dependencies.md | Setting up field dependencies
+Using Jobs in Expense Management.md | Using jobs and job tasks
+Setting up User Delegation.md | Setting up user delegation
+Setting up Document Storage.md | Setting up document storage
+Handling fees.md | Handling fees
+Setting up Transaction Templates.md | Setting up transaction templates
+Setting up the Secure Archive.md | Setting up the Secure Archive
+Automatic creation of digital vouchers.md | Automatic creation of digital vouchers
+Setting up data maintenance.md | Setting up data maintenance
+Setting up restrictions on field value access.md | Setting up restrictions on field value access

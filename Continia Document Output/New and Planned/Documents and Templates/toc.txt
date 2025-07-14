@@ -1,0 +1,38 @@
+Customizing the sender of outgoing emails.md | Customizing the sender of outgoing emails
+Ability to see customized senders when opening emails.md | Ability to see customized senders when opening emails
+Greater flexibility when attaching files.md | Greater flexibility when attaching files
+Flexible setup of email signatures and email templates.md | Flexible setup of email signatures and email templates
+Multiple sender addresses, SMTP servers.md | Multiple sender addresses (SMTP Servers)
+Printing or sending all records within a filter.md | Printing or sending all records within a filter
+Flexible merge fields.md | Flexible merge fields
+Proforma invoices.md | Proforma invoices
+Password protect PDF.md | Password protect PDF
+Report selection on template.md | Report selection on template
+Peppol Bis3 AUNZ variant.md | Peppol Bis3 AU/NZ variant
+ZugFERD format.md | ZugFERD format (DE)
+Facture-x format.md | Facture-x format (FR)
+Multiple supported languages when importing templates.md | Multiple supported languages on templates
+Different background images in PDF files.md | Different background images in PDF files
+Report selection override feature.md | Report selection override feature
+Merging reminders and open documents into one file.md | Merging reminders and open documents into one file
+Option to build a password based on merge fields to protect PDF files.md | Option to build a password based on merge fields to protect PDF files
+More merge field options.md | More merge field options
+Attach multiple single files.md | Attach multiple single files
+Output profiles optimization.md | Output Profiles optimization
+Signature usage enhancement.md | Enhancing email signature functionality
+Add factbox.md | Improved FactBox with attachment names on template lines
+Simplified automatic distribution of statements.md | Simplified automatic distribution of statements
+RGS2 certificate on emailed pdf attachments.md | RGS2 certificate on emailed PDF attachments
+Source document information in email template body.md | Source document information in email template body
+Ability to send emails without attachments.md | Ability to send emails without attachments
+Merge multiple attachments or send separately.md | Merge multiple attachments or send separately
+Handled by do.md | Handled by DO
+Merge field editor in signatures.md | Merge field editor in signatures
+Embed pdf in xml.md | Embed PDF in XML
+Copy email template lines.md | Copy email template lines
+Resend functionality for xml files.md | Resend functionality for xml files
+More available payment methods for xml formats.md | More available payment methods for XML formats
+Add Handled (DO) and Output Profiles to reminders.md | Add Handled (DO) and Output Profiles to reminders
+Embed documents in E-doc.md | Embed documents in E-doc
+Email recipient setup priority on template lines.md | Email recipient setup priority on template lines
+Add file engine on template lines.md | Add file engine on template lines

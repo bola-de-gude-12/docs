@@ -1,0 +1,5 @@
+Overview.md | Overview
+Business Central 2023 release wave 2, v23.md | Upgrading to v23
+Business Central 2024 release wave 1, v24.md | Upgrading to v24
+Business Central 2024 release wave 2, v25.md | Upgrading to v25
+Business Central 2025 release wave 1, v26.md | Upgrading to v26

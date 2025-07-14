@@ -1,0 +1,5 @@
+Configuring onpremise services | Configuring on-premise services
+Minimum Requirements.md | Minimum requirements
+Setting up OAuth for Document Output.md | Setting up OAuth for Document Output Service
+Lifecycle Policy On-premises.md | Software lifecycle policy
+Enabling digital vouchers for business central v14 v22.md | Enabling digital vouchers for Business Central v14-v22

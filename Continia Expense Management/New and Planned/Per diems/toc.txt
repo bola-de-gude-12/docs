@@ -1,0 +1,4 @@
+Per diem trips across different countries with different rates.md | Per diem trips across different countries with different rates
+Norwegian per diem rules.md | Norwegian per diem rules
+More accurate calculation of per diem sub rates.md | More accurate calculation of per diem sub-rates
+Support for German 3 month rule.md | Support for the German 3-month rule

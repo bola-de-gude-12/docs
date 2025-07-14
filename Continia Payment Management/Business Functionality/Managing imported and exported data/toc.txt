@@ -1,0 +1,6 @@
+Overview.md | Overview
+importing and exporting bank files.md | Payment Management supported bank files
+Understanding the CBIC.md | Understanding the CBIC and CBCC components
+Managing files in the file archive.md | Managing files in the file archive
+Bank export data.md | Bank export data
+

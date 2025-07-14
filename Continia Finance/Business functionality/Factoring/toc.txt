@@ -1,0 +1,4 @@
+Introducing the factoring module.md | Introducing the Factoring module
+Setting up the factoring module.md | Setting up the Factoring module
+Adding a factor.md | Setting up a factor
+Creating a factoring proposal.md | Creating a factoring proposal

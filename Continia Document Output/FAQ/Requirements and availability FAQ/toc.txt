@@ -1,0 +1,1 @@
+Do not activated aftermoving nav.md | Why is my Document Output not activated after I moved NAV to a new server?

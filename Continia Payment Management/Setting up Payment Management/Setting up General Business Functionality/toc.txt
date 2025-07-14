@@ -1,0 +1,8 @@
+Overview.md | Overview
+Configuring general settings.md | Assisted setups for the Payment Management configuration
+The Payment Management Setup Page.md | The Payment Management Setup Page
+Setting up currency exchange rates.md | Setting up currency exchange rates
+Setting up bank holidays.md | Setting up bank holidays
+Using job queues to schedule tasks.md | Using job queues to schedule tasks 
+Usage areas.md | Managing usage areas
+

@@ -1,0 +1,4 @@
+Setting up the Continia Delivery Network.md | Setting up the Continia Delivery Network
+Setting up job queues.md | Setting up job queues
+Setting up email signatures.md | Setting up email signatures
+App registration in azure active directory.md | Creating an App Registration in Azure Active Directory

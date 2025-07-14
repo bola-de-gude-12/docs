@@ -1,0 +1,9 @@
+Setting up document approval.md | Overview
+Enabling purchase approval.md | Enabling purchase approval
+Continia user setup for approvals.md | Continia user setup for approvals
+Approval user groups.md | Approval user groups
+Approval sharing.md | Setting up approval sharing
+Creating user-specific lists of approvers for approval forwarding.md | Creating user-specific lists of approvers for approval forwarding
+Email notifications.md | Email notifications
+Creating approval flows.md | Creating approval flows
+Setting up advanced approval.md | Setting up Advanced Approval

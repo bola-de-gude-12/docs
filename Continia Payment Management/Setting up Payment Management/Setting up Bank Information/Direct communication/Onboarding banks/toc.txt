@@ -1,0 +1,20 @@
+Overview of onboarding banks.md | Overview of onboarding banks
+Onboarding Abn Amro with Direct Communication.md | Onboarding ABN Amro
+Onboarding Bank Connect banks.md | Onboarding with Bank Connect
+Onboarding Barclays.md | Onboarding Barclays
+Bizcuit.md | Onboarding with Bizcuit 
+Onboarding Danske Bank.md | Onboarding Danske Bank
+Onboarding DNB.md | Onboarding DNB
+Onboarding Eika Alliance.md | Onboarding Eika Alliance
+Onboarding Handelsbanken.md | Onboarding Handelsbanken (GlobalOn-Line)
+Onboarding Handelsbanken Nettbedrift.md | Onboarding Handelsbanken (Nettbedrift)
+Onboarding HSBC.md | Onboarding HSBC
+Onboarding Nordea.md | Onboarding Nordea
+Onboarding Rabobank with Direct Communication.md | Onboarding Rabobank
+Onboarding Sparebank 1.md | Onboarding SpareBank 1
+Onboarding Sparebanken More.md | Onboarding Sparebanken More
+Onboarding Sparebanken Sor.md | Onboarding Sparebanken Sor
+Onboarding Sparebanken Vest.md | Onboarding Sparebanken Vest
+Onboarding Tietoevry banks.md | Establishing Bank Integration through Tietoevry 
+Preparing direct communication through Yapily.md | Preparing direct communication through Yapily
+Onboarding Yapily with Direct Communication.md | Onboarding Yapily with Direct Communication

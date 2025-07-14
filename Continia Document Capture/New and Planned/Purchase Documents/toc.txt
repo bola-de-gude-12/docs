@@ -1,0 +1,3 @@
+Support for the PINT XML format.md | Support for the PINT XML format
+Inclusion of Document Capture files when copying, correcting, and canceling posted purchase invoices.md | Inclusion of Document Capture files when copying, correcting, and canceling posted purchase invoices
+Inclusion of Document Capture files when reversing transactions registered in journals.md | Inclusion of Document Capture files when reversing transactions registered in journals

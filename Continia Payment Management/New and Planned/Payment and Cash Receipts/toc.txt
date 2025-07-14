@@ -1,0 +1,15 @@
+Integration with expense management.md | Integration with Expense Management
+Support for file import from third party payment services.md | Support for file import from third-party payment services
+Support for direct communication with EIKA Norway.md| Support for direct communication with EIKA (NO)
+Automatic creation of payment suggestions in the payment journal.md | Automatic creation of payment suggestions in the payment journal
+Automatic import of cash receipts and bank statements.md | Automatic import of cash receipts and bank statements
+Automatic posting of payments in the payment journal.md | Automatic posting of payments in the payment journal
+Support for direct communication with Norwegian banks.md | Support for direct communication with Norwegian banks
+Support for direct communication with Rabobank.md | Support for direct communication with Rabobank
+Improved payment details for expenses.md | Improved payment details for expenses
+Approver count in payment approval workflows.md | Approver count in payment approval workflows
+Support for direct communication with Barclays.md | Support for direct communication with Barclays
+Support for manual communication with Nordea us.md | Support for manual communication with Nordea US
+Support for manual communication with HSBC.md | Support for manual communication JP Morgan, HSBC Global, Royal Bank of Scotland
+Validation of payment before document approval.md | Validation of payment before document approval
+Bank account verification.md | Bank account verification 

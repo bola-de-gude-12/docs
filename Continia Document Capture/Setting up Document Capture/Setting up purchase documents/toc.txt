@@ -1,0 +1,5 @@
+Setting up purchase documents.md | Overview
+Configuring purchase documents.md | Configuring purchase documents
+Setting up purchase allocations.md | Setting up purchase allocations
+Using amount distribution codes.md | Using amount distribution codes
+Enabling the import of PDF files with embedded XML files.md | Enabling the import of embedded XML files

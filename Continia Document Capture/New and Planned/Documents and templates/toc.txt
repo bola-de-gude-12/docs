@@ -1,0 +1,20 @@
+Continia eDocuments support for OIOUBL 3.0.md | Continia eDocuments support for OIOUBL 3.0
+Simpler eDocuments onboarding.md | Simpler eDocuments onboarding
+Support for the EHF format for eOrders in Norway.md | Support for the EHF format for eOrders in Norway
+Support for the PINT Billing and PINT A-NZ Billing formats in APAC.md | Support for the PINT Billing and PINT A-NZ Billing formats in APAC
+Support for the SimplerInvoicing format in the Netherlands.md | Support for the SimplerInvoicing format in the Netherlands
+Resending eBilling documents.md | Resending eBilling documents
+Educational page to improve user knowledge of eDocuments and formats.md | Educational page to improve user knowledge of eDocuments and formats
+Support for the FA2 format in Poland.md | Support for the FA(2) format in Poland
+Support for sales shipments.md | Support for sales shipments
+Ability to handle payment means in Continia eDocuments.md | Ability to handle payment means in Continia eDocuments
+Improved usability and stability in Continia eDocuments.md | Improved usability and stability in Continia eDocuments
+Allow testing of eDocuments in sandboxes.md | Allow testing of eDocuments in sandboxes
+Handle XML files received via email using the eDocuments framework.md | Handle XML files received via email using the eDocuments framework
+Improve XML structure pages for easier customization.md | Improve XML structure pages for easier customization
+eDocuments first.md | eDocuments first
+eDocument validation.md | eDocument validation
+Option to embed PDF files.md | Option to embed PDF files
+Lookup in template field translations.md | Lookup in template field translations
+Processing documents with rounding issues.md | Processing documents with rounding issues
+Capturing item tracking information.md | Capturing item tracking information

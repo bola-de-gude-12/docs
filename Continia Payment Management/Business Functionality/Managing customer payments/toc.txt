@@ -1,0 +1,7 @@
+Overview.md | Overview
+Creating customer payment suggestions.md | Creating customer payment suggestions
+Importing customer payments.md | Importing customer payments
+Importing PSP payments.md | Importing payments from Payment Service Providers
+Avoiding reimport of payments.md | Avoiding reimport of payments 
+Reimbursing customers and paying credit memos.md | Reimbursing customers and paying credit memos
+

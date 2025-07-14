@@ -1,0 +1,8 @@
+Overview.md | The Extended Fixed Assets module
+Extended Fixed Assets.md | Setting up fixed assets
+Adding a fixed asset.md | Adding a fixed asset
+Adding a fixed asset template.md | Using fixed asset templates
+Applying Partial Disposal of Assets.md | Applying partial disposal of assets
+Using dimensions in fixed assets.md | Using dimensions in fixed assets
+Using fixed assets with quantities.md | Using fixed assets with quantities
+Available reports for fixed assets.md | Available reports for fixed assets

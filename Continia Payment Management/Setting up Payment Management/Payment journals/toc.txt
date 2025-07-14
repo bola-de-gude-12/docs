@@ -1,0 +1,7 @@
+Overview.md | Overview
+Setting up payment journals.md | Setting up payment journals
+Managing document numbers.md | Managing document numbers
+Including credit memos and refunds.md | Including credit memos and refunds
+Setup for summarizing payments.md | Setup for summarizing payments
+Manage exchange rate adjustments.md | Manage exchange rate adjustments
+Managing posting dates.md | Managing posting dates

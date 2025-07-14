@@ -1,0 +1,8 @@
+Overview of general.md | Overview
+Creating email jobs.md | Creating email jobs
+Editing the document output factbox on customer cards.md | Editing the Document Output FactBox on customer cards
+Output Profiles.md | Output Profiles
+Storing your document outpout log in azure blob storage.md | Storing your Document Output log in Azure Blob Storage
+Handled by do.md | Handled by DO
+FAQ.md | General business functionality FAQ
+

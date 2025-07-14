@@ -1,0 +1,2 @@
+Posting installments when using different customer vendor posting groups.md | Posting installments when using different customer/vendor posting groups
+Use installments in journal lines.md | Use installments in journals lines

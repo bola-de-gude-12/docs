@@ -1,0 +1,15 @@
+Expenses Overview.md | Overview of Expenses
+Submitting expenses.md | Submitting expenses
+Posting expenses.md | Posting expenses
+Reimbursing expenses.md | Reimbursing expenses
+Reopening expenses.md | Reopening expenses
+Moving an expense to another company.md | Moving an expense to another company
+Configuring a matching tolerance.md | Configuring a matching tolerance
+Downloading expenses from continia online.md | Downloading expenses from Continia Online manually
+Adding a business vendor.md | Adding a business vendor
+Creating tax reports.md | Creating tax reports
+Create expenses from credit card transactions.md | Create expenses from credit card transactions
+Processing purchase invoices in dc and em.md | Processing purchase invoices in Document Capture and Expense Management
+Capturing expense data using AI Receipt Scanner.md | Capturing data using AI Receipt Scanner
+Using cash advance.md | Using Cash Advance
+Expenses FAQ.md | Expenses FAQ

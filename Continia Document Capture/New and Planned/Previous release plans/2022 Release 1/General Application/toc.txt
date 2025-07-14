@@ -1,0 +1,5 @@
+Registration of documents directly to general journal lines.md | Registration of documents directly to general journal lines
+Storage migration guide.md | Storage migration guide
+Inclusion of purchase reason codes when exporting the Document Capture setup.md | Inclusion of purchase reason codes when exporting the Document Capture setup
+Drag-and-drop functionality for additional Business Central pages.md | Drag-and-drop functionality for additional Business Central pages
+Teaching tips.md | Teaching tips

@@ -1,0 +1,5 @@
+Pre-approval of settlements.md | Pre-approval of expense reports
+Group employee and vendor ledger entries in expense reports or by document type.md | Group employee and vendor ledger entries in expense reports or by document type
+Improved visibility of comments in expense reports.md | Improved visibility of comments in expense reports
+Improving workflows with new Approve actions.md | Improving workflows with new Approve actions added to Expense Document cards
+Streamlined document attachment.md | Streamlined document attachment

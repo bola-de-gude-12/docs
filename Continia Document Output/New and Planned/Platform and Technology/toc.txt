@@ -1,0 +1,12 @@
+Continia print server.md | Continia Print Server
+OAuth support in Document Output Service.md | OAuth support in Document Output Service
+NemHandel integration.md | NemHandel integration
+Avoid business central universal code initiative fees.md | Support for the Business Central Universal Code Initiative
+AUNZ and NL Peppol service activation.md | AUNZ and NL Peppol service activation
+Exchange configuration through web service using OAUTH2.0.md | Exchange configuration through web service using OAUTH2.0
+Integration to azure blob storage.md | Integration to Azure Blob Storage
+Automatic al extensions for custom made templates.md | Automatic AL extensions for custom-made templates
+Finalize zugferd and factur x.md | Improved support for ZUGFeRD and Factur-x formats
+More inapp notification groups.md | Enhanced In-App Notification groups
+Strengthened log preservation security.md | Strengthened log preservation security
+Enhanced XML export code.md | Enhanced XML export code

@@ -1,0 +1,7 @@
+Overview of business functionality.md | Overview
+Bank communication.md | Bank communication
+Managing vendor payments | Managing vendor payments
+Managing customer payments | Managing customer payments
+Managing employee payments | Managing employee payments
+Reconciling bank accounts | Reconciling bank accounts
+Managing imported and exported data | Data import and export

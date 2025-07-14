@@ -1,0 +1,8 @@
+Installing Continia Finance on-premises.md | Installing Continia Finance on-premises
+Installing or upgrading Continia apps in multitenant environments.md | Installing or upgrading in multitenant environments
+Installing Business Central upgrades.md | Installing Business Central upgrades
+Comparison of features.md | Comparison of features
+Versions On-Premises.md | Supported Business Central Versions
+Managing solutions
+Deployment
+Upgrade

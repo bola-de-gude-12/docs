@@ -1,0 +1,7 @@
+Overview.md | Overview
+Manual payments.md | Manual payments
+Automatic payments.md | Automatic payments
+NemKonto payments.md | NemKonto payments
+KID payments.md | KID payments
+USD payments.md | USD payments
+AUD payments.md | AUD payments

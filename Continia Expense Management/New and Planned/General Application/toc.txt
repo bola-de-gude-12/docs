@@ -1,0 +1,28 @@
+Viewing full details in a document card from an expense report.md | Viewing full details in a Document card from an expense report
+Document storage in Continia Online.md | Document storage in Continia Online
+Setting limits for expense users.md | Company policies
+Delegating users to manage other users expenses.md | Delegating users to manage other users' expenses
+Editing approved documents in business central.md | Editing approved documents in business central
+New business vendor feature.md | New business vendor feature
+Field type improvements.md | Field type improvements
+Payment type.md | Payment type
+Resize the scanned image.md | Resize the document attachment page
+Description field extension.md | Description field extension
+Better validation of number series and source codes.md | Better validation of number series and source codes
+Payment type ui improvements.md | Payment type UI improvements
+Portuguese localization.md | Portuguese localization
+Continia notifications.md | Continia notifications
+Purchase contracts module.md | Purchase Contracts module
+Polish localization.md | Polish localization
+Improved payment details.md | Improved payment details
+Continia hub.md | Continia Hub
+Secure Archive.md | Secure Archive
+Deletion, GDPR, and the Secure Archive.md | Deletion, GDPR, and the Secure Archive
+Changed user ID visibility for document log entries.md | Changed user ID visibility for document log entries
+Automatic creation of digital vouchers.md | Automatic creation of digital vouchers
+Enhanced handling of purchase documents.md | Enhanced handling of purchase documents
+Expanded job queue setup options.md | Expanded job queue setup options
+Canada sales tax.md | Canada sales tax - enhanced posting with general journal
+Enhanced Microsoft 365 sign in management.md | Enhanced Microsoft 365 sign-in management
+Improvements to the Purchase Contracts module.md | Improvements to the Purchase Contracts module
+

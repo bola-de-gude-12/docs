@@ -1,0 +1,2 @@
+Introducing payment allocation.md | Introduction Payment Allocation
+Managing payment allocation to g account.md | Managing payment allocation to a G account

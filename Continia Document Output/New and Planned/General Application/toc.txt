@@ -1,0 +1,9 @@
+Release of Document Output for cloud.md | Release of Document Output for Business Central cloud
+Continia Delivery Network.md | Continia Delivery Network
+Tooltips for all Document Output fields.md | Tooltips for all Continia Document Output fields
+New setup guide.md | New setup guide
+Support for service invoices and service credit notes in XML.md | Support for service invoices and service credit notes in XML
+More email recipient flexibility.md | More email recipient flexibility
+Continia notifications.md | Continia Notifications
+Continia hub.md | Continia Hub
+Optimize UI on Customer Vendor settings for Document Output.md | Optimize UI on customer/vendor settings for Document Output

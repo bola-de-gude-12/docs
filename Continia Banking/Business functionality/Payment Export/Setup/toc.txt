@@ -1,0 +1,10 @@
+Overview.md | Overview
+Setting up bank accounts.md | Setting up bank accounts
+Configuring export settings.md | Configuring export settings
+Managing balance accounts for different currencies.md | Managing balance accounts for different currencies
+Setting up payment posting.md | Setting up the payment postings
+Setting up banks.md | Setting up bank system communication types
+Setting up payment journals.md | Setting up payment journals
+Adding bank closing days.md | Adding bank closing days
+Setting up payment suggestion templates.md | Setting up payment suggestion templates
+

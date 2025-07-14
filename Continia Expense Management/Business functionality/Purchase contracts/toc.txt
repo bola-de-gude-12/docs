@@ -1,0 +1,5 @@
+Overview of purchase contracts.md | Overview
+Creating purchase contracts.md | Creating purchase contracts
+Purchase contract reviews.md | Purchase contract reviews
+Approving expenses based on a contract.md | Approving expenses based on a contract
+Viewing the purchase contract archive.md | Viewing the purchase contract archive

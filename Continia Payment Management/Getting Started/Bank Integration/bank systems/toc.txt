@@ -1,0 +1,46 @@
+bank systems overview.md | Overview
+abn amro.md | ABN Amro
+allied irish bank.md | Allied Irish Banks
+bankdata.md | Bankdata
+bankgirot.md | Bankgirot
+barclays.md | Barclays
+bank nationale paribas.md | Bank Nationale Paribas (BNP)
+bank of america.md | Bank of America
+bec.md | BEC
+bellin.md | Bellin
+bunq.md | Bunq
+citibank.md | Citibank
+commertzbank.md | Commerzbank
+coutts and company.md | Coutts
+credit suisse.md | Credit Suisse
+danske bank.md | Danske Bank
+de volksbank.md | De Volksbank
+deutche bank.md | Deutsche Bank
+dnb.md | DNB
+eika.md | Eika Alliance
+handelsbanken | Handelsbanken
+hsbc yapily.md | HSBC
+ing | ING
+jp morgan.md | JP Morgan
+jyske bank.md | Jyske Bank
+kbc bank.md | KBC Bank
+knab.md | Knab
+lloyds.md | Lloyds
+national westminister.md | National Westminister
+nordea | Nordea
+op corporate.md | OP Corporate Bank
+rabobank | Rabobank
+raiffeisen bank international.md | Raiffeisen Bank International
+revolut.md | Revolut
+royal bank of scotland.md | Royal Bank of Scotland
+santander uk.md | Santander UK
+sdc.md | SDC
+seb | SEB
+sparebank 1.md | SpareBank 1
+sparebanken sor.md | Sparebanken Sor
+sparebanken more.md | Sparebanken More
+sparebanken vest.md | Sparebanken Vest
+swedbank | Swedbank
+triodos bank.md | Triodos Bank
+ulster bank.md | Ulster Bank
+virgin money.md | Virgin Money

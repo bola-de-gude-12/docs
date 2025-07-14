@@ -1,0 +1,13 @@
+Overview.md | Overview
+Advanced payment suggestions.md | The Advanced Payment Suggestion option
+Suggesting and processing payments.md | Suggesting and processing payments
+Working with the Payment Suggestions List page.md | Working with payment suggestions on the Payment Suggestions page
+Summarizing payments.md | Summarizing payments
+Applying balance accounts.md | Configuring balance accounts for payment journal lines
+Using the payment status.md | Using the payment status
+The payment statuses.md | The payment statuses
+The cb fields on the customer vendor employee card.md | The Continia Banking fields on the cards
+Managing employee payments.md | Managing employee payments
+Reimbursing customers and paying credit memos.md | Reimbursing customers and paying credit memos
+Handling alternative payee bank accounts.md | Adding an alternative account holder
+Adding intermediary banks.md | Working with intermediary banks

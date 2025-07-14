@@ -1,0 +1,109 @@
+---
+title: Working with paper and PDF documents in Document Capture
+date: 01-04-2025
+description:  
+id: 
+lang: en
+---
+
+# Working with paper and PDF documents
+
+Once a document has been imported into Continia Document Capture, whether as a PDF file or as a scanned paper document, you can [capture textual information in it](@DC-110) and start working with it. The information you need to capture depends on the specific type of document, but no matter what types of documents you’re dealing with, you handle and process them in the same place – the document journal.
+
+The main purpose of the document journal is to enable you to work with imported documents and capture textual information contained in these documents. Once the information has been captured in the document journal, you must register the document. By registering a document, you convert all captured information into a real business entity in Microsoft Dynamics 365 Business Central. For example, when you register a purchase invoice received from a vendor, you create a Business Central purchase invoice.
+
+> [!IMPORTANT]
+> You can configure Document Capture to work with many types of documents that are related to different records or entities in Business Central. Typically, Document Capture is used to process purchase invoices and credit memos, but it can also be used for processing sales orders, contracts, item certificates, and many other types of documents. When you process purchase invoices and credit memos, the documents are linked to vendors. For illustrative purposes, this article focuses exclusively on vendors, but it might as well have been customers, items, fixed assets, or something else. 
+
+## Overview of the document journal
+To access the document journal:
+
+1. Search ({{search}}) for and select **Document Categories**.
+1. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+
+The document journal consists of four main sections:
+
+**Document list (left-hand side):** This table lists all documents included in the selected journal. For each document, the table provides you with information such as the document number, the vendor name, the template used, and the number of pages. In addition, the **OK** field indicates if all captured document values are valid and whether the individual document is ready to be registered.
+
+**Document fields (left-hand side):** In this section, under **Document Header**, all fields that have been identified in the currently selected document are displayed along with their corresponding values. The list of fields is determined by the document template, and for each field Document Capture indicates if the value is considered to be valid according to the configuration of each template field.
+
+> [!NOTE]
+> For a document to be registered, all document header fields must have check marks in the **OK** column. When all document header fields are OK, the document as a whole is also marked as OK in the document list.
+> 
+> Note that **No.** is mandatory for document registration and often has to be entered manually, as it can’t be captured in imported documents. The field is closely related to the **Type** field immediately above it, which allows you to select the type of account you want to use for the document. If you select no account type, **No.** defaults to G/L accounts.
+
+**Comments (left-hand side):** This section displays comments related to the selected document. There are three different types of comments: **Information**, **Warning**, and **Error**. To learn more, see [Configuring Comment Types and Importance](Configuring comment types and importance.md).
+
+**Document viewer (right-hand side):** The image on the right shows a visual representation of the actual scanned document (either PDF or XML) after it has been OCR-processed. For more information, see [The document viewer](#the-document-viewer) below.
+
+## The document viewer
+
+As mentioned above, the document viewer displays PDF or XML documents that have been scanned, imported, and OCR-processed by Document Capture. For PDF documents, the document image is interactive, meaning that you can manually select text anywhere in the image to capture it as a value associated with a certain field. To learn more, see [Capturing Fields in a Document](@DC-110).
+
+> [!NOTE]
+> During the OCR-processing of a document, a visual representation of the document is created for display purposes, which may result in fewer colors and a lower resolution than the original document. This is done to optimize performance and usability for you when you work with the document in Business Central. What you see in the document viewer is the OCR-processed version of the document – not the original document, which may look slightly different. The actual OCR and recognition process is still performed on the original document at the highest level of detail. To learn more, see [OCR-Processing a Document](OCR-processing a document.md).
+
+The upper-left corner of the document viewer features a dropdown menu that allows you to view or download any files that have been attached to the document you're currently processing. The dropdown menu is also available for all other pages that include the document viewer, except for the **Documents (UIC)** page, as no documents displayed on this page have been processed yet.
+
+Most of the attachments listed in the menu can be viewed in the user interface, but some can't (such as .xlsx and .docx files). These can be downloaded straight from the menu, though. The attachments are grouped as follows: 
+
+* **Original** – the main document that was imported into Document Capture
+* **Related Documents** (OIOUBL/OIOUTS)
+* **Attachments** (.bmp, .jpeg, .jpg, .pdf, .png, .tif, and .tiff)
+* **XML Attachments** (.bmp, .jpeg, .jpg, .pdf, .png, .tif, and .tiff)
+* **Downloadable Attachments** (all other file types)
+
+If you're viewing an XML document that has an embedded PDF file, you can have this PDF file displayed in the document viewer instead of the original XML. This has to be [set up for the relevant XML master template](@DC-144) first though. If a file in any other format than PDF has been embedded in the imported XML, it's not displayed by default. In such cases, the document viewer displays the original XML instead.
+
+Note that you can resize the document viewer by dragging the vertical handle on the left side of the document viewer FactBox. This also applies to all other pages that include the document viewer (such as **Purchase Invoice**, **Sales Order**, **Vendor Ledger Entries**, **General Journals**, and **General Ledger Entries**).
+
+## Changing a document’s associated vendor
+By default, Document Capture links all documents to existing records in Business Central. Purchase documents are linked to vendors, meaning that each purchase document is linked to one specific vendor. In the document journal, some of the first columns of the document list – the columns **Vendor** and **Name** – show the number and the name of the vendor that each document is linked to. When importing documents, Document Capture identifies the vendor automatically based on different parameters. For more information on these parameters, see [Finding the Document Source and Template](Finding the document source and template.md).
+
+In the event that Document Capture doesn’t manage to identify a vendor, or in case you’d like to change the identified vendor, you can assign a new vendor from the document journal. To do this:
+
+1. Search ({{search}}) for and select **Document Categories**.
+1. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+1. In the document list, go to the line of the imported document whose vendor you want to change, and select the **Vendor** field. Then select the three dots that appear in order to open the **Vendors** window.
+1. Choose the vendor that you want to assign by selecting the relevant number in the **No.** column.
+
+> [!NOTE]
+> You can also set up search texts to help Document Capture identify the correct vendor. To learn more, see [Finding the Document Source and Template](/Continia Document Capture/Business functionality/Documents and templates/Finding the document source and template.md).
+
+## Changing a document’s category
+To change the category of a document from the document journal:
+
+1. Search ({{search}}) for and select **Document Categories**.
+1. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+3. On the action bar, click **Document** > **Change Category** to open the list of categories. You can then move the document(s) to the desired category, which also results in an automatic field recognition.
+
+Note that it's only possible to change the category of documents with the status open – that is, no rejected or registered documents. Additionally, it only works for PDFs.
+
+The alternative to the approach described above is:
+
+1. Search ({{search}}) for and select **Document Categories**.
+2. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+3. Select the {{settings}} icon > **Personalize**.
+4. In the upper-left corner, select **+ Field** to open the **Add Field to Page** pane.
+5. Search for the **Document Category Code** field and drag it before or after an existing column in the document journal.
+6. Select **Done** in the personalization banner.
+
+You can now select a new value under the **Document Category Code** to change the category of the corresponding document.
+
+## Showing registered and rejected documents
+When you open the document journal, it's' filtered to show only open documents. However, you can also filter it to display documents that have been registered or rejected. To do this:
+
+1. Search ({{search}}) for and select **Document Categories**.
+1. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+1. In the upper-right corner, above the action bar, go to **Status Filter** and select the box to display the filter options. The default option is **Open**, meaning that only documents with the status "Open" are displayed in the document list. Change this as needed by selecting your preferred filter option.
+
+The document list is updated to display only documents with the status you selected. If you selected **All**, all documents are displayed in the list, regardless of status.
+
+## See also
+[Capturing Fields in a Document](@DC-110)  
+[Configuring Comment Types and Importance](Configuring comment types and importance.md)  
+[OCR-Processing a Document](OCR-processing a document.md)  
+[Finding the Document Source and Template](Finding the document source and template.md)  
+[Registering Documents](Registering documents.md)  
+[Working with Templates](Working with templates.md)  
+[Setting up New Template Fields](Setting up new template fields.md)  

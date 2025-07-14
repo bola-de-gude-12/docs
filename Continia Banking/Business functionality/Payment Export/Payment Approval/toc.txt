@@ -1,0 +1,8 @@
+Overview.md | Overview
+Enabling Bank Account Verification.md | Enabling bank account verification
+Setting up Payment Approval Workflows.md | Setting up a payment approval workflow
+Editing Payment Approval Workflows.md | Editing a payment approval workflow
+Working with payment approvals.md | Working with payment approvals
+Setting up approval sharing.md | Delegating approval tasks
+Ensuring AML compliance.md | Ensuring AML compliance
+

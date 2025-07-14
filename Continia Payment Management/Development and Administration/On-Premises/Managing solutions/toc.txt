@@ -1,0 +1,3 @@
+Managing licenses.md | Managing licenses
+Managing solutions.md | Managing solutions
+License and granules.md | License and granules
