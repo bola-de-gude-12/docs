@@ -1,16 +1,17 @@
 ---
-title: Figures indicating the number of documents for approval per type in the Web Approval Portal
+title: >-
+  Figures indicating the number of documents for approval per type in the Web
+  Approval Portal
 date: 12-12-2024
-description:
 id: DC-387
 lang: en
 ---
 
 # Figures Indicating the Number of Documents for Approval per Type in the Web Approval Portal
 
-| Feature | Public preview | General availability online |
-| --- | :-: | :-: |
-| Figures indicating the number of documents for approval per type in the Web Approval Portal | {{checkmark}} Mar 2024 | {{checkmark}} Apr 2024 |
+| Feature                                                                                     |      Public preview      | General availability online |
+| ------------------------------------------------------------------------------------------- | :----------------------: | :-------------------------: |
+| Figures indicating the number of documents for approval per type in the Web Approval Portal | \{{checkmark\}} Mar 2024 |   \{{checkmark\}} Apr 2024  |
 
 ## Business value
 
@@ -22,12 +23,13 @@ Currently, the Web Approval Portal doesn't provide a good overview of where your
 
 This new feature will introduce number indicators for each tab on the blue ribbon, indicating how many documents for approval the individual tabs have. The green options in the submenus will also display a figure indicating the number of documents for approval for each document type. So if, for example, the company overview menu in the upper-right corner indicates that one of your companies has a total of 10 documents for approval, you may find the following distribution on the blue ribbon:
 
-<br>
+\
 
-| Purchase (5) | Expense Management (5) | Sales (0) |
-| --- | --- | --- |
-| *Purchase Menu* <br> **Approvals (5)** | *Expense Management Menu* <br> **Expenses (3)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mileage (0)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Per diems (2)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Expense reports (0)** | *Sales Menu* <br> **Order (0)** |
+
+| Purchase (5)                                                    | Expense Management (5)                                                                                                                                                                         | Sales (0)                                                |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| <p><em>Purchase Menu</em><br><strong>Approvals (5)</strong></p> | <p><em>Expense Management Menu</em><br><strong>Expenses (3)</strong>        <strong>Mileage (0)</strong>        <strong>Per diems (2)</strong>        <strong>Expense reports (0)</strong></p> | <p><em>Sales Menu</em><br><strong>Order (0)</strong></p> |
 
 The numbers in brackets – representing the new number indicators – clearly indicate where to find the documents for approval. You can see right away that there are none in the **Sales** category, so there's no point in looking there, and when you then drill down to the **Expense Management Menu**, you immediately know that you only have to check **Expenses** and **Per diems**.
 
-For more information, see [Continia Web Approval Portal](@DC-165#the-company-overview-menu).
+For more information, see [Continia Web Approval Portal](../../../../../Continia%20Document%20Capture/New%20and%20Planned/Previous%20release%20plans/2024%20Release%201/Web%20Approval%20Portal/@DC-165/#the-company-overview-menu).

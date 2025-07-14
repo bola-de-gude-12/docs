@@ -1,9 +1,11 @@
 ---
 title: Prohibited characters in the Continia Web Approval Portal
 date: 01-11-2024
-description: A list of the characters that aren't allowed in the Continia Web Approval Portal.
 id: DC-243
 lang: en
+description: >-
+  A list of the characters that aren't allowed in the Continia Web Approval
+  Portal.
 ---
 
 # Prohibited Characters in the Web Approval Portal
@@ -12,8 +14,7 @@ This article explains why certain characters can't be used in the Continia Web A
 
 Unlike Continia Document Capture, which is built inside Microsoft Dynamics 365 Business Central, the Web Approval Portal is a separate resource. It communicates with Business Central via XML, therefore the content handled by the Web Approval Portal mustn't include characters that interfere in the processing of documents.
 
->[!NOTE]
->Examples of fields where these characters can't be used include dimension codes, approver names, and vendor names.
+> \[!NOTE] Examples of fields where these characters can't be used include dimension codes, approver names, and vendor names.
 
 ## Control characters
 
@@ -21,7 +22,8 @@ Control characters, also known as non-printable characters (NPCs), are character
 
 Apart from the exceptions listed below, all control characters are prohibited in XML.
 
-<br>
+\
+
 
 | Code (Unicode standard) | Description     |
 | ----------------------- | --------------- |
@@ -33,8 +35,8 @@ Apart from the exceptions listed below, all control characters are prohibited in
 
 Some special characters are prohibited in XML because they serve a function in its structure, such as defining the beginning and the end of a tag. Therefore, using these characters may result in errors.
 
-Contrary to control characters, though, most special characters are allowed in XML. The exceptions to this rule are listed below.
-<br>
+Contrary to control characters, though, most special characters are allowed in XML. The exceptions to this rule are listed below.\
+
 
 | Code (Unicode standard) | Description       | Glyph |
 | ----------------------- | ----------------- | ----- |
@@ -44,10 +46,9 @@ Contrary to control characters, though, most special characters are allowed in X
 | U+0027                  | Apostrophe        | '     |
 | U+0022                  | Quotation mark    | "     |
 
->[!NOTE]
->The special characters listed above can be used if escaped, but this is often impractical in documents.
+> \[!NOTE] The special characters listed above can be used if escaped, but this is often impractical in documents.
 
 ## Related information
 
-[Continia Web Approval Portal](@DC-165)  
-[Configuring Users for the Web Approval Portal](@DC-129)
+[Continia Web Approval Portal](../../../Continia%20Document%20Capture/Business%20functionality/Purchase%20approval/@DC-165/)\
+[Configuring Users for the Web Approval Portal](../../../Continia%20Document%20Capture/Business%20functionality/Purchase%20approval/@DC-129/)
