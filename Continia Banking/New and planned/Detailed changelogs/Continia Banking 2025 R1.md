@@ -1,249 +1,227 @@
 ---
 title: Detailed Changelog for Continia Banking 2025 R1
-description: Changelog containing an overview of all new updates, features, and hotfixes for Continia Banking 2025 R1
 date: 14-07-2025
 id: CB-230
 lang: en
+description: >-
+  Changelog containing an overview of all new updates, features, and hotfixes
+  for Continia Banking 2025 R1
 ---
 
 # Detailed changelog for Continia Banking 2025 R1
 
-This article lists all new updates, features, service packs, and hotfixes for Continia Banking 2025 R1. 
+This article lists all new updates, features, service packs, and hotfixes for Continia Banking 2025 R1.
 
-> [!TIP]
-> As a Continia partner, we can notify you of new Continia Banking versions and service packs whenever we release them. To sign up for this service, go to [this page](https://continia.zendesk.com/hc/en-us/articles/21731056669458-Receive-a-notification-upon-new-Continia-Banking-releases) in the Continia PartnerZone (only available to partners).
+> \[!TIP] As a Continia partner, we can notify you of new Continia Banking versions and service packs whenever we release them. To sign up for this service, go to [this page](https://continia.zendesk.com/hc/en-us/articles/21731056669458-Receive-a-notification-upon-new-Continia-Banking-releases) in the Continia PartnerZone (only available to partners).
 
 ## Continia Banking 2025 R1, Service Pack 3
 
-*Release date, online: July 1, 2025*   
-*App version: 26.3.0*
+_Release date, online: July 1, 2025_\
+&#xNAN;_&#x41;pp version: 26.3.0_
 
 ### New features
 
-| Functional Area | Description                                                  | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
-| Payment Import  | When editing the **Last Statement No.** field on the **Bank Acc. Reconciliation** page, the system now checks if the number is already used. If so, a confirmation dialog appears, allowing the user to use the next available number. | 66009 |
-| Payment Import  | General improvements to messages, error handling, and confirmation dialogs in the Import app. | 66794 |
-| Payment Export  | In the payment journal, you can now enable the **Use Job Queue for Posting** field. When a payment reaches the predefined status and remittance advice has been sent, if the bank and email are set on the recipient, the job queue will post the payment lines. | 66497 |
+| Functional Area | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ID    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Payment Import  | When editing the **Last Statement No.** field on the **Bank Acc. Reconciliation** page, the system now checks if the number is already used. If so, a confirmation dialog appears, allowing the user to use the next available number.                                                                                                                                                                                                                                                | 66009 |
+| Payment Import  | General improvements to messages, error handling, and confirmation dialogs in the Import app.                                                                                                                                                                                                                                                                                                                                                                                         | 66794 |
+| Payment Export  | In the payment journal, you can now enable the **Use Job Queue for Posting** field. When a payment reaches the predefined status and remittance advice has been sent, if the bank and email are set on the recipient, the job queue will post the payment lines.                                                                                                                                                                                                                      | 66497 |
 | Payment Export  | Added support for specifying the approver ID type for non-Danish/Nordic approvers who cannot use a social security number. A new type field has been implemented for `AMLApproverIdentifier` and `AMLApprover2Identifier`, and is included in the in-house file. Supported types include SOSE (Social Security Number) and NIDN (National ID Number); additional types can be added if needed. Both Approver ID Type and Approver ID must be filled in for the values to be exported. | 66666 |
-| Payment Export  | Added support for maintaining the Sender ID - interpreted as the Organization ID (OrgId) - on the bank record for cross-border payments. This is required in scenarios where the Sender ID differs from the VAT Registration No. currently used from Company Information. A new OrgId field has been introduced on the bank (search for Banks). | 67351 |
-| Payment Export  | Added support for additional NEM Konto payments.             | 66786 |
-| PSP             | Added support for importing files from payment service provider Buckaroo. | 67106 |
-| Payment Import  | Added an **Import** button to the Payment Reconciliation Journal, allowing direct import of data into the bank transaction table for processing. | 67577 |
-| Payment Import  | **Preview**: Added support for importing multiple bank account statements into the same reconciliation journal. Imports can be grouped by aggregation period and automated via job queue. Enable the feature in Continia Feature Management. See [Importing multiple bank statements](@CB-245) for details. | 44209 |
+| Payment Export  | Added support for maintaining the Sender ID - interpreted as the Organization ID (OrgId) - on the bank record for cross-border payments. This is required in scenarios where the Sender ID differs from the VAT Registration No. currently used from Company Information. A new OrgId field has been introduced on the bank (search for Banks).                                                                                                                                       | 67351 |
+| Payment Export  | Added support for additional NEM Konto payments.                                                                                                                                                                                                                                                                                                                                                                                                                                      | 66786 |
+| PSP             | Added support for importing files from payment service provider Buckaroo.                                                                                                                                                                                                                                                                                                                                                                                                             | 67106 |
+| Payment Import  | Added an **Import** button to the Payment Reconciliation Journal, allowing direct import of data into the bank transaction table for processing.                                                                                                                                                                                                                                                                                                                                      | 67577 |
+| Payment Import  | **Preview**: Added support for importing multiple bank account statements into the same reconciliation journal. Imports can be grouped by aggregation period and automated via job queue. Enable the feature in Continia Feature Management. See [Importing multiple bank statements](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-245/) for details.                                                                                                    | 44209 |
 
 ### Bug fixes
 
-| Functional Area | Title                                                        | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
+| Functional Area | Title                                                                                                                                                                                                                                                                                                                                      | ID    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
 | Payment Export  | Fixed an issue where the **Payment Reference** field on the purchase invoice could not be cleared if it was initially populated from the vendor's payment reference template. It is now possible to clear both the payment reference template and the payment reference fields on the purchase invoice, regardless of the vendor settings. | 67155 |
-| Payment Export  | Fixed an issue where switching from Advanced to Normal mode in the payment journal broke the **Suggest Vendor Payments** feature. | 67348 |
-| Payment Import  | Fixed the transaction error for CSV import.                  | 67545 |
-
-
+| Payment Export  | Fixed an issue where switching from Advanced to Normal mode in the payment journal broke the **Suggest Vendor Payments** feature.                                                                                                                                                                                                          | 67348 |
+| Payment Import  | Fixed the transaction error for CSV import.                                                                                                                                                                                                                                                                                                | 67545 |
 
 ## Continia Banking 2025 R1, Service Pack 2, hotfix 1
 
-*Release date, online: June 26, 2025*   
-*App version: 26.2.1*
+_Release date, online: June 26, 2025_\
+&#xNAN;_&#x41;pp version: 26.2.1_
 
 ### Bug fixes
 
-| Functional Area     | Title                                                        | ID    |
-| ------------------- | ------------------------------------------------------------ | ----- |
-| General Application | Fixed issue with missing permissions for inserting retention policies during activation. | 67415 |
-| Payment Export      | Fixed an issue where the Payment Suggestions tile on the Advanced Role Center incorrectly counted already posted suggestions. | 67366 |
-| Payment Export      | Fixed tooltip error for the **Send Email on Posting Date** feature. | 67116 |
-| Payment Export      | Fixed issue where the **Show Customers/Vendors/Employees** feature was not working on the Remittance Advice Setup Check page. | 67122 |
+| Functional Area     | Title                                                                                                                                      | ID    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| General Application | Fixed issue with missing permissions for inserting retention policies during activation.                                                   | 67415 |
+| Payment Export      | Fixed an issue where the Payment Suggestions tile on the Advanced Role Center incorrectly counted already posted suggestions.              | 67366 |
+| Payment Export      | Fixed tooltip error for the **Send Email on Posting Date** feature.                                                                        | 67116 |
+| Payment Export      | Fixed issue where the **Show Customers/Vendors/Employees** feature was not working on the Remittance Advice Setup Check page.              | 67122 |
 | Payment Import      | Fixed an issue where entering the full amount in the **Applied Amount** field triggered an error if a payment discount was still possible. | 66271 |
-| Payment Import      | Fixed an error in `GetProprietaryBankTransactionCodeIssuer` where strings longer than 20 characters caused a failure. | 67284 |
-| Payment Import      | Importing CSV files with double delimiters is now allowed.   | 59576 |
-| Payment Export      | Fixed issue preventing posting of invoices with a zero amount. | 67176 |
-
-
+| Payment Import      | Fixed an error in `GetProprietaryBankTransactionCodeIssuer` where strings longer than 20 characters caused a failure.                      | 67284 |
+| Payment Import      | Importing CSV files with double delimiters is now allowed.                                                                                 | 59576 |
+| Payment Export      | Fixed issue preventing posting of invoices with a zero amount.                                                                             | 67176 |
 
 ## Continia Banking 2025 R1, Service Pack 2
 
-*Release date, online: June 16, 2025*   
-*App version: 26.2.0*
+_Release date, online: June 16, 2025_\
+&#xNAN;_&#x41;pp version: 26.2.0_
 
 ### New functionality
 
-| Functional Area | Title                                                        | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
-| Payment Export  | The Remittance Advice Email was added to the Retention Policy. The policy is set to manual, so users must activate it before use. | 66289 |
-| Payment Export  | If you use **Find Entries** in standard processes, the Remittance Advice Email entry is now integrated to provide direct access. | 66290 |
-| Payment Export  | Added a new feature to help users identify and resolve issues with missing remittance advice emails. Accounts, Email Setups, or Document Setups will be checked to provide information about wrong setups. For more information, see [Reviewing remittance advice setups](@CB-246). | 65876 |
-| Payment Export  | Created a new Remittance Advice Outbox to allow users to see all sent and unsent remittance advices from Banking. Users can now resend emails or change recipients. For more information, see [Working with the remittance advice outbox](@CB-249). | 65877 |
-| Payment Export  | Added a filter for Banking Export batches.                   | 66736 |
+| Functional Area | Title                                                                                                                                                                                                                                                                                                                                                                              | ID    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Payment Export  | The Remittance Advice Email was added to the Retention Policy. The policy is set to manual, so users must activate it before use.                                                                                                                                                                                                                                                  | 66289 |
+| Payment Export  | If you use **Find Entries** in standard processes, the Remittance Advice Email entry is now integrated to provide direct access.                                                                                                                                                                                                                                                   | 66290 |
+| Payment Export  | Added a new feature to help users identify and resolve issues with missing remittance advice emails. Accounts, Email Setups, or Document Setups will be checked to provide information about wrong setups. For more information, see [Reviewing remittance advice setups](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-246/).                         | 65876 |
+| Payment Export  | Created a new Remittance Advice Outbox to allow users to see all sent and unsent remittance advices from Banking. Users can now resend emails or change recipients. For more information, see [Working with the remittance advice outbox](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-249/).                                                         | 65877 |
+| Payment Export  | Added a filter for Banking Export batches.                                                                                                                                                                                                                                                                                                                                         | 66736 |
 | Payment Export  | Added functionality to manually summarize lines in the Payment Journal. You can now run the Payment Suggestion without summarizing per account. After lines are created, select lines and use **Actions** > **Functions** > **Summarize Payments**. The system will consider summarizing setup and explains failures (e.g., posting dates differ or dimension values don't match). | 60909 |
-| Payment Export  | Added the option **Bank & PDF** to Remittance Handling. This option creates a PDF using standard document output, so browser defaults determine how the file is handled. For more information, see [Working with the remittance advice outbox](@CB-249). | 65878 |
-| Payment Export  | A new notification alerts users about unsent remittance advice emails. Notifications are shown on: Payment Journals, Direct Debit Journals, and Payment Suggestions. | 66436 |
-| Payment Import  | Added new publisher event `OnAfterFilterSearchRule` for codeunit 71554206 "CTS-PI Match Search Rules". | 65989 |
-| Payment Import  | Added new publisher event `OnBeforeStartMatchingPaymentReconciliation` for codeunit 71554177 "CTS-PI Match Reconciliation". | 65986 |
-| Payment Import  | Added new publisher events `OnBeforeModifyGenJournalLine` and `OnBeforeModifyBankGenJournalLine` for codeunit 71554184 "CTS-PI Bank Recon Appl Entries". Also added `OnBeforeUpdateTempGenJournalLine`. | 65988 |
-| Payment Import  | Added new publisher event `OnBeforeStartMatchingBankAccReconciliation` for codeunit 71554177 "CTS-PI Match Reconciliation". | 65978 |
-| Payment Import  | Added support for viewing posted reversed transactions from returned Direct Debits. The feature can be enabled in the Continia Feature Management Page. See [Introducing direct debit returns](@CB-241) | 66141 |
-| Payment Import  | Added support for matching returned Direct Debits. The system will automatically identify and reverse matching transactions. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](@CB-243) | 61504 |
-| Payment Import  | Added support for reversing transactions based on returned Direct Debits. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](@CB-243) | 61505 |
-| Payment Import  | Support for Direct Debit Return Reasons added. Return reason descriptions are now visible. The feature can be enabled in the Continia Feature Management Page. See [Understanding return reason codes](@CB-241) | 61501 |
-| Payment Import  | Support for handling Direct Debit Returns added to reconciliation. See Continia Docs for more information. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](@CB-243) | 44147 |
-
-
+| Payment Export  | Added the option **Bank & PDF** to Remittance Handling. This option creates a PDF using standard document output, so browser defaults determine how the file is handled. For more information, see [Working with the remittance advice outbox](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-249/).                                                    | 65878 |
+| Payment Export  | A new notification alerts users about unsent remittance advice emails. Notifications are shown on: Payment Journals, Direct Debit Journals, and Payment Suggestions.                                                                                                                                                                                                               | 66436 |
+| Payment Import  | Added new publisher event `OnAfterFilterSearchRule` for codeunit 71554206 "CTS-PI Match Search Rules".                                                                                                                                                                                                                                                                             | 65989 |
+| Payment Import  | Added new publisher event `OnBeforeStartMatchingPaymentReconciliation` for codeunit 71554177 "CTS-PI Match Reconciliation".                                                                                                                                                                                                                                                        | 65986 |
+| Payment Import  | Added new publisher events `OnBeforeModifyGenJournalLine` and `OnBeforeModifyBankGenJournalLine` for codeunit 71554184 "CTS-PI Bank Recon Appl Entries". Also added `OnBeforeUpdateTempGenJournalLine`.                                                                                                                                                                            | 65988 |
+| Payment Import  | Added new publisher event `OnBeforeStartMatchingBankAccReconciliation` for codeunit 71554177 "CTS-PI Match Reconciliation".                                                                                                                                                                                                                                                        | 65978 |
+| Payment Import  | Added support for viewing posted reversed transactions from returned Direct Debits. The feature can be enabled in the Continia Feature Management Page. See [Introducing direct debit returns](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-241/)                                                                                                     | 66141 |
+| Payment Import  | Added support for matching returned Direct Debits. The system will automatically identify and reverse matching transactions. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-243/)                                                               | 61504 |
+| Payment Import  | Added support for reversing transactions based on returned Direct Debits. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-243/)                                                                                                                  | 61505 |
+| Payment Import  | Support for Direct Debit Return Reasons added. Return reason descriptions are now visible. The feature can be enabled in the Continia Feature Management Page. See [Understanding return reason codes](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-241/)                                                                                             | 61501 |
+| Payment Import  | Support for handling Direct Debit Returns added to reconciliation. See Continia Docs for more information. The feature can be enabled in the Continia Feature Management Page. See [Handling direct debit returns](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-243/)                                                                                 | 44147 |
 
 ### Bug fixes
 
-| Functional Area     | Title                                                        | ID    |
-| ------------------- | ------------------------------------------------------------ | ----- |
-| General Application | Updated error messages to include the URL and improved ETag retrieval logic. | 67114 |
+| Functional Area     | Title                                                                                                                                                                                                                                                                                                         | ID    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| General Application | Updated error messages to include the URL and improved ETag retrieval logic.                                                                                                                                                                                                                                  | 67114 |
 | Payment Export      | The Bank Account selection from Payment Posting Setup was not implemented correctly. Also, a missing filter for the payment method has been added. If at least one entry exists in the setup, the internal Bank Account No. field becomes visible. The system then retrieves the balance account accordingly. | 66931 |
-| Payment Import      | Long text entries are now split to prevent truncation during import of CAMT statements. | 66829 |
-| Payment Export      | Improved error message clarity when no entries are found for the payment balance account. | 66742 |
-
-
+| Payment Import      | Long text entries are now split to prevent truncation during import of CAMT statements.                                                                                                                                                                                                                       | 66829 |
+| Payment Export      | Improved error message clarity when no entries are found for the payment balance account.                                                                                                                                                                                                                     | 66742 |
 
 ## Continia Banking 2025 R1, Service Pack 1, hotfix 1
 
-*Release date, online: May 20, 2025*   
-*App version: 26.1.1*
+_Release date, online: May 20, 2025_\
+&#xNAN;_&#x41;pp version: 26.1.1_
 
 ### New functionality
 
-| Functional Area           | Title                                                        | ID    |
-| ------------------------- | ------------------------------------------------------------ | ----- |
+| Functional Area           | Title                                                                       | ID    |
+| ------------------------- | --------------------------------------------------------------------------- | ----- |
 | Payment and Cash Receipts | Added functionality to reset stuck payment approvals in transfer processes. | 66388 |
-
-
 
 ### Bug fixes
 
-| Functional Area | Title                                                        | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
-| Payment Export  | Fixed issue where the job queue status was incorrectly set to *On-Hold*. Also resolved the error when users without activation permissions could create job queues. | 66405 |
-| Payment Export  | Fixed intermittent error during posting preview. This issue occurred in document renumbering cases. | 65611 |
-| PSP             | Updated the PSP Header Card functionality to allow bulk updates. When selecting multiple lines, actions like changing *Imported to Company* can now be applied to all. | 65626 |
-| PSP             | The Payment Service Provider field is now auto-filled when selecting a number in the PSP Agreement column from the PSP overview. | 65627 |
-| PSP             | Fixed the issue where the External Reference field did not function correctly in Customer Ledger Entries. | 65985 |
+| Functional Area | Title                                                                                                                                                                  | ID    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Payment Export  | Fixed issue where the job queue status was incorrectly set to _On-Hold_. Also resolved the error when users without activation permissions could create job queues.    | 66405 |
+| Payment Export  | Fixed intermittent error during posting preview. This issue occurred in document renumbering cases.                                                                    | 65611 |
+| PSP             | Updated the PSP Header Card functionality to allow bulk updates. When selecting multiple lines, actions like changing _Imported to Company_ can now be applied to all. | 65626 |
+| PSP             | The Payment Service Provider field is now auto-filled when selecting a number in the PSP Agreement column from the PSP overview.                                       | 65627 |
+| PSP             | Fixed the issue where the External Reference field did not function correctly in Customer Ledger Entries.                                                              | 65985 |
 
 ## Continia Banking 2025 R1, Service Pack 1
 
-*Release date, online: May 9, 2025*   
-*App version: 26.1.0*
+_Release date, online: May 9, 2025_\
+&#xNAN;_&#x41;pp version: 26.1.0_
 
 ### New functionality
 
-| Functional Area     | Release Notes                                                | ID    |
-| ------------------- | ------------------------------------------------------------ | ----- |
-| General Application | Previously, all bank accounts were shown in the Payment Allocations. The list is now filtered to display only specific payment allocation accounts. | 65512 |
-| Payment Export      | Added [cost type](@CB-237) to the Purchase Order page, so it is now possible to edit it there as well. | 65485 |
-| Payment Export      | Customer, vendor, and employee templates were extended with payment-related fields relevant to Continia Banking. | 65891 |
-| Payment Import      | Improved the assignment of the Last Statement No. when creating a Bank Account Reconciliation or Payment Reconciliation. | 64610 |
-| Payment Import      | Improved assignment of Balance Last Statement on Bank Account Reconciliation or Payment Reconciliation when importing a bank account statement. | 64942 |
-| Payment Export      | Added [cost type](@CB-237) to Payment Method, so it's no longer necessary to define the cost type for all vendors. | 65484 |
-| Payment Export      | Created a job queue to update status in the payment journal. | 65954 |
-| Payment Export      | Changed Applies-To ID generation in Payment Export to use a unique reference to avoid confusion when multiple lines exist with the same document number. | 65947 |
-| Payment Export      | Resolved an issue in the standard No. Series functionality where non-sequential document numbers during posting could prevent the Last Document No. from being saved correctly. | 53845 |
-| Payment Import      | Added support for split rules [using a percentage](@CB-216). | 65290 |
-| Payment Import      | Enhanced creation of split rules to prevent creating a rule with an empty Code. | 65288 |
+| Functional Area     | Release Notes                                                                                                                                                                             | ID    |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| General Application | Previously, all bank accounts were shown in the Payment Allocations. The list is now filtered to display only specific payment allocation accounts.                                       | 65512 |
+| Payment Export      | Added [cost type](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-237/) to the Purchase Order page, so it is now possible to edit it there as well.             | 65485 |
+| Payment Export      | Customer, vendor, and employee templates were extended with payment-related fields relevant to Continia Banking.                                                                          | 65891 |
+| Payment Import      | Improved the assignment of the Last Statement No. when creating a Bank Account Reconciliation or Payment Reconciliation.                                                                  | 64610 |
+| Payment Import      | Improved assignment of Balance Last Statement on Bank Account Reconciliation or Payment Reconciliation when importing a bank account statement.                                           | 64942 |
+| Payment Export      | Added [cost type](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-237/) to Payment Method, so it's no longer necessary to define the cost type for all vendors. | 65484 |
+| Payment Export      | Created a job queue to update status in the payment journal.                                                                                                                              | 65954 |
+| Payment Export      | Changed Applies-To ID generation in Payment Export to use a unique reference to avoid confusion when multiple lines exist with the same document number.                                  | 65947 |
+| Payment Export      | Resolved an issue in the standard No. Series functionality where non-sequential document numbers during posting could prevent the Last Document No. from being saved correctly.           | 53845 |
+| Payment Import      | Added support for split rules [using a percentage](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-216/).                                                       | 65290 |
+| Payment Import      | Enhanced creation of split rules to prevent creating a rule with an empty Code.                                                                                                           | 65288 |
 
 ### Bug fixes
 
-| Functional Area | Release Notes                                                | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
-| Payment Export  | Fixed two issues in Payment Allocation handling. First, changes to fields like cost type on the main allocation header were not transferred to the linked header. Second, while editing lines, only certain fields (e.g., Payment Description) should be editable - amounts should not be changed. | 65492 |
-| Payment Export  | Fixed an issue where using Edit Payment Suggestion from the Payment Journal did not update all relevant fields and tables as expected. | 65804 |
-| Payment Export  | Resolved an issue where the selection filter in Payment Export did not function correctly. | 65818 |
-| Payment Export  | Fixed an error occurring when a USD bank account was set up in the Payment Balance Account Setup but the payment used an empty currency code (LCY = Euro). The system now allows creating lines without a balance account, but the user must manually enter the required information. | 65319 |
-| Payment Export  | Fixed an issue that caused an error when the allowed remittance line length was set to 0, while the number of allowed remittance lines was greater than 0. | 66046 |
-| Payment Export  | Fixed an issue where PAIN.008 (Direct Debit) files could not be sent using direct communication through Konfipay, despite the bank account being configured for direct communication. | 66015 |
-| Payment Export  | You can now [edit, add, or remove dimensions in Advanced Mode](@CB-240). If Summarize per account is enabled, use the existing action on the Payment Card. If not, use the new action on the subpage to access and edit dimensions per line. | 63449 |
-| Payment Import  | Fixed a bug that caused a runtime error during Related Party matching when the address information contained special characters. | 65800 |
-| Payment Import  | The document type Invoice is no longer used for applying entries. Instead, the document type Refund is used. | 65632 |
-| Payment Import  | In search and split rules, the document type can only be selected when the account type is G/L Account. | 65633 |
+| Functional Area | Release Notes                                                                                                                                                                                                                                                                                                       | ID    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Payment Export  | Fixed two issues in Payment Allocation handling. First, changes to fields like cost type on the main allocation header were not transferred to the linked header. Second, while editing lines, only certain fields (e.g., Payment Description) should be editable - amounts should not be changed.                  | 65492 |
+| Payment Export  | Fixed an issue where using Edit Payment Suggestion from the Payment Journal did not update all relevant fields and tables as expected.                                                                                                                                                                              | 65804 |
+| Payment Export  | Resolved an issue where the selection filter in Payment Export did not function correctly.                                                                                                                                                                                                                          | 65818 |
+| Payment Export  | Fixed an error occurring when a USD bank account was set up in the Payment Balance Account Setup but the payment used an empty currency code (LCY = Euro). The system now allows creating lines without a balance account, but the user must manually enter the required information.                               | 65319 |
+| Payment Export  | Fixed an issue that caused an error when the allowed remittance line length was set to 0, while the number of allowed remittance lines was greater than 0.                                                                                                                                                          | 66046 |
+| Payment Export  | Fixed an issue where PAIN.008 (Direct Debit) files could not be sent using direct communication through Konfipay, despite the bank account being configured for direct communication.                                                                                                                               | 66015 |
+| Payment Export  | You can now [edit, add, or remove dimensions in Advanced Mode](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-240/). If Summarize per account is enabled, use the existing action on the Payment Card. If not, use the new action on the subpage to access and edit dimensions per line. | 63449 |
+| Payment Import  | Fixed a bug that caused a runtime error during Related Party matching when the address information contained special characters.                                                                                                                                                                                    | 65800 |
+| Payment Import  | The document type Invoice is no longer used for applying entries. Instead, the document type Refund is used.                                                                                                                                                                                                        | 65632 |
+| Payment Import  | In search and split rules, the document type can only be selected when the account type is G/L Account.                                                                                                                                                                                                             | 65633 |
 
 ## Continia Banking 2025 R1, hotfix 1
 
-*Release date, online: April 23, 2025*   
-*App version: 26.0.1*
+_Release date, online: April 23, 2025_\
+&#xNAN;_&#x41;pp version: 26.0.1_
 
 ### Bug fixes
 
-| Functional Area     | Description                                                  | ID    |
-| ------------------- | ------------------------------------------------------------ | ----- |
-| General Application | Fixed an error during payment status updates when exporting files with multiple sender accounts. | 65533 |
-| Payment Export      | Fixed an issue where updating the payment method code via assisted setup didn't update related vendor or customer bank accounts. | 65350 |
-| Payment Export      | Changing **Amount to Pay** to zero in the payment suggestion line now correctly unapplies the line, as zero-amount lines cannot be paid. | 65787 |
-| Payment Export      | Corrected the displayed amount in remittance advice when discounts are applied. | 65848 |
-| Payment Export      | Improved filtering before validation to prevent validating lines in unrelated journals. | 65789 |
-| Payment Export      | Fixed an issue where the wrong Creditor No. was used in Advanced Payment Suggestion. | 65862 |
-| Payment Import      | The transaction text for a split rule’s additional child line is now also used during posting in the payment reconciliation journal. | 65344 |
-| Payment Import      | The system now shows a warning for incomplete Payment Reference Rules if the Domain Code, Family Code, or Sub-Family Code are not fully filled out. | 65590 |
+| Functional Area     | Description                                                                                                                                                                  | ID    |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| General Application | Fixed an error during payment status updates when exporting files with multiple sender accounts.                                                                             | 65533 |
+| Payment Export      | Fixed an issue where updating the payment method code via assisted setup didn't update related vendor or customer bank accounts.                                             | 65350 |
+| Payment Export      | Changing **Amount to Pay** to zero in the payment suggestion line now correctly unapplies the line, as zero-amount lines cannot be paid.                                     | 65787 |
+| Payment Export      | Corrected the displayed amount in remittance advice when discounts are applied.                                                                                              | 65848 |
+| Payment Export      | Improved filtering before validation to prevent validating lines in unrelated journals.                                                                                      | 65789 |
+| Payment Export      | Fixed an issue where the wrong Creditor No. was used in Advanced Payment Suggestion.                                                                                         | 65862 |
+| Payment Import      | The transaction text for a split rule’s additional child line is now also used during posting in the payment reconciliation journal.                                         | 65344 |
+| Payment Import      | The system now shows a warning for incomplete Payment Reference Rules if the Domain Code, Family Code, or Sub-Family Code are not fully filled out.                          | 65590 |
 | Payment Import      | Fixed an issue where using **Remove Match** on the Bank Acc. Reconciliation page didn't update the Reconciliation Status or delete the related Payment Application Proposal. | 65318 |
 
 ## Continia Banking 2025 R1
 
-*Release date, online: April 1, 2025*   
-*App version: 26.0.0*
+_Release date, online: April 1, 2025_\
+&#xNAN;_&#x41;pp version: 26.0.0_
 
 ### New functionality
 
-| Functional Area     | Description                                                  | ID    |
-| ------------------- | ------------------------------------------------------------ | ----- |
-| General Application | Added the product name to pages that share names with other apps. | 64667 |
-| General Application | Added a link for Continia Learn to Continia Hub and a Welcome video after completing Bank Account Setup. | 65322 |
-| Payment Export      | Added support for [importing camt.054 files](@CB-163) in the payment journal to update payment status to paid and get updated currency exchange rates. | 62745 |
-| Payment Export      | The Payment Inf. ID will now be a unique identifier instead of using the first End to End ID. This information will be transferred to all referenced entries, such as Bank Ledger Entry, G/L Entry, Customer Ledger Entry, and Vendor Ledger Entry. The End to End ID will also be transferred to detect related entries. | 64930 |
-| Payment Export      | [German regulatory reporting](@CB-210) is now integrated into banking export. You can set up the necessary information in the reporting setup to create reporting entries, which will be transferred to the Z4 file. | 63405 |
-| Payment Export      | You can enable **Payment Allocations** from the Continia Feature Management page. Currently, it supports allocating partial invoice amounts to alternative vendor bank accounts. | 63795 |
-| Payment Export      | Added [AML support](@CB-211) for Nordea Corporate Access.    | 62469 |
-| Payment Export      | The external document number is now displayed in the payment suggestion lines for vendor payments. | 64307 |
-| Payment Export      | Added support for Norway’s Anti-Money Laundering (AML) Act, allowing identity information to be included in payments using the standard approval flow. This enables banks to track payment initiators. | 62468 |
-| Payment Export      | Added an option to specify an [alternative beneficiary](@CB-218) in customer/vendor bank accounts. This information will be transferred into the file instead of using vendor/customer account details. | 63801 |
-| Payment Export      | Added the Applied Entry Currency Code to the list of Applied Entries, accessible from the Payment Suggestion list. | 64868 |
-| Payment Import      | Matching Bank Account Ledger Entries on posting date and amount is now available. The setting can be enabled on the [Banking Import Setup](@CB-14). | 44151 |
-| Payment Import      | Added support for [split rules](@CB-213) using a Search Text or a Fixed Amount. The feature can be enabled through Continia Feature Management. | 44144 |
-| Payment Import      | The label for Invalid Regex when testing Payment Reference Rules on the Payment Reference Rule Card Page now clearly states that the issue is due to the Validation Pattern Code. | 63196 |
+| Functional Area     | Description                                                                                                                                                                                                                                                                                                                                                                                                    | ID    |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| General Application | Added the product name to pages that share names with other apps.                                                                                                                                                                                                                                                                                                                                              | 64667 |
+| General Application | Added a link for Continia Learn to Continia Hub and a Welcome video after completing Bank Account Setup.                                                                                                                                                                                                                                                                                                       | 65322 |
+| Payment Export      | Added support for [importing camt.054 files](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-163/) in the payment journal to update payment status to paid and get updated currency exchange rates.                                                                                                                                                                                  | 62745 |
+| Payment Export      | The Payment Inf. ID will now be a unique identifier instead of using the first End to End ID. This information will be transferred to all referenced entries, such as Bank Ledger Entry, G/L Entry, Customer Ledger Entry, and Vendor Ledger Entry. The End to End ID will also be transferred to detect related entries.                                                                                      | 64930 |
+| Payment Export      | [German regulatory reporting](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-210/) is now integrated into banking export. You can set up the necessary information in the reporting setup to create reporting entries, which will be transferred to the Z4 file.                                                                                                                    | 63405 |
+| Payment Export      | You can enable **Payment Allocations** from the Continia Feature Management page. Currently, it supports allocating partial invoice amounts to alternative vendor bank accounts.                                                                                                                                                                                                                               | 63795 |
+| Payment Export      | Added [AML support](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-211/) for Nordea Corporate Access.                                                                                                                                                                                                                                                                               | 62469 |
+| Payment Export      | The external document number is now displayed in the payment suggestion lines for vendor payments.                                                                                                                                                                                                                                                                                                             | 64307 |
+| Payment Export      | Added support for Norway’s Anti-Money Laundering (AML) Act, allowing identity information to be included in payments using the standard approval flow. This enables banks to track payment initiators.                                                                                                                                                                                                         | 62468 |
+| Payment Export      | Added an option to specify an [alternative beneficiary](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-218/) in customer/vendor bank accounts. This information will be transferred into the file instead of using vendor/customer account details.                                                                                                                                 | 63801 |
+| Payment Export      | Added the Applied Entry Currency Code to the list of Applied Entries, accessible from the Payment Suggestion list.                                                                                                                                                                                                                                                                                             | 64868 |
+| Payment Import      | Matching Bank Account Ledger Entries on posting date and amount is now available. The setting can be enabled on the [Banking Import Setup](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-14/).                                                                                                                                                                                     | 44151 |
+| Payment Import      | Added support for [split rules](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-213/) using a Search Text or a Fixed Amount. The feature can be enabled through Continia Feature Management.                                                                                                                                                                                         | 44144 |
+| Payment Import      | The label for Invalid Regex when testing Payment Reference Rules on the Payment Reference Rule Card Page now clearly states that the issue is due to the Validation Pattern Code.                                                                                                                                                                                                                              | 63196 |
 | Payment Import      | Removed the Line Filter Dialog page in Bank Account Reconciliation. Previously, this dialog appeared when invoking actions like Set Manual Line, Remove Manual Line, Create Manual Journal, Create Journal Lines from Search Rule, and Transfer Differences. The dialog has been removed to simplify functionality, and the actions now use the selection filter of the bank statement lines sub-page instead. | 63650 |
-| Payment Import      | Added the PSP Module to enable file [import from third-party Payment Service Providers (PSPs)](@CB-209) such as eCommerce marketplaces and payment services. Customer payment files can now be imported directly from the PSP into the cash receipt journal. | 55833 |
-| Payment Import      | Cleaned up pages in the Import App and removed obsolete elements. | 63966 |
-| Payment Import      | Added a Payments to Import quick filter for CAMT54 on the Bank Transactions - Continia Banking page. | 64409 |
-| Payment Import      | Added a Payments to Import cue for CAMT54 on the Import Activities page in the Role Center. | 64410 |
+| Payment Import      | Added the PSP Module to enable file [import from third-party Payment Service Providers (PSPs)](../../../Continia%20Banking/New%20and%20planned/Detailed%20changelogs/@CB-209/) such as eCommerce marketplaces and payment services. Customer payment files can now be imported directly from the PSP into the cash receipt journal.                                                                            | 55833 |
+| Payment Import      | Cleaned up pages in the Import App and removed obsolete elements.                                                                                                                                                                                                                                                                                                                                              | 63966 |
+| Payment Import      | Added a Payments to Import quick filter for CAMT54 on the Bank Transactions - Continia Banking page.                                                                                                                                                                                                                                                                                                           | 64409 |
+| Payment Import      | Added a Payments to Import cue for CAMT54 on the Import Activities page in the Role Center.                                                                                                                                                                                                                                                                                                                    | 64410 |
 
 ### Bug fixes
 
-| Functional Area | Description                                                  | ID    |
-| --------------- | ------------------------------------------------------------ | ----- |
-| Payment Export  | The default language code in banking export setup (used for remittance advice creation) previously only applied to the filename. Now, the remittance content is also translated accordingly. | 64980 |
-| Payment Export  | The **Validate Payments** action in Payment Suggestion is now only active if **Validate Advanced Payment Suggestions** is enabled in Banking Export Setup. | 64147 |
-| Payment Export  | Fixed an issue where new errors related to incorrect posting dates in payment suggestions triggered a general error message but were not displayed in the FactBox. | 64008 |
-| Payment Export  | All approval entries are now deleted when using **Force Void Payment** in the Payment Journal. | 64113 |
-| Payment Export  | Fixed an issue in advance payment suggestions where the sender bank account was not recognized for FIK payments. | 65218 |
-| Payment Export  | Fixed an issue where updated rejected payments could still be processed. | 65345 |
-| Payment Export  | Fixed an issue where **Amount to Pay** did not work for remittance templates when using standard payment suggestions. | 64741 |
-| Payment Export  | Removed Denmark-specific functionality that added leading zeros to Bank Branch No. or Bank Account No. on bank accounts, vendor bank accounts, and customer bank accounts. | 63007 |
-| Payment Export  | Previously, if you entered a **Preferred Bank Account Code** on a vendor or customer card, it was impossible to remove it without encountering an error. This issue has been resolved, allowing you to clear the **Preferred Bank Account Code** without receiving the *Bank Account does not exist* error. | 64602 |
-| Payment Export  | Fixed an issue where payments with a manual payment method were incorrectly included when exporting or sending payments to the bank. | 64628 |
-| Payment Export  | Ensured that the mandate ID always matches the related bank account. Selecting a mismatched mandate will now trigger an error in Direct Debit Journal, Advanced Mode Payment Suggestion, Customer Ledger Entry, and Sales Invoice. | 65128 |
-| Payment Export  | Fixed an issue where remittance sending was not correctly executed when using the job queue. | 65130 |
-| Payment Export  | Ensured that alternative information fields for vendors/customers are always used together. If alternative information is set up, only those fields are used, and original fields are ignored. | 63410 |
-| Payment Export  | Fixed a validation error in the Create Payment action on the vendor ledger entries page, which previously caused a Bank Account No. not found issue. | 63457 |
-| Payment Export  | Added support for 731 validation for payment references exceeding 19 characters. | 65117 |
-| Payment Export  | The standard action for regulatory reporting codes in the Norwegian version is now hidden when using a banking export journal. | 65311 |
-| Payment Export  | Fixed an issue with the Credit/Debit indicator in Payment Status Entry. | 65352 |
+| Functional Area | Description                                                                                                                                                                                                                                                                                                               | ID    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Payment Export  | The default language code in banking export setup (used for remittance advice creation) previously only applied to the filename. Now, the remittance content is also translated accordingly.                                                                                                                              | 64980 |
+| Payment Export  | The **Validate Payments** action in Payment Suggestion is now only active if **Validate Advanced Payment Suggestions** is enabled in Banking Export Setup.                                                                                                                                                                | 64147 |
+| Payment Export  | Fixed an issue where new errors related to incorrect posting dates in payment suggestions triggered a general error message but were not displayed in the FactBox.                                                                                                                                                        | 64008 |
+| Payment Export  | All approval entries are now deleted when using **Force Void Payment** in the Payment Journal.                                                                                                                                                                                                                            | 64113 |
+| Payment Export  | Fixed an issue in advance payment suggestions where the sender bank account was not recognized for FIK payments.                                                                                                                                                                                                          | 65218 |
+| Payment Export  | Fixed an issue where updated rejected payments could still be processed.                                                                                                                                                                                                                                                  | 65345 |
+| Payment Export  | Fixed an issue where **Amount to Pay** did not work for remittance templates when using standard payment suggestions.                                                                                                                                                                                                     | 64741 |
+| Payment Export  | Removed Denmark-specific functionality that added leading zeros to Bank Branch No. or Bank Account No. on bank accounts, vendor bank accounts, and customer bank accounts.                                                                                                                                                | 63007 |
+| Payment Export  | Previously, if you entered a **Preferred Bank Account Code** on a vendor or customer card, it was impossible to remove it without encountering an error. This issue has been resolved, allowing you to clear the **Preferred Bank Account Code** without receiving the _Bank Account does not exist_ error.               | 64602 |
+| Payment Export  | Fixed an issue where payments with a manual payment method were incorrectly included when exporting or sending payments to the bank.                                                                                                                                                                                      | 64628 |
+| Payment Export  | Ensured that the mandate ID always matches the related bank account. Selecting a mismatched mandate will now trigger an error in Direct Debit Journal, Advanced Mode Payment Suggestion, Customer Ledger Entry, and Sales Invoice.                                                                                        | 65128 |
+| Payment Export  | Fixed an issue where remittance sending was not correctly executed when using the job queue.                                                                                                                                                                                                                              | 65130 |
+| Payment Export  | Ensured that alternative information fields for vendors/customers are always used together. If alternative information is set up, only those fields are used, and original fields are ignored.                                                                                                                            | 63410 |
+| Payment Export  | Fixed a validation error in the Create Payment action on the vendor ledger entries page, which previously caused a Bank Account No. not found issue.                                                                                                                                                                      | 63457 |
+| Payment Export  | Added support for 731 validation for payment references exceeding 19 characters.                                                                                                                                                                                                                                          | 65117 |
+| Payment Export  | The standard action for regulatory reporting codes in the Norwegian version is now hidden when using a banking export journal.                                                                                                                                                                                            | 65311 |
+| Payment Export  | Fixed an issue with the Credit/Debit indicator in Payment Status Entry.                                                                                                                                                                                                                                                   | 65352 |
 | Payment Export  | Fixed an issue in advanced mode where remittance information could not be added to payments. A new action is now available on Payment Suggestion Lines to access remittance information when payments are not summarized. If payments are summarized, the action should be used on the Payment Suggestion Header instead. | 64563 |
-| Payment Export  | Fixed an issue where running the Security Setup only displayed one Payment Journal Batch instead of all available batches. | 65073 |
-| Payment Import  | Fixed an issue where Banking Import fields and actions were not displayed after Business Central logged out due to inactivity. They are now properly restored after re-login. | 65264 |
-| Payment Import  | Bank Account Reconciliation Lines are now updated accordingly when a search rule is deleted. | 63703 |
-
-
-
-<style>
- .content table tr td:nth-child(1),
- .content table tr td:last-child {
- width: 210px;
- }
-
- .content table tr td:last-child {
- width: 75px;
- }
-</style>
+| Payment Export  | Fixed an issue where running the Security Setup only displayed one Payment Journal Batch instead of all available batches.                                                                                                                                                                                                | 65073 |
+| Payment Import  | Fixed an issue where Banking Import fields and actions were not displayed after Business Central logged out due to inactivity. They are now properly restored after re-login.                                                                                                                                             | 65264 |
+| Payment Import  | Bank Account Reconciliation Lines are now updated accordingly when a search rule is deleted.                                                                                                                                                                                                                              | 63703 |

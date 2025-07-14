@@ -1,0 +1,2 @@
+# Payment reconciliation journal
+
