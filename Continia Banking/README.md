@@ -1,6 +1,6 @@
 ---
 title: Meet Continia Banking 
-date: 26-03-2025
+date: 14-07-2025
 description: Welcome page with general information about Continia Banking Docs.
 id: CB-01
 lang: en
@@ -14,16 +14,7 @@ Embedded within Business Central, Continia Banking offers an intuitive user expe
 
 For an overview of the available modules and their features, read the [Business Functionality Continia Banking](@CB-144) article. 
 
-<div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe 
-    src="https://player.vimeo.com/video/1060111157?h=b2a2b22486&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-    frameborder="0" 
-    allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-    title="Continia Banking Introduction">
-  </iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
+{% embed url="https://player.vimeo.com/video/1060111157?h=b2a2b22486&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" %}
 
 ## [New and planned](@CB-85)
 
