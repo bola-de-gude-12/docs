@@ -12,8 +12,7 @@ Document Capture is an end-to-end solution for Microsoft Dynamics 365 Business C
 
 For an overview of the available modules and their features, see [Business Functionality](../Continia%20Document%20Capture/@DC-49/).
 
-\
-
+{% embed url="https://player.vimeo.com/video/865548640?h=e083c6692e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" %}
 
 ## [Release plan](../Continia%20Document%20Capture/@DC-56/)
 
