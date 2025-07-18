@@ -1,41 +1,21 @@
+# us
+
 In the United States, electronic invoicing is commonly understood as the practice of not printing and mailing invoices via traditional postal services. However, the move towards structured data invoicing began in 2015, when the US Government mandated that federal agencies transition to issuing electronic invoices for goods or services by the end of 2018. To meet this requirement, agencies had to adopt electronic invoicing systems capable of generating, transmitting, receiving, and storing invoices digitally.
 
-The Business Payment Coalition (BPC) conducted a pilot project until 2022 to explore electronic invoicing and establish a business-to-business (B2B) electronic invoicing system in the US. This initiative led to the formation of the Digital Business Networks Alliance (DBNAlliance), which operates similarly to the Peppol organization, employing a 4-corner business model with access points and standardized transportation protocols. The DBNAlliance functions independently and is not linked to the global OpenPeppol Network. While specific formats within this network are not mandated, adherence to the Universal Business Language (UBL) standard is required.<br>
-
-| Transaction Type | **Current Regulatory State**                                 | **Regulatory Outlook**                                       |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| B2G              | Only mandatory on the issuing side for specific federal agencies. </br><br />{{checkmark}} *Supported by Document Capture.*<a href="#footnote-1"><sup>1</sup></a> | No changes are expected.                                     |
-| B2B              | No legislation is in place.</br><br />No updates since late 2022 when the pilot project was completed and DBNAlliance Network was considered the operational B2B system in the United States.<br/><br/>To exchange electronic invoices between two parties, the exchange method and format must be agreed among them.<br /><br />{{checkmark}} *Supported by Document Capture.*<a href="#footnote-2"><sup>2</sup></a><br />{{checkmark}} *Supported by Document Output.*<a href="#footnote-2"><sup>2</sup></a> | No timeline specified.<br/><br/>*Planned to be supported by Document Capture.* |
-| B2C              | No legislation is in place.                                  | No changes are expected.                                     |
-
-<small style>
-
-<div class="footnotes">
-  <hr />
-  <ol>    
-          <li id="footnote-1">UBL format can be received by email and imported to Document Capture .</li>
-          <li id="footnote-2">Peppol eDelivery Network and Peppol BIS 3.0 is supported.</li>
+The Business Payment Coalition (BPC) conducted a pilot project until 2022 to explore electronic invoicing and establish a business-to-business (B2B) electronic invoicing system in the US. This initiative led to the formation of the Digital Business Networks Alliance (DBNAlliance), which operates similarly to the Peppol organization, employing a 4-corner business model with access points and standardized transportation protocols. The DBNAlliance functions independently and is not linked to the global OpenPeppol Network. While specific formats within this network are not mandated, adherence to the Universal Business Language (UBL) standard is required.\
 
 
+| Transaction Type | **Current Regulatory State**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Regulatory Outlook**                                                                     |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| B2G              | <p>Only mandatory on the issuing side for specific federal agencies.<br><br>{{checkmark}} <em>Supported by Document Capture.</em><a href="us.md#footnote-1"><sup>1</sup></a></p>                                                                                                                                                                                                                                                                                                                                                   | No changes are expected.                                                                   |
+| B2B              | <p>No legislation is in place.<br><br>No updates since late 2022 when the pilot project was completed and DBNAlliance Network was considered the operational B2B system in the United States.<br><br>To exchange electronic invoices between two parties, the exchange method and format must be agreed among them.<br><br>{{checkmark}} <em>Supported by Document Capture.</em><a href="us.md#footnote-2"><sup>2</sup></a><br>{{checkmark}} <em>Supported by Document Output.</em><a href="us.md#footnote-2"><sup>2</sup></a></p> | <p>No timeline specified.<br><br><em>Planned to be supported by Document Capture.</em></p> |
+| B2C              | No legislation is in place.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | No changes are expected.                                                                   |
 
+***
 
+1. UBL format can be received by email and imported to Document Capture .
+2. Peppol eDelivery Network and Peppol BIS 3.0 is supported.
 
-  </ol>
-</div>
-</small>
+### Additional information
 
-## Additional information
-On April 5th, 2024, the European Union and the United States signed a joint declaration to improve the interoperability of electronic invoicing between the regions. This agreement aims to facilitate the exchange of electronic documents between European and American access points, without any additional costs. The format of the documents exchanged must comply with EN standards. 
-
-
-<style>
-  .content table tr td:nth-child(1) {
-    width: 120px;
-  }
-  .content table tr td:nth-child(2) {
-    width: 225px;
-  }
-  .content table tr td:nth-child(3) {
-    width: 225px;
-  }  
-</style>
+On April 5th, 2024, the European Union and the United States signed a joint declaration to improve the interoperability of electronic invoicing between the regions. This agreement aims to facilitate the exchange of electronic documents between European and American access points, without any additional costs. The format of the documents exchanged must comply with EN standards.
