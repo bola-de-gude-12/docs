@@ -271,7 +271,7 @@
   * [Web Approval Portal](new-and-planned/web-approval-portal/README.md)
     * [Optimized Export of Users - Part 2](<New and Planned/Web Approval Portal/Optimized export of users – part 2.md>)
     * [Support for OData v4 for the Continia Web Approval Portal](<New and Planned/Web Approval Portal/Support for OData V4 for the Continia Web Approval Portal.md>)
-* [Getting Started](getting-started/README.md)
+* [Getting started](getting-started/README.md)
   * [Billing, Consumption, and Transactions](<Getting Started/Billing, consumption, and transactions.md>)
   * [Business functionality](<Getting Started/Business Functionality.md>)
   * [Continia Hub](<Getting Started/Continia Hub.md>)
@@ -672,3 +672,4 @@
       * [Minimum requirements for using Document Capture (online)](<Development and Administration/Online/Minimum Requirements/Overview.md>)
     * [Update](development-and-administration/online/update/README.md)
       * [Updating Continia Document Capture](<Development and Administration/Online/Update/Updating Document Capture.md>)
+* [Reusable content test (DC)](reusable-content-test-dc.md)
