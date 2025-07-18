@@ -1,0 +1,1 @@
+![Application Menu](/images/applicationmenuicon.png)

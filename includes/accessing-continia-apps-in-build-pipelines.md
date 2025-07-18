@@ -1,0 +1,1 @@
+To learn how to install Continia apps in your build pipelines via Continia's NuGet package feed, see [Accessing Continia apps in build pipelines](https://continia.zendesk.com/hc/en-us/articles/24406183570194-Accessing-Continia-apps-in-build-pipelines) (Continia Help Center article).

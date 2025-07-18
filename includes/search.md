@@ -1,0 +1,1 @@
+![Search](/images/search_small.png)

@@ -1,0 +1,1 @@
+![Discard](/images/copilot-delete-trash-can.png)
