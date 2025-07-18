@@ -254,3 +254,4 @@
 * [Compliance](compliance/README.md)
   * [Compliance](Compliance/Compliance.md)
   * [Managing your Continia Banking Data](<Compliance/Managing your cb data.md>)
+* [Reusable content test (CB)](reusable-content-test-cb.md)
