@@ -1,14 +1,13 @@
 ---
 title: Upgrading Customized C/AL Versions of Expense Management
 date: 09-07-2025
-description:  
 id: EM-252
 lang: en
 ---
 
 # Upgrading customized C/AL versions of Expense Management
 
-The upgrade of Continia Document Capture and Continia Expense Management from C/AL code customizations to AL extensions is based on the standard Microsoft upgrade process, as described in [this guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-to-microsoft-base-app-v24). The text below functions as a sort of add-on to this guide, detailing all [additional prerequisites](#prerequisites) and any [Continia-specific steps to be taken](#upgrade-process) for each task in the Microsoft guide.
+The upgrade of Continia Document Capture and Continia Expense Management from C/AL code customizations to AL extensions is based on the standard Microsoft upgrade process, as described in [this guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-to-microsoft-base-app-v24). The text below functions as a sort of add-on to this guide, detailing all [additional prerequisites](<Upgrading customized CAL versions of Expense Management.md#prerequisites>) and any [Continia-specific steps to be taken](<Upgrading customized CAL versions of Expense Management.md#upgrade-process>) for each task in the Microsoft guide.
 
 Note that you must upgrade both Document Capture and Expense Management at the same time. To upgrade your C/AL versions of these apps to AL extensions, you must upgrade to Business Central 2024 release wave 1 (BC v24) in accordance with the Microsoft guide referenced above.
 
@@ -19,8 +18,7 @@ Note that you must upgrade both Document Capture and Expense Management at the s
 
 ## Upgrade process
 
-> [!IMPORTANT]
-> To ensure a consistent migration to BC v24, Expense Management *must* be installed even if it isn't used in the database. When the migration is complete, you can uninstall Expense Management again if you want.
+> \[!IMPORTANT] To ensure a consistent migration to BC v24, Expense Management _must_ be installed even if it isn't used in the database. When the migration is complete, you can uninstall Expense Management again if you want.
 
 The numbered tasks mentioned below all refer to the tasks of the Microsoft guide [Upgrading Customized C/AL Application to Microsoft Base Application version 24](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-to-microsoft-base-app-v24). All of these tasks deal with third-party extensions, which in this case means the five Continia apps Document Capture, Expense Management, Continia Core, Continia Delivery Network, and Continia Business Foundation. For each of the tasks, you must perform the actions described:
 
@@ -45,14 +43,15 @@ In this task, you must create two versions of an extension that consists only of
 In step 2 of this task, publish the following five extensions in the order given:
 
 1. Continia Core
-1. Continia Business Foundation
-1. Continia Delivery Network
-1. Continia Document Capture
-1. Continia Expense Management
+2. Continia Business Foundation
+3. Continia Delivery Network
+4. Continia Document Capture
+5. Continia Expense Management
 
-To do this, run the following commands, where "\<path to extension\>" is the path to the location where the empty extensions downloaded in [task 4 above](#task-4-create-empty-system-base-and-customization-extensions) have been saved:
+To do this, run the following commands, where "\<path to extension>" is the path to the location where the empty extensions downloaded in [task 4 above](<Upgrading customized CAL versions of Expense Management.md#task-4-create-empty-system-base-and-customization-extensions>) have been saved:
 
-<br>
+\
+
 
 ```
 Publish-NAVApp -ServerInstance <server instance name> -Path "<path to extension>\Continia Core"
@@ -66,7 +65,8 @@ Publish-NAVApp -ServerInstance <server instance name> -Path "<path to extension>
 
 In step 4 of this task, run the following commands:
 
-<br>
+\
+
 
 ```
 Sync-NAVApp -ServerInstance <server instance name> -Name “Continia Core”
@@ -80,7 +80,8 @@ Sync-NAVApp -ServerInstance <server instance name> -Name “Continia Expense Man
 
 In step 3 of this task, install the Continia apps in your system, and move data from the old tables to the new tables owned by the table migration extension.
 
-<br>
+\
+
 
 ```
 Install-NAVApp -ServerInstance <server instance name> -Name “Continia Core”
@@ -92,9 +93,10 @@ Install-NAVApp -ServerInstance <server instance name> -Name “Continia Expense 
 
 ### Task 13: Publish final extensions
 
-In step 5 of this task, run the following commands, where "\<path to extension\>" is the path to the location where you saved the extensions that you created in task 3 of the [Microsoft guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-to-microsoft-base-app-v22):
+In step 5 of this task, run the following commands, where "\<path to extension>" is the path to the location where you saved the extensions that you created in task 3 of the [Microsoft guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-to-microsoft-base-app-v22):
 
-<br>
+\
+
 
 ```
 Publish-NAVApp -ServerInstance <server instance name> -Path "<path to extension>\Continia Core"
@@ -108,7 +110,8 @@ Publish-NAVApp -ServerInstance <server instance name> -Path "<path to extension>
 
 In this task, run the following commands:
 
-<br>
+\
+
 
 ```
 Sync-NAVApp -ServerInstance <server instance name> -Name “Continia Core”
@@ -122,7 +125,8 @@ Sync-NAVApp -ServerInstance <server instance name> -Name “Continia Expense Man
 
 In this task, run the following commands:
 
-<br>
+\
+
 
 ```
 Start-NAVAppDataUpgrade -ServerInstance <server instance name> -Name “Continia Core”
@@ -134,4 +138,4 @@ Start-NAVAppDataUpgrade -ServerInstance <server instance name> -Name “Continia
 
 ## Related information
 
-[Migrating Expense Management from Business Central On-Premises to Cloud](@EM-112)  
+[Migrating Expense Management from Business Central On-Premises to Cloud](../../../../Continia%20Expense%20Management/Development%20and%20Administration/On-Premises/Upgrade/@EM-112/)

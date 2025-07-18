@@ -1,7 +1,8 @@
 ---
-title: Expense Management Automated Data Upgrade from Versions 8.00–11.00 to Version 12.00
+title: >-
+  Expense Management Automated Data Upgrade from Versions 8.00–11.00 to Version
+  12.00
 date: 27-03-2025
-description:
 lang: en
 ---
 
@@ -9,32 +10,32 @@ lang: en
 
 With Document Capture version 12.00 and Expense Management version 12.00, Continia Software is releasing a combined upgrade guide that our partners can use to upgrade Document Capture 8.00–11.00, Expense Management 8.00–11.00 or a system with both Document Capture 8.00–11.00 and Expense Management 8.00–11.00 installed.
 
-> [!IMPORTANT]
-> Note that Document Capture 2023 R1 (12.00) is only available if you're using one of the following versions of Business Central (BC):
+> \[!IMPORTANT] Note that Document Capture 2023 R1 (12.00) is only available if you're using one of the following versions of Business Central (BC):
 >
 > * Business Central 2023 release wave 2 (BC v23)
 > * Business Central 2023 release wave 1 (BC v22)
 > * Business Central 2022 release wave 2 (BC v21)
-> * Business Central April 2019 (v14, FOB-based)
-> This means that clients using older NAV/BC versions will not be able to upgrade to DC12.00. Instead, they must upgrade to DC8.00, as this version will continue to be supported with service packs.
+> * Business Central April 2019 (v14, FOB-based) This means that clients using older NAV/BC versions will not be able to upgrade to DC12.00. Instead, they must upgrade to DC8.00, as this version will continue to be supported with service packs.
 
 This upgrade guide describes the upgrade of Document Capture and Expense Management using the more automated Data Upgrade on BC14.
 
-If you are looking for the manual Pre and Post Upgrade process, refer to [Manual Upgrade from Versions 8.00–11.00 to Version 12.00](Manual upgrade.md).
+If you are looking for the manual Pre and Post Upgrade process, refer to \[Manual Upgrade from Versions 8.00–11.00 to Version 12.00]\(Manual upgrade.md).
 
 If you are using Document Capture or Expense Management in Microsoft Business Central Cloud, the main upgrade will be performed automatically when you install Document Capture 12.00 and/or Expense Management 12.00.
 
-Migration from FOB-based version of NAV/BC to On-Premises Extension and/or Cloud: See [Upgrading NAV/Business Central with Expense Management Installed](@EM-107) and [Migrating Expense Management from Business Central On-Premises to Cloud](@EM-112).
+Migration from FOB-based version of NAV/BC to On-Premises Extension and/or Cloud: See [Upgrading NAV/Business Central with Expense Management Installed](../../../../../../../Continia%20Expense%20Management/Development%20and%20Administration/On-Premises/Upgrade/Expense%20Management%202023%20R2%20\(FOB\)/Application%20and%20data/From%20versions%208.00%E2%80%9311.00/@EM-107/) and [Migrating Expense Management from Business Central On-Premises to Cloud](../../../../../../../Continia%20Expense%20Management/Development%20and%20Administration/On-Premises/Upgrade/Expense%20Management%202023%20R2%20\(FOB\)/Application%20and%20data/From%20versions%208.00%E2%80%9311.00/@EM-112/).
 
 This upgrade guide can be used with the following versions of Document Capture and Expense Management:
 
 **Document Capture**
+
 * Document Capture 8.00 with any service pack
 * Document Capture 9.00 with any service pack
 * Document Capture 10.00 with any service pack
 * Document Capture 11.00 with any service pack
 
 **Expense Management**
+
 * Expense Management 8.00 with any service pack
 * Expense Management 9.00 with any service pack
 * Expense Management 10.00 with any service pack
@@ -48,7 +49,7 @@ If Document Capture and Expense Management are not already installed, you should
 
 ## Task 1: Check minimum version requirements
 
-Ensure the current system is running one of the supported versions of Document Capture or Expense Management listed in the summary section. If not, it is very important you follow the upgrade guide from an earlier version to DC8.00–11.00 and/or EM8.00–11.00. Previous upgrade guides can be found [here](../../../expense-management-2023-r2-fob).
+Ensure the current system is running one of the supported versions of Document Capture or Expense Management listed in the summary section. If not, it is very important you follow the upgrade guide from an earlier version to DC8.00–11.00 and/or EM8.00–11.00. Previous upgrade guides can be found [here](../../../../../../../Continia%20Expense%20Management/Development%20and%20Administration/On-Premises/Upgrade/expense-management-2023-r2-fob/).
 
 ## Task 2: Import updated Business Central license file
 
@@ -61,22 +62,20 @@ After the upgrade, you must use a new/updated customer license file from Microso
 If you have modified your customer's system, then check if any of the modified objects conflict with Document Capture or Expense Management objects and merge if necessary. You should merge objects in a test system, so they are ready to be imported later in the upgrade process.
 
 ## Task 4: Upgrade server components
+
 You must perform all installations described below from the Setup executable, located in the root of the product folder (Setup.exe).
 
-> [!NOTE]
-> The installer will update the add-ins folder (Client and/or Server) in the standard installation path. Therefore, if your installation path differs from the standard Microsoft path, make sure to copy the new add-in folder to the folder your installation resides in.
+> \[!NOTE] The installer will update the add-ins folder (Client and/or Server) in the standard installation path. Therefore, if your installation path differs from the standard Microsoft path, make sure to copy the new add-in folder to the folder your installation resides in.
 
 To upgrade your server components, follow the guide below:
 
-| Version | Guide |
-| --- | --- |
-| BC14 | Only perform the following steps if you are using Business Central April 2019 (BC14): <ol><li>Stop &ldquo;Business Central Server Server&rdquo;.</li><li>Uninstall &ldquo;Document Capture RTC Server Components&rdquo;.&nbsp;</li><li>Install &ldquo;Document Capture RTC Server Components&rdquo;.</li><li>If you haven't installed the Microsoft Business Central Server in the default location, you must move the Add-ins manually from the default location to the current location of your installation.</li><li>Start &ldquo;Microsoft Business Central Server&rdquo;.</li></ol> |
-
+| Version | Guide                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BC14    | <p>Only perform the following steps if you are using Business Central April 2019 (BC14):</p><ol><li>Stop “Business Central Server Server”.</li><li>Uninstall “Document Capture RTC Server Components”. </li><li>Install “Document Capture RTC Server Components”.</li><li>If you haven't installed the Microsoft Business Central Server in the default location, you must move the Add-ins manually from the default location to the current location of your installation.</li><li>Start “Microsoft Business Central Server”.</li></ol> |
 
 ## Task 5: Update Business Central objects and data
 
-> [!IMPORTANT]
-> Before doing object modifications or starting the data upgrade, make sure to back up the database.
+> \[!IMPORTANT] Before doing object modifications or starting the data upgrade, make sure to back up the database.
 
 Import the new DC12.00 / EM12.00 objects from the product folder. Some objects may show a warning during import as some parts of the new Version List has changed format. Use “**Replace All**” in Import Worksheet. Set Synchronize Schema to “**Later**” during object import.
 
@@ -95,22 +94,23 @@ The Data Upgrade process should complete without any errors.
 
 ### Data upgrade troubleshooting
 
-1. In case the Data Upgrade fails, you will have to run the Get-NAVDataUpgrade [ServerInstance] -ErrorOnly powershell command to find out what the actual error is or use the debugger with “Debug Next”.
-1. If the Error message looks like “Function 'UpdatePerDatabase' in the upgrade codeunit '6086106' has failed because of the following error: 'A call to System.Net.WebClient.DownloadData failed with this message: The remote server returned an error: (404) Not Found.'.” this means that there is a problem downloading the Control Add-in resources. This problem can occur when our services are down, or it could be a server Firewall problem.
-1. You can choose to try again by Running Tools -> “Data Upgrade” -> “Resume…”.
-1. If the same error is thrown, you can Design Codeunit 6086106 and comment the following line of code:  CODEUNIT.RUN(CODEUNIT::"CDC Capture RTC Library");
-1. Then Run Tools -> “Data Upgrade” -> “Resume…”.
-1. This will skip the downloading of the Control Add-in when upgrading therefore you must download them manually after the Data Upgrade from Document Capture Setup page: On the **Actions** tab, select **Import Continia Web Client Add-Ins** and **Import Client Add-Ins** to import all relevant add-ins.
+1. In case the Data Upgrade fails, you will have to run the Get-NAVDataUpgrade \[ServerInstance] -ErrorOnly powershell command to find out what the actual error is or use the debugger with “Debug Next”.
+2. If the Error message looks like “Function 'UpdatePerDatabase' in the upgrade codeunit '6086106' has failed because of the following error: 'A call to System.Net.WebClient.DownloadData failed with this message: The remote server returned an error: (404) Not Found.'.” this means that there is a problem downloading the Control Add-in resources. This problem can occur when our services are down, or it could be a server Firewall problem.
+3. You can choose to try again by Running Tools -> “Data Upgrade” -> “Resume…”.
+4. If the same error is thrown, you can Design Codeunit 6086106 and comment the following line of code: CODEUNIT.RUN(CODEUNIT::"CDC Capture RTC Library");
+5. Then Run Tools -> “Data Upgrade” -> “Resume…”.
+6. This will skip the downloading of the Control Add-in when upgrading therefore you must download them manually after the Data Upgrade from Document Capture Setup page: On the **Actions** tab, select **Import Continia Web Client Add-Ins** and **Import Client Add-Ins** to import all relevant add-ins.
 
 ## Task 7: Upgrade client components
 
 To upgrade your client components, follow the guide below:
 
-<br>
+\
 
-| Version | Guide |
-| --- | --- |
-| BC14 | <ol><li>Uninstall &ldquo;Document Capture RTC Client&rdquo;.</li><li>Uninstall &rdquo;Document Capture RTC Components (Scanner)&rdquo;.</li><li>Client Add-ins are now automatically distributed to all Business Central clients when needed.</li></ol> |
+
+| Version | Guide                                                                                                                                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BC14    | <ol><li>Uninstall “Document Capture RTC Client”.</li><li>Uninstall ”Document Capture RTC Components (Scanner)”.</li><li>Client Add-ins are now automatically distributed to all Business Central clients when needed.</li></ol> |
 
 ## Task 8: Delete unused application and upgrade objects
 
@@ -124,33 +124,21 @@ This will ensure that all objects compile and that the upgrade is not inadvertib
 
 The objects below are deleted in code, it is therefore not necessary to delete them manually.
 
-* Pages: <br> 6225210|6225211
-* Codeunits: <br> 6086047
+* Pages:\
+  6225210|6225211
+* Codeunits:\
+  6086047
 
 The tables below are cleared of content but need to be manually removed:
 
-* Tables: <br> 6086204|6086205|6086206|6086207|6086208
+* Tables:\
+  6086204|6086205|6086206|6086207|6086208
 
 ## Task 9: Update the Continia Web Approval Portal
 
 To update the Continia Web Approval Portal, follow these steps:
 
 1. Compile all Document Capture and Expense Management objects (Version List filter \*DC\*|\*EM\*|\*CC\*|\*DN\*).
-1. Run the function “Create Web Services” from the Continia Web Portal list. It is only required to run this function in one company.
-1. If you continue to use Continia Web Portal on-premises, then create a new website in IIS or update the existing one.
-1. Run the function “Export Users” to export web users from the Continia Users page in Business Central.
-
-
-
-
-
-
-
-<style>
-  .content table tr td:nth-child(1) {
-    width: 130px;
-  }
-  .content table tr td:nth-child(2) {
-    width: 600px;
-  }  
-</style>
+2. Run the function “Create Web Services” from the Continia Web Portal list. It is only required to run this function in one company.
+3. If you continue to use Continia Web Portal on-premises, then create a new website in IIS or update the existing one.
+4. Run the function “Export Users” to export web users from the Continia Users page in Business Central.

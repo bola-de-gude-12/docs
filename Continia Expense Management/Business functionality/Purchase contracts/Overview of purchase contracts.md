@@ -1,7 +1,6 @@
 ---
 title: Expense Management Overview of Purchase Contracts
 date: 01-04-2023
-description:  
 id: EM-130
 lang: en
 ---
@@ -14,14 +13,15 @@ All contracts can be reviewed easily and on a recurring basis, so that you're al
 
 To learn more about the module and how it works, see the list of useful links in the table below:
 
-<br>
+\
 
-| To | See |
-| --- | --- |
-| Create a purchase contract, either from scratch or from an expense | [Creating Purchase Contracts](@EM-131) |
-| Get familiar with the review process and learn how to send contracts for review, submit reviews, and finish reviews | [Purchase Contract Reviews](@EM-132) |
-| Have contract expenses approved automatically by Expense Management | [Approving Expenses Based on a Contract](@EM-133) |
-| View the history of a purchase contract for statistical or other purposes | [Viewing the Purchase Contract Archive](@EM-134) |
+
+| To                                                                                                                  | See                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Create a purchase contract, either from scratch or from an expense                                                  | [Creating Purchase Contracts](../../../Continia%20Expense%20Management/Business%20functionality/Purchase%20contracts/@EM-131/)            |
+| Get familiar with the review process and learn how to send contracts for review, submit reviews, and finish reviews | [Purchase Contract Reviews](../../../Continia%20Expense%20Management/Business%20functionality/Purchase%20contracts/@EM-132/)              |
+| Have contract expenses approved automatically by Expense Management                                                 | [Approving Expenses Based on a Contract](../../../Continia%20Expense%20Management/Business%20functionality/Purchase%20contracts/@EM-133/) |
+| View the history of a purchase contract for statistical or other purposes                                           | [Viewing the Purchase Contract Archive](../../../Continia%20Expense%20Management/Business%20functionality/Purchase%20contracts/@EM-134/)  |
 
 The module works with Continia Document Capture and Continia Expense Management and may involve purchase documents (invoices and credit memos) and/or expenses, each of which can be linked to a purchase contract. The list of different types of contracts and subscriptions that you can favorably manage using the module is virtually endless. It includes, but is in no way limited to, the following:
 
