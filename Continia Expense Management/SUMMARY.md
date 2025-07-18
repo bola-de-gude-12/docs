@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Notice about Documentation and Website Usage](README.md)
-* [Welcome to Continia Expense Management](index.md)
+* [Welcome to Continia Expense Management](README.md)
 * [New and planned](new-and-planned/README.md)
   * [Release plan for Continia Expense Management](<New and Planned/Overview.md>)
   * [Credit Card Transactions](new-and-planned/credit-card-transactions/README.md)
