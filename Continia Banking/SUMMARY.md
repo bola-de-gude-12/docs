@@ -60,7 +60,6 @@
 * [Banks](banks/README.md)
   * [Managing tokens and certificates](<Banks/Managing tokens and certificates.md>)
   * [Overview of supported banks](Banks/Overview.md)
-  * [Overview of supported banks (Airtable test)](banks/overview-1.md)
   * [Continia Banking supported bank files](<Banks/supported bank files.md>)
   * [Onboarding banks](banks/onboarding-banks/README.md)
     * [Onboarding Bank Connect banks with direct communication](<Banks/Onboarding banks/Onboarding Bank Connect banks.md>)
