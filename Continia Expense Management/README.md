@@ -11,7 +11,7 @@ Expense Management is an end-to-end solution for Microsoft Dynamics 365 Business
 
 For an overview of the available modules and their features, see [Business Functionality](../Continia%20Expense%20Management/@EM-69/).
 
-{% embed url="https://player.vimeo.com/video/865549893?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" %}
+{% embed url="https://player.vimeo.com/video/865549893?badge=0&autopause=0&player_id=0&app_id=58479" %}
 
 ## [New and planned](../Continia%20Expense%20Management/@EM-78/)
 
@@ -46,7 +46,9 @@ Navigating through Expense Management's wealth of documentation? Here's a high-l
 * Want to know about Expense Management's key features? Read the [Business Functionality](../Continia%20Expense%20Management/@EM-290/) overview.
 * To find in-depth information on technical topics, refer to the \[Development and Administration]\(Development and Administration/Overview.md) section.
 
-> \[!NOTE] The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% hint style="info" %}
+The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% endhint %}
 
 ## [Need help?](../Continia%20Expense%20Management/@EM-242/)
 
