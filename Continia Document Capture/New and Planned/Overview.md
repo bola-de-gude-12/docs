@@ -1,6 +1,6 @@
 ---
 title: Release plan for Document Capture
-date: 17-10-2025
+date: 28-10-2025
 description: The Document Capture roadmap provides an overview of upcoming functionality.
 id: DC-56
 lang: en
@@ -13,7 +13,7 @@ lang: en
 | Feature                                                      |     Public preview     |                     General availability                     |
 | ------------------------------------------------------------ | :--------------------: | :----------------------------------------------------------: |
 | [eDocuments first](@DC-467)                                  | {{checkmark}} Sep 2025 |                    {{checkmark}} Sep 2025                    |
-| [Support for the SimplerInvoicing format in the Netherlands](Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md) | {{checkmark}} Sep 2025 | {{checkmark}} Sep 2025<a href="#footnote-7"><sup>7</sup></a> |
+| [Support for the SimplerInvoicing format in the Netherlands](@DC-419) | {{checkmark}} Sep 2025 | {{checkmark}} Sep 2025<a href="#footnote-7"><sup>7</sup></a> |
 | [Option to embed PDF files](@DC-465)                         | {{checkmark}} Sep 2025 |                    {{checkmark}} Oct 2025                    |
 | [Lookup in template field translations](@DC-468)             | {{checkmark}} Sep 2025 |                    {{checkmark}} Oct 2025                    |
 | [Processing documents with rounding issues](@DC-469)         | {{checkmark}} Sep 2025 |                    {{checkmark}} Oct 2025                    |
@@ -21,16 +21,16 @@ lang: en
 | [Support for Business Central's sustainability feature](@DC-322) | {{checkmark}} Sep 2025 |                    {{checkmark}} Oct 2025                    |
 | [eDocument validation](@DC-466)                              |           -            |        Nov 2025<a href="#footnote-9"><sup>9</sup></a>        |
 | [Support for the FA(3) format in Poland](@DC-417)            |           -            |       Nov 2025<a href="#footnote-10"><sup>10</sup></a>       |
-| [Support for OData V4 for the Continia Web Approval Portal](Web Approval Portal/Support for OData V4 for the Continia Web Approval Portal.md) |           -            |          N/A<a href="#footnote-1"><sup>1</sup></a>           |
-| [One email for all companies to notify about open approval entries](Document Approval/One email for all companies to notify about open approval entries.md) |           -            |          N/A<a href="#footnote-1"><sup>1</sup></a>           |
-| [Continia eDocuments Support for OIOUBL 3.0](Documents and Templates/Continia eDocuments support for OIOUBL 3.0.md) |           -            |          N/A<a href="#footnote-2"><sup>2</sup></a>           |
-| [Checking PDF signatures](Documents and Templates/Checking PDF signatures.md) |           -            |          N/A<a href="#footnote-3"><sup>3</sup></a>           |
-| [Optimized export of users - part 2](Web Approval Portal/Optimized export of users - part 2.md) |           -            |          N/A<a href="#footnote-4"><sup>4</sup></a>           |
-| [Identification of account numbers using artificial intelligence](Documents and Templates/Identification of account numbers using artificial intelligence.md) |           -            |          N/A<a href="#footnote-5"><sup>5</sup></a>           |
-| [Support for sales shipments](Documents and Templates/Support for sales shipments.md) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
-| [Support for the EHF format for eOrders in Norway](Documents and Templates/Support for the EHF format for eOrders in Norway.md) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
-| [Educational page to improve user knowledge of eDocuments and formats](Documents and Templates/Educational page to improve user knowledge of eDocuments and formats.md) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
-| [Simpler eDocuments onboarding](Documents and Templates/Simpler eDocuments onboarding.md) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
+| [Support for OData V4 for the Continia Web Approval Portal](@DC-432) |           -            |          N/A<a href="#footnote-1"><sup>1</sup></a>           |
+| [One email for all companies to notify about open approval entries](@DC-406) |           -            |          N/A<a href="#footnote-1"><sup>1</sup></a>           |
+| [Continia eDocuments Support for OIOUBL 3.0](@DC-410) |           -            |          N/A<a href="#footnote-2"><sup>2</sup></a>           |
+| [Checking PDF signatures](@DC-409) |           -            |          N/A<a href="#footnote-3"><sup>3</sup></a>           |
+| [Optimized export of users - part 2](@DC-431) |           -            |          N/A<a href="#footnote-4"><sup>4</sup></a>           |
+| [Identification of account numbers using artificial intelligence](@DC-412) |           -            |          N/A<a href="#footnote-5"><sup>5</sup></a>           |
+| [Support for sales shipments](@DC-415) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
+| [Support for the EHF format for eOrders in Norway](@DC-416) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
+| [Educational page to improve user knowledge of eDocuments and formats](@DC-411) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
+| [Simpler eDocuments onboarding](@DC-414) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
 | [Handle XML files received via email using the eDocuments framework](@DC-401) |           -            |          N/A<a href="#footnote-8"><sup>8</sup></a>           |
 
 
