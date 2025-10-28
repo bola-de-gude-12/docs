@@ -3,6 +3,8 @@ title: Meet Continia Expense Management | Continia Docs
 date: 29-07-2025
 id: EM-90
 lang: en
+vars:
+  first_variable: First on the welcome page for EM!
 ---
 
 # Welcome to Continia Expense Management
@@ -11,8 +13,7 @@ Expense Management is an end-to-end solution for Microsoft Dynamics 365 Business
 
 For an overview of the available modules and their features, see [Business Functionality](../../Docs%20EN/Continia%20Expense%20Management/@EM-69/).
 
-\
-
+{% include "../.gitbook/includes/this-is-the-first-include..md" %}
 
 ## [New and planned](../../Docs%20EN/Continia%20Expense%20Management/@EM-78/)
 
