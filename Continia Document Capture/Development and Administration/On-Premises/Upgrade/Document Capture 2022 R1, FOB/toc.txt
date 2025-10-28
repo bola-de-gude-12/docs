@@ -1,2 +1,2 @@
 Document Capture 2022 R1, FOB.md | Upgrade overview
-Application and data
+Application and data | Application and data

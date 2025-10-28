@@ -1,7 +1,7 @@
 ---
-title: Activating Continia eDocuments
-date: 06-05-2025
-description:  
+title: Activating Continia eDocuments in Document Capture
+date: 15-10-2025
+description: How to activate Continia eDocuments in Document Capture.
 id: DC-178
 lang: en
 ---
@@ -11,7 +11,7 @@ lang: en
 This article describes how to activate Continia eDocuments. The activation is the first part of the overall setup process:
 
 * Activating Continia eDocuments (this article)
-* [Setting up Continia eDocuments](@DC-179), including XML structures and stylesheet import, if applicable
+* [Setting up Continia eDocuments](@DC-179), including XML structures and stylesheet import – if applicable
 * [Setting up the Continia Delivery Network](@DC-75), unless this has been done at an earlier stage
 * [Setting up Customers and Vendors](@DC-180)
 
@@ -25,17 +25,17 @@ To activate Continia eDocuments and convert any existing XML templates:
 > [!NOTE]
 > Steps 1-3 are only required if you're using Document Capture 24.0 or older.
 
-1. Choose the {{search}} icon, enter **Continia Feature Management**, and then choose the related link.
-1. In the list of features, locate **Continia eDocuments**. In the **Enabled** column on the right side of the table, select the box to enable Continia eDocuments.
-1. A dialog appears, asking if you're sure that you want to enable the feature. Select **Yes** to confirm.
-1. The **Continia eDocuments Setup** assisted setup guide opens. Select **Next** to start the guide.
-1. In the **Import from** dropdown menu, select the method you want to use to import your eDocuments configuration settings. Select **Next** to continue.
+1. Search ({{search}}) for and select **Continia Feature Management**.
+1. In the list of features, locate **Continia eDocuments**. Under the **Enabled** column on the right side of the table, select the box to enable Continia eDocuments.
+1. A dialog appears, asking if you're sure that you want to enable the feature. Click **Yes** to confirm.
+1. The **Continia eDocuments Setup** assisted setup guide opens. Click **Next** to start the guide.
+1. In the **Import from** dropdown menu, select the method you want to use to import your eDocuments configuration settings. Click **Next** to continue.
 1. The **Continia eDocuments Setup** page opens. This allows you to copy your existing customer and vendor templates and convert them into templates that can be used with Continia eDocuments. Do one of the following:
-   * To copy and convert your existing templates, select **Next** in the lower-right corner of the page.
+   * To copy and convert your existing templates, click **Next** in the lower-right corner of the page.
       > [!IMPORTANT]
       > Note that no existing templates are deleted or replaced – they're only copied and converted, nothing is lost.
-   * For a fresh start, enable the **Do not copy and convert any XML templates** setting – and then select **Next** in the lower-right corner of the page. If you change your mind, you can copy and convert the templates later.
-1. In the lower-right corner of the page, select **Finish** to complete the assisted setup guide.
+   * For a fresh start, enable the **Do not copy and convert any XML templates** setting – and then click **Next** in the lower-right corner of the page. If you change your mind, you can copy and convert the templates later.
+1. In the lower-right corner of the page, click **Finish** to complete the assisted setup guide.
 
 Continia eDocuments has been activated. To start using it to send and receive business documents, you must also set it up. This process is described in [Setting up Continia eDocuments](@DC-179).
 

@@ -1,10 +1,15 @@
 ---
 title: Overview of credit card transactions
 date: 14-02-2024
+description:
 id: EM-213
 lang: en
 ---
-
 # Overview of credit card transactions
 
-Use the credit card transaction feature in Continia Expense Management to, [import transactions with custom templates](../../../Continia%20Expense%20Management/Business%20functionality/Credit%20Card%20Transactions/@EM-47/) from your bank into Expense Management, [reconcile transactions and find missing transactions](../../../Continia%20Expense%20Management/Business%20functionality/Credit%20Card%20Transactions/@EM-91/) with a statement, and [import bank statements](<Importing bank statements for Expense Management reconciliation.md>) to help with Expense Management reconciliation.
+Here, you'll get an overview of features that has to do with credit card transaction in Continia Expense Management.
+
+| **To** | **See** |
+| --- | --- |
+| Find missing transactions and reconcile transactions with a statement | [EM Bank Account Reconciliation](@EM-91) |
+| Import credit card transactions from your bank into Expense Management | [Importing Transactions with Custom Templates](@EM-47) |

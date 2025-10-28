@@ -1,24 +1,22 @@
 ---
-title: Overview of order and receipt matching in Document Capture
-date: 29-10-2024
+title: Order and receipt matching in Document Capture
+date: 25-09-2025
+description: An outline of the basics of document matching, including a number of links to other matching articles.
 id: DC-61
 lang: en
-description: >-
-  An outline of the basics of document matching, including a number of links to
-  other matching articles.
 ---
 
-# Overview of Order and Receipt Matching
+# Order and receipt matching
 
 By comparing documents and ensuring consistency between them, document matching enables you to control that you, for example, don't pay for more than you received or that you don't ship more goods than agreed. With Continia Document Capture, you can match incoming invoices and credit memos against related documents such as purchase orders and receipts, and you can either do this manually yourself or let Document Capture handle it automatically.
 
-While the manual procedure requires no setup at all, automatic matching must be enabled and configured according to your specific needs and wants. To do this, see [Setting up Order and Receipt Matching](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-60/).
+While the manual procedure requires no setup at all, automatic matching must be enabled and configured according to your specific needs and wants. To do this, see [Setting up order and receipt matching](@DC-60).
 
-> \[!NOTE] Matching is available in the **PURCHASE** category, which allows the following types of documents to be matched against each other:
->
+> [!NOTE]
+> Matching is available in the **PURCHASE** category, which allows the following types of documents to be matched against each other:
 > * Purchase invoices can be matched against purchase orders, purchase receipts, or both.
 > * Purchase credit memos can be matched against return orders, return shipments, or both.
->
+> 
 > Additionally, it's possible to match against purchase receipts and return shipments with tracking – though order lines and return order lines with tracking aren't supported.
 
 For a match to be successful, the documents that are matched against each other must generally have the **same currency**, and the **vendor numbers must be identical**. However, there are two notable exceptions to this general rule:
@@ -30,16 +28,11 @@ Note that any order that's partially matched with an invoice will be locked unti
 
 For more information on various practical aspects of document matching, check out the useful links provided in the table below:
 
-\
+<br>
 
-
-| To                                                                               | See                                                                                                                                                            |
-| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Match documents manually                                                         | [Manual Document Matching](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-62/)                           |
-| Have documents matched automatically, including line matching                    | [Automatic Document Matching](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-70/)                        |
-| Partially match documents and manage price and quantity discrepancies in general | [Handling Discrepancies, Including Partial Matching](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-63/) |
-| Filter the lists of line matches according to different criteria                 | [Filtering Line Matches](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-64/)                             |
-
-## Related information
-
-[Setting up Order and Receipt Matching](../../../Continia%20Document%20Capture/Business%20functionality/Order%20and%20receipt%20matching/@DC-60/)
+| To | See |
+| --- | --- |
+| Match documents manually | [Manual document matching](@DC-62) |
+| Have documents matched automatically, including line matching | [Automatic document matching](@DC-70) |
+| Partially match documents and manage price and quantity discrepancies in general | [Handling discrepancies, including partial matching](@DC-63) |
+| Filter the lists of line matches according to different criteria | [Filtering line matches](@DC-64) |

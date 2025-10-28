@@ -1,13 +1,13 @@
 ---
-title: Managing Electronic Documents in The United Kingdom with Document Capture
-date: 10-04-2024
-description: Learn more about the regulations for sending and receiving invoicing documents in The United Kingdom. 
+title: Managing electronic documents in ghe United Kingdom with Document Capture
+date: 29-07-2025
+description: Learn more about the regulations for sending and receiving invoicing documents in the United Kingdom. 
 id: DC-205
 lang: en
 ---
 
-# Managing Electronic Documents in The United Kingdom
-As a customer in The United Kingdom, you can exchange electronic documents through the Peppol eDelivery Network. Additionally, you can receive electronic documents directly into Continia Document Capture via email attachments.
+# Managing electronic documents in the United Kingdom
+As a Continia Document Capture customer in the United Kingdom, you can exchange electronic documents through the Peppol eDelivery Network. Additionally, you can receive electronic documents directly into Document Capture via email attachments.
 
 {{include "uk"}}
 

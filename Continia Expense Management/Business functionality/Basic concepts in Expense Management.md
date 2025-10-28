@@ -1,27 +1,26 @@
 ---
-title: Basic Concepts in Expense Management
-date: 3-1-2022
-description:
+title: Basic concepts in Expense Management
+date: 17-09-2025
+description: Understand the essential principles of Expense Management
 id: EM-50
 lang: en
 ---
-# Basic Concepts in Expense Management
+# Basic concepts in Expense Management
 
 Working with Continia Expense Management is generally quite straightforward, but it does involve a number of essential concepts that are important to understand. These are explained below.
 
 ## What is a document, and how do I process it?
 
-A document is either an expense report, an expense, a mileage expense or a per diem expense that's imported into or created in Expense Management. The purpose of any document is to justify and deduct expenses.
+A document can be any of the following that's imported into or created in Expense Management. The purpose of any document is to justify and deduct expenses. 
 
-Once a document has been imported into Expense Management, you can start processing it via the documents lists. A document can then be approved and posted so the user receives the refundable amount.
+* Expense reports
+* Expenses
+* Mileage expenses
+* Per diem expenses
 
-The process can be outlined as follows:
+After a document has been imported into Expense Management, you can start processing it via the documents lists. The document can then be approved and posted so the user receives the refundable amount. Here's how the process works:
 
-1. The user registers the document using the Expense App >
-2. The document is imported into Business Central >
-3. The admin verifies the document and sends it on for approval >
-4. The approver approves the document >
-5. The admin posts the document.
+User registers document via Expense App  >  Document is imported into Business Central  >  Admin verifies document and sends to an approver  >  Approver approves document  >  Admin posts document.
 
 ## User types
 

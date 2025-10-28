@@ -1,6 +1,6 @@
 ---
 title: Overview of importing electronic documents in Document Capture
-date: 16-06-2025
+date: 29-07-2025
 description:  
 lang: en
 ---
@@ -30,10 +30,6 @@ To learn more about how Continia supports different countries as an access point
 * [Poland](@DC-200)
 * [Portugal](@DC-209)
 * [Sweden](@DC-197)
-* [United States](United States.md)
+* [United States](@DC-211)
 
-For a list of supported formats, see [Supported Electronic Document Formats](Supported Formats.md).
-
-## Related information
-
-[Supported Electronic Document Formats](Supported Formats.md)  
+For a list of supported formats, see [Supported electronic document formats](@DC-55).

@@ -1,12 +1,12 @@
 ---
-title: Overview of business functionality in Document Capture
-date: 14-07-2025
+title: Business functionality in Document Capture
+date: 28-08-2025
 description: An overview of the business functionality in Document Capture.
 id: DC-50
 lang: en
 ---
 
-# Overview of Business Functionality
+# Business functionality
 
 Eager to learn more about Continia Document Capture and how to use it? Check out some of our many resources, which include detailed documentation on documents and templates as well as a large number of useful setup and user guides.
 

@@ -38,7 +38,7 @@ To request making a function external in Expense Management:
 
 Continia will review your request, and if approved, the function will be made external in an upcoming Expense Management service pack.
 
-## See also
+## Related information
 
 [Overview of Event Publishers](@DC-91)  
 [Resources for Help and Support](@DC-14)  

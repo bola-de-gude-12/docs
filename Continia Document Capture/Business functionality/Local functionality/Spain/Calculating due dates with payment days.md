@@ -1,7 +1,7 @@
 ---
-title: Calculating due dates with payment days
-date: 11-03-2025
-description:
+title: Calculating due dates with Payment Days in Document Capture
+date: 15-10-2025
+description: How to configure the Payment Days feature in Document Capture.
 id: DC-229
 lang: en
 ---
@@ -22,22 +22,22 @@ When configured, payments days are included in the calculation of the due date �
 | 01/02/2025   | 60D      | 25D          | 01/04/2025                      | 25/04/2025                   |
 
 >[!NOTE]
->For payment days to be taken into account when evaluating the recognized due date, you need to enable the **Show Default Field Value** setting on the **Document Category Card**. For more information, see [Capturing Header Fields in a Document](@DC-110).
+>For payment days to be taken into account when evaluating the recognized due date, you need to enable the **Show Default Field Value** setting on the **Document Category Card**. For more information, see [Capturing header fields in a document](@DC-110).
 
 ## To configure Payment Days on the company level 
 
-1. Choose the {{search}} icon, enter **Información Empresa**, and then choose the related link.
+1. Search ({{search}}) for and select **Información Empresa**.
 2. On the action bar, click **Relacionado** > **Pagos** > **Días pago**.
 3. Enter a valid day of the month under the **Día del mes** column.
-4. **Optional:** To add more than one payment day, select **Nuevo** and enter another valid day of the month under the **Día del mes** column.
+4. **Optional**: To add more than one payment day, select **Nuevo** and enter another valid day of the month under the **Día del mes** column.
 
 ## To configure Payment Days on the vendor level 
 
-1. Choose the {{search}} icon, enter **Proveedores**, and then choose the related link.
+1. Search ({{search}}) for and select **Proveedores**.
 2. Select the desired vendor.
 3. On the action bar, click **Relacionado** > **Proveedor** > **Días pago**.
 4. Enter a valid day of the month under the **Día del mes** column.
-5. **Optional:** To add more than one payment day, select **Nuevo** and enter another valid day of the month under the **Día del mes** column.
+5. **Optional**: To add more than one payment day, select **Nuevo** and enter another valid day of the month under the **Día del mes** column.
 
 >[!NOTE]
 >Payment days configured on the vendor level override the same setting configured on the company level. For example, if you entered 25 on the company level and 18 on the vendor level, the value used in due date calculations for this vendor is 18.

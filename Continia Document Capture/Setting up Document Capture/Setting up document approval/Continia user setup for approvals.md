@@ -1,17 +1,17 @@
 ---
 title: Continia user setup for approvals in Document Capture
-date: 15-01-2025
+date: 01-10-2025
 description: How to configure users as approvers, including an overview of approval administrator permissions.
 id: DC-23
 lang: en
 ---
 
-# Continia User Setup for Approvals
+# Continia user setup for approvals
 
 To approve documents in either Continia Document Capture or the Continia Web Approval Portal, a user must first be configured as an approver. This article provides details on how to do so.
 
 > [!NOTE]
-> You configure users as approvers in the **Continia User Setup**, which is also relevant for Continia Expense Management. For more information, see [Expense User Setup for Expense Management](@EM-36).
+> You configure users as approvers in the **Continia User Setup**, which is also relevant for Continia Expense Management. For more information, see [Expense user setup for Expense Management](@EM-36).
 
 The **Continia User Setup** is an extension of the standard Microsoft Dynamics 365 Business Central (BC) user setup table, and many of the fields displayed in the **Continia User Setup** originate from this table – and also appear in the **Approval User Setup**. Any settings you change in one of the two setups are automatically changed accordingly in the other setup.
 
@@ -21,7 +21,7 @@ When you create a **Continia User Setup** record, a BC user setup record is also
 
 To enable a user to approve documents:
 
-1. Choose the {{search}} icon, enter **Continia User Setup**, and then choose the related link.
+1. Search ({{search}}) for and select **Continia User Setup**.
 1. Select the user who you want to set up as an approver.
 1. On the action bar, click **Edit** to open the selected user's **Continia User Setup Card**.
 1. On the **General** FastTab, fill out the fields as necessary. The following fields are mandatory:
@@ -31,11 +31,11 @@ To enable a user to approve documents:
    > [!NOTE]
    > To configure assigning permissions for the user or for a group that the user is a member of (see [To configure individual approver permissions](#to-configure-individual-approver-permissions) and [To configure account and dimension permissions for a group](/continia-document-capture/setting-up-document-capture/setting-up-document-approval/approval-user-groups#to-configure-account-and-dimension-permissions-for-a-group)), you must enable **Can Edit Posting Lines** as well.
    > 
-   > In case you want the user to be an approval administrator, toggle the **Approval Administrator** switch. Note that this also automatically enables the corresponding setting in the **Approval User Setup**, and that the user is granted a number of standard approval administrator permissions in addition to the Continia-specific permissions mentioned under [Approval administrator permissions](#approval-administrator-permissions) below.
-1. On the **Web Approval** FastTab, select the approval client that the selected user will use to approve documents. The selected approval client is opened whenever the user selects a link in a [notification email](Email notifications.md). Note that only users with a value under **Approval Client** in the **Continia User Setup** are shown in the forward list. For more information, see [Creating User-Specific Lists of Approvers for Approval Forwarding](@DC-138).
+   > In case you want the user to be an approval administrator, enable the **Approval Administrator** setting. Note that this also automatically enables the corresponding setting in the **Approval User Setup**, and that the user is granted a number of standard approval administrator permissions in addition to the Continia-specific permissions mentioned under [Approval administrator permissions](#approval-administrator-permissions) below.
+1. On the **Web Approval** FastTab, select the approval client that the selected user will use to approve documents. The selected approval client is opened whenever the user selects a link in a [notification email](Email notifications.md). Note that only users with a value under **Approval Client** in the **Continia User Setup** are shown in the forward list. For more information, see [Creating user-specific lists of approvers for approval forwarding](@DC-138).
 
 > [!IMPORTANT]
-> Once you've set up a user as an approver, you must assign this user an appropriate Business Central license in order for the user to be able to sign in and function as an approver. A Team Members license should be sufficient for this, subject to the Microsoft licensing conditions stipulated in the Microsoft Dynamics 365 Business Central Licensing Guide, which is available for download in the [Business Central](https://dynamics.microsoft.com/business-central/overview/) website. For details on how to assign licenses to users, see the Microsoft article [Create Users According to Licenses](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions).
+> Once you've set up a user as an approver, you must assign this user an appropriate Business Central license in order for the user to be able to sign in and function as an approver. A Team Members license should be sufficient for this, subject to the Microsoft licensing conditions stipulated in the Microsoft Dynamics 365 Business Central Licensing Guide, which is available for download in the [Business Central](https://dynamics.microsoft.com/business-central/overview/) website. For details on how to assign licenses to users, see the Microsoft article [Create users according to licenses](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions).
 
 ## Approval administrator permissions
 
@@ -56,13 +56,13 @@ When you've set up a user as an approver [as described above](#to-set-up-users-a
 * **Approval Permissions** - this allows you to [configure the individual permissions of the user](#to-configure-individual-approver-permissions).
 
 > [!IMPORTANT]
-> For both of these actions to work, the **Use Account and Dimension Approval Permissions** feature on the **Document Capture Setup** page must first be enabled. To do this, see [To set up puchase approval](@DC-22#to-set-up-puchase-approval). To assign group permissions to an individual user, one or more [approval user groups must be set up](Approval user groups.md).
+> For both of these actions to work, the **Use Account and Dimension Approval Permissions** feature on the **Document Capture Setup** page must first be enabled. To do this, see [To set up purchase approval](@DC-22#to-set-up-purchase-approval). To assign group permissions to an individual user, one or more [approval user groups must be set up](Approval user groups.md).
 
 ## To assign group permissions to an approver
 
 To assign one or more group permissions to a user that's been configured as an approver:
 
-1. Choose the {{search}} icon, enter **Continia User Setup**, and then choose the related link.
+1. Search ({{search}}) for and select **Continia User Setup**.
 1. Select the user whose permissions you want to configure.
 1. On the action bar, click **Document Capture** > **Approval User Groups**.
 1. On the page that opens, add the group(s) whose permissions you want to assign to the user.
@@ -83,7 +83,7 @@ When setting up the individual permissions of an approver, you can configure the
 
 To configure the individual permissions of a user that's been set up as an approver:
 
-1. Choose the {{search}} icon, enter **Continia User Setup**, and then choose the related link.
+1. Search ({{search}}) for and select **Continia User Setup**.
 1. Select the user whose permissions you want to configure.
 1. On the action bar, click **Document Capture** > **Approval Permissions**.
 1. On the page that opens, in the **Type** column, select the type of permission. **G/L Account**, **Item**, **Fixed Asset**, **Charge (Item)**, and **Job** are all types of account permissions, whereas **Dimension** represents dimension permissions.
@@ -112,7 +112,6 @@ To configure the individual permissions of a user that's been set up as an appro
 
 ## Related information
 
-[Creating User-Specific Lists of Approvers for Approval Forwarding](@DC-138)  
-[Enabling Purchase Approval](@DC-22)  
-[Approval User Groups](Approval user groups.md)  
-[Email Notifications](Email notifications.md)
+[Enabling purchase approval](@DC-22)  
+[Approval user groups](Approval user groups.md)  
+[Email notifications](Email notifications.md)

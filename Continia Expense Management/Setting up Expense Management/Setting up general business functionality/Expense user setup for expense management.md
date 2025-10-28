@@ -1,6 +1,6 @@
 ---
 title: Expense user setup for Expense Management
-date: 19-06-2025
+date: 11-09-2025
 description: Learn how to add users to Expense Management. 
 id: EM-36
 lang: en
@@ -22,7 +22,7 @@ To create an expense user for Expense Management:
    | Field                     | Description                                                  |
    | ------------------------- | ------------------------------------------------------------ |
    | Continia User ID          | Select the user. All approvers must be Business Central users. You can access a list of them using the lookup button in this field. |
-   | Name                      | Expense users who are not approvers do not require a Business Central license. If the user is not already a Business Central user, the system will prompt you to confirm adding them. |
+   | Name                      | Expense users who are not approvers do not need to log in to Business Central. If the user is not already a Business Central user, the system will prompt you to confirm adding them. |
    | Email                     | Enter the email address for the expense user if it's not filled out automatically. |
    | Allow Force  Registration | Determines whether the  user can override errors and warnings to force the registration of a document. |
    | Approval Administrator    | Indicates whether the user is an approval administrator responsible for managing approval processes. |

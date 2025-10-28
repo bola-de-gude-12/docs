@@ -1,10 +1,10 @@
 ---
-title: Overview of minimum requirements for using Document Capture
-date: 16-06-2025
-description: The minimum requirements and recommendations for using Document Capture in Business Central.
+title: Minimum requirements for using Document Capture (online)
+date: 26-09-2025
+description: The minimum requirements for using Document Capture in Business Central online.
 id: DC-482
 lang: en
 ---
 
-# Overview of minimum requirements for using Document Capture
+# Minimum requirements for using Document Capture (online)
 {{include "dc-online-requirements-overview" "Document Capture"}}

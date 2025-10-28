@@ -21,7 +21,7 @@ To access the purchase contract archive:
 This will open the **Archived Purchase Contracts** page, which provides you with a complete overview of the history of the selected contract. Each change in the status of the contract is represented by a version line in the overview table, and each of these lines is provided with a version number. If you want to view more details for a specific version of the contract, select that version's line in the table, and then select the number in the **No.** column to open a new page with all the details of the selected version.
 
 
-## See also
+## Related information
 
 [Creating Purchase Contracts](@EM-131)  
 [Purchase Contract Reviews](@EM-132)  

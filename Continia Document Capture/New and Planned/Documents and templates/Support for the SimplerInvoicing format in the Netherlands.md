@@ -1,6 +1,6 @@
 ---
 title: Support for the SimplerInvoicing format in the Netherlands
-date: 24-03-2025
+date: 30-09-2025
 description:
 id: DC-419
 lang: en
@@ -10,10 +10,10 @@ lang: en
 
 | Feature | Public preview | General availability online |
 | --- | :-: | :-: |
-| Support for the SimplerInvoicing format in the Netherlands | - | Jun 2025 |
+| Support for the SimplerInvoicing format in the Netherlands | {{checkmark}} Sep 2025 | {{checkmark}} Oct 2025 |
 
 >[!NOTE]
->This feature will be released in Document Capture 2025 R1 SP1.
+>This feature will be released either as a hotfix or as a service pack.
 
 ## Business value
 
@@ -22,3 +22,5 @@ This feature will allow you to meet the Dutch requirement of sending and receivi
 ## Feature details
 
 With the implementation of the feature, Continia eDocuments will support the sending and receipt of eDocuments in the Dutch SimplerInvoicing format using the Continia Delivery Network. This will only apply to invoices and credit memos.
+
+For more information, see [Setting up the SimplerInvoicing format in eDocuments](@DC-489).

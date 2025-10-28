@@ -1,6 +1,6 @@
 ---
 title: eDocument validation
-date: 22-05-2025
+date: 18-08-2025
 description:
 id: DC-466
 lang: en
@@ -10,9 +10,13 @@ lang: en
 
 | Feature | Public preview | General availability online |
 | --- | :-: | :-: |
-| eDocument validation | - | Oct 2025 |
+| eDocument validation | - | Nov 2025 |
+
+>[!NOTE]
+>This feature will be released as part of a service pack in November 2025.
 
 ## Business value
+
 This release will feature significant improvements to the validation of eDocuments – both prior to posting and, optionally, in their XML representations.
 
 ## Feature details	

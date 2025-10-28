@@ -1,6 +1,6 @@
 ---
 title: Capturing line fields in a document (line recognition) in Document Capture
-date: 14-05-2025
+date: 30-09-2025
 description: How line recognition works in Document Capture.
 id: DC-147
 lang: en
@@ -18,12 +18,27 @@ The line recognition process is described in detail below. Note that if it’s t
 > [!NOTE]
 > If a vendor sends you a document for the first time but already has an associated template in another one of your companies, Continia Document Capture copies the template from that company to the current company. This means that you don’t have to repeat any configuration you’ve already carried out in another company for the same vendor.
 
+>[!TIP]
+>Document Capture supports Business Central sustainability feature, making it easier for you to calculate and track your company's greenhouse gas (GHG) emissions. The following line fields can be added to your templates:
+>
+>* **Sustainability Account No.**
+>* **Fuel/Electricity***
+>* **Distance***
+>* **Custom Amount***
+>* **Installation Multiplier***
+>* **Time Factor***
+>* **Emission CO2**
+>* **Emission CH4**
+>* **Emission N2O**
+>
+>The fields marked with an asterisk above, known as activity fields, aren't carried over from Document Capture templates to standard purchase invoices. Instead, Document Capture automatically calculates the emission factor fields (i.e.: CO₂, CH₄, N₂O) in the document card. For more information, see [Sustainability management overview](https://learn.microsoft.com/en-us/dynamics365/business-central/finance-manage-sustainability) (Microsoft article).
+
 ## To capture line fields
 
 To capture the fields of a document, including line fields:
 
 1. Search ({{search}}) for and select **Document Categories**.
-1. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+1. Click the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
 1. If Document Capture has automatically identified a vendor for the document whose fields you want to capture, the number of the identified vendor is displayed in the **Vendor** field of the document list. If no vendor has been identified, assign a vendor manually as described under [Changing a document’s associated vendor](@DC-71#changing-a-documents-associated-vendor).
 1. Provided that this is the first document you receive and import from the assigned vendor, there's no associated template, so you must assign one by activating field recognition. On the action bar, click **Home** > **Recognize Fields**. Field captions and values are then captured and highlighted using orange and blue boxes in the document viewer on the right.
    >[!NOTE]
@@ -48,7 +63,7 @@ All document lines have now been captured, and line recognition has been automat
 
 ## To configure line recognition
 
-When you've activated line recognition for a document template as described above, you can configure it in various ways. To do this, follow these steps:
+When you've activated line recognition for a document template as described above, you can configure it in various ways. To do this:
 
 1. In the document journal, select the document whose template you want to configure in terms of line recognition.
 1. On the action bar, click **Template** > **Template Card** to open the template card.

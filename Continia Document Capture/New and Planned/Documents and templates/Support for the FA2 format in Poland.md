@@ -1,23 +1,23 @@
 ---
 title: Support for the FA(3) format in Poland
-date: 24-12-2024
+date: 18-08-2025
 description:
 id: DC-417
 lang: en
 ---
 
-# Support for the FA(3) Format in Poland
+# Support for the FA(3) format in Poland
 
 | Feature | Public preview | General availability online |
 | --- | :-: | :-: |
-| Support for the FA(3) format in Poland | - | Oct 2025 |
+| Support for the FA(3) format in Poland | - | Nov 2025 |
 
 >[!NOTE]
->This feature will be released in Document Capture 2025 R2.
+>Due to the official version of the KSeF API being available only at the end of September, this feature can't be released in October – but will be released with the next service pack.
 
 ## Business value
 
-This feature will allow you to meet the Polish requirement of sending and receiving business documents in the FA(3) format using Continia eDocuments. You can read more about the legal requirements in [Managing Electronic Documents in Poland](@DC-200).
+This feature will allow you to meet the Polish requirement of sending and receiving business documents in the FA(3) format using Continia eDocuments. You can read more about the legal requirements in [Managing electronic documents in Poland](@DC-200).
 
 ## Feature details
 

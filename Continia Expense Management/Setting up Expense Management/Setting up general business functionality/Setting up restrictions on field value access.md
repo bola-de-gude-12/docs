@@ -1,6 +1,6 @@
 ---
 title: Setting up restrictions on field value access
-date: 11-07-2025
+date: 11-09-2025
 description: Specify which field values are visible to different user-types in the Expense Mobile App and Expense Portal
 id: EM-296
 lang: en
@@ -47,7 +47,7 @@ In this example, you want a group of internal users (INT) to only see "Accommoda
 2. Click **Expense Type**, this open the Field Type Card.
 3. On the action bar, click **Lookup Value Access**.
 4. On the action bar, click **Edit List**.
-5. On the Expense Type line, 
+5. On the **Expense Type** line, 
    1. In the **Value Code** column, select **Accommodation**.
    2. In the **Type** column, choose **Group**.
    3. In the **Code** column, choose **INT**.

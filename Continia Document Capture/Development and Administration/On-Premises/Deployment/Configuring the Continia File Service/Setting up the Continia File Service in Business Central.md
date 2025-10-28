@@ -1,7 +1,7 @@
 ---
 title: Setting up the Continia File Service in Business Central
-date: 07-08-2023
-description:  
+date: 15-10-2023
+description: How to configure the Continia File Service in Business Central using standard or advanced setup.
 id: DC-126
 lang: en
 ---
@@ -25,9 +25,9 @@ Both methods are described in more detail in the sections below.
 
 To configure the Continia File Service in Business Central using the standard assisted setup guide, follow these steps:
 
-1. Choose the {{search}} icon, enter **Storage Migration Assisted Setup Guide**, and then choose the related link.
+1. Search ({{search}}) for and select **Storage Migration Assisted Setup Guide**.
 1. Follow the on-screen instructions.
-1. When you're done, select **Finish** to close the guide and implement your settings.
+1. Click **Finish** to apply your settings and close the guide.
 
 The Continia File Service is now fully configured and ready for use as your default document storage type.
 
@@ -35,15 +35,15 @@ The Continia File Service is now fully configured and ready for use as your defa
 
 To configure the Continia File Service in Business Central using the **Document Capture Setup** for more advanced settings, follow these steps:
 
-1. Search {{search}} for and select **Document Capture Setup**. 
-1. On the **General** FastTab, under **Document Storage Type**, select **File Service**.
-1. A dialog appears, asking you if you want to migrate your files to **File Service**. Select **Yes** to confirm and close the dialog. The **Update Storage Settings - File Service** page opens.
+1. Search ({{search}}) for and select **Document Capture Setup**. 
+1. On the **General** FastTab, under **Document Storage Type**, click **File Service**.
+1. A dialog appears, asking you if you want to migrate your files to **File Service**. Click **Yes** to confirm and close the dialog. The **Update Storage Settings - File Service** page opens.
 1. Fill out the **Server**, **Server Port**, **Repository**, and **Authorization Key** fields, and modify the paths and the **Disk File Directory Structure**, if necessary.
    > [!IMPORTANT]
    > Your **Server Port**, **Repository**, and **Authorization Key** entries must be identical with the corresponding entries you added in the configuration tool [when you configured the Continia File Service](@DC-125). Also, the paths must correspond to the root folder you specified in the configuration tool.
 1. **Optional**: If your server setup requires a secure connection using cryptography, SSL, or similar, enable **Use Secure Connection**.
-1. **Optional**: To verify the setup, select the three dots at the top, and then select **Test Connection**. A dialog with connection details appears. Select **OK** to close it.
-1. On the **Update Storage Settings - File Service** page, select **OK** to continue.
-1. Follow the on-screen instructions to complete the guide.
+1. **Optional**: To verify the setup, select the three dots at the top, and then select **Test Connection**. A dialog with connection details appears. Click **OK** to close it.
+1. On the **Update Storage Settings - File Service** page, click **OK** to continue.
+1. Follow the remaining on-screen instructions to complete the setup.
 
 The Continia File Service is now fully configured and ready for use as your default document storage type.

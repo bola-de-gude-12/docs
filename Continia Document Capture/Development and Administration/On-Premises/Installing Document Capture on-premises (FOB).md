@@ -1,6 +1,6 @@
 ---
 title: Installing Continia Document Capture on premises (FOB)
-date: 31-03-2025
+date: 23-09-2025
 description: How to install Document Capture in FOB versions of NAV/Business Central (on premises).
 id: DC-17
 lang: en
@@ -26,9 +26,8 @@ These actions are described in more detail in the guides below.
 > [!NOTE]
 > For all versions between NAV 2017 and Business Central April 2019 (BC v14), both server and client components are installed automatically, meaning that you can skip steps 5-6 in the guide below. For all previous versions of NAV, you must install these components manually – as described in the guide.
 
-1. Go to the [Continia PartnerZone](https://partnerzone.continia.com).
-1. In the menu at the top, select **Downloads**.
-1. Use the filters to locate the latest version of Document Capture, and select **Download** to download the installation package.
+1. Go to the [Download Center on Continia PartnerZone](https://partnerzone.continia.com/partnerzone/help-center/download-center/).
+1. Use the filters to locate the latest version of Document Capture, and click **Download** to download the installation package.
 1. Extract the product package to a folder on the computer with the Business Central service tier. From this folder, run the setup.exe file to open the Document Capture installer.
 1. In the installer, under **Dynamics NAV Server**, select **Server Components**, and then select your version of Business Central > **Install**.
    > [!NOTE]

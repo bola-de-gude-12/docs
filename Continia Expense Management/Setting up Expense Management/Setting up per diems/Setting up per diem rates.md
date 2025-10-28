@@ -34,6 +34,6 @@ To set up sub rates for a per diem rate:
 1. In the **Meals** FastTab, next to **Calculation Method**, choose **Sub rates**. 
 2. In the **Per Diem Rate Details** table, fill out the fields as necessary. 
 
-## See also
+## Related information
 
 [Setting up Per Diem Groups](@EM-85)

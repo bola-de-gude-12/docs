@@ -1,12 +1,12 @@
 ---
-title: Overview of setting up purchase documents
-date: 16-06-2025
-description:
+title: Setting up purchase documents in Document Capture
+date: 25-09-2025
+description: An overview of the main documentation on purchase documents.
 id: DC-476
 lang: en
 ---
 
-# Overview of setting up purchase documents
+# Setting up purchase documents
 
 With the default Continia Document Capture configuration, all purchase document settings are predefined and ready to use. You can always customize them though, to ensure a better fit for your particular organization.
 

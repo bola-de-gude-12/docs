@@ -1,6 +1,6 @@
 ---
 title: Upgrading to Continia Document Capture 2024 R1 (24.00) for FOB versions
-date: 28-05-2024
+date: 04-09-2025
 description:
 id: DC-190
 lang: en
@@ -24,7 +24,7 @@ The table below enables you to determine exactly what tasks must be carried out 
 > [!NOTE]
 > If you have multiple Continia solutions installed in a FOB version of Business Central and want to upgrade one or more of these solutions, you must take certain steps when importing objects. For more information, see [Upgrading with Multiple Continia Solutions Installed (FOB)](/Continia Document Capture/Development and Administration/On-Premises/Upgrade/Upgrading with multiple solutions installed, FOB/Upgrading with multiple solutions installed, FOB.md).
 
-##Upgrade to Document Capture 2024 R1 (24.00)
+## Upgrade to Document Capture 2024 R1 (24.00)
 
 | Scenario | Tasks |
 | --- | --- |
@@ -37,9 +37,9 @@ The table below enables you to determine exactly what tasks must be carried out 
 | Full upgrade from the following versions: <ul><li>Document Capture 8.00</li><li>Document Capture 9.00</li><li>Document Capture 10.00</li><li>Document Capture 11.00</li><li>Document Capture 12.00</li></ul> | From these versions, you can upgrade directly to DC24.00 using [this guide](../application-and-data/from-versions-8001200/manual-upgrade). |
 
 ## Related information
-[Supported Upgrade Paths for Continia Document Capture (FOB)](@DC-8)  
-[Upgrading NAV/Business Central with Document Capture Installed](@DC-7)  
-[Upgrading with Multiple Continia Solutions Installed (FOB)](/Continia Document Capture/Development and Administration/On-Premises/Upgrade/Upgrading with multiple solutions installed, FOB/Upgrading with multiple solutions installed, FOB.md)  
+[Supported upgrade paths for Continia Document Capture (FOB)](@DC-8)  
+[Upgrading NAV/Business Central with Document Capture installed](@DC-7)  
+[Upgrading with multiple Continia solutions installed (FOB)](@DC-54)  
 
 
 

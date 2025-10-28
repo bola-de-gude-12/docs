@@ -75,7 +75,7 @@ Currently, entries cannot be grouped by the following methods.
 
 You may find it useful to add extra configured fields to an expense report, such as a project number or task number. If you have added the same configured field to the expense, per diem, and mileage document types, then the field value in the expense report will be inherited for all the documents added to the expense report.
 
-## See also
+## Related information
 For more information about expense reports, see: 
 
 [Setting up Pre-approval of Expense Reports](@EM-272)

@@ -1,11 +1,11 @@
 ---
 title: Overview of Per Diem Expenses
-date: 16-04-2025
-description:
+date: 15-10-2025
+description: List of per diem articles
 id: EM-10
 lang: en
 ---
-# Overview of Per Diem Expenses
+# Overview of per diem expenses
 
 After you have imported per diem expenses into Expense Management, you can immediately start working with them. You can find all per diem expenses on the Per Diems list. To ease expense validation and for full clarity over the calculation process, a fact box displays the breakdown of the per diem amount. 
 
@@ -26,4 +26,4 @@ You can process the documents further depending on your company workflows. See t
 | Specify one or more destinations for your work trips to manage the per diem rates. | [Enabling Multiple Destinations for Per Diems](@EM-95) |
 | Enable multiple accommodations per diem to choose different lodgings. | [Enabling Multiple Accommodations for Per Diem](@EM-171) |
 | Enable the German 3-months rule for per diem expenses in connection with travels to the same location for more than three months. | [The 3-month rule for per diem expenses in Germany](@EM-226) |
-| Use Expense Management to process per diem expenses in accordance with Norwegian rules. | [About Norwegian Per Diems](@EM-308) |
+| Use Expense Management to process per diem expenses in accordance with Norwegian rules. | [Understanding Norwegian per diems](@EM-309) |

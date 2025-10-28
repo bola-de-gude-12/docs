@@ -1,12 +1,12 @@
 ---
-title: Overview of local functionality in Document Capture
-date: 11-03-2025
+title: Local functionality in Document Capture
+date: 25-09-2025
 description: An overview of the features available only in certain localizations of Business Central.
 id: DC-242
 lang: en
 ---
 
-# Overview of local functionality in Document Capture
+# Local functionality in Document Capture
 
 Looking for functionality specific to a certain country or region? Check out the features in Continia Document Capture that are exclusive to the Czech Republic, Denmark, Spain, and others.
 

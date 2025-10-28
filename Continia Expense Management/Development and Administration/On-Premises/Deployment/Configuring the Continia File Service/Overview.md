@@ -22,7 +22,7 @@ To set up the Continia File Service, you must carry out the following actions in
 
 For more information, click each of the links above to open detailed articles with how-to guides for each of the steps in the process.
 
-## See also
+## Related information
 
 [Setting up Document Storage](@EM-144)  
 [Migrating Expense Management from Business Central On-Premises to Cloud](@EM-112)  

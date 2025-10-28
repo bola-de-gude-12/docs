@@ -1,12 +1,12 @@
 ---
-title: Overview of the Continia File Service
-date: 16-10-2023
-description:  
+title: Continia File Service for Document Capture
+date: 26-09-2025
+description: Continia's storage type for local file systems and on-premises OCR.
 id: DC-123
 lang: en
 ---
 
-# Overview of the Continia File Service
+# Continia File Service
 
 The Continia File Service is a storage type that enables you to continue using local file system storage and on-premises OCR in Continia Document Capture while staying compliant with Microsoft's Business Central Universal Code initiative.
 
@@ -19,9 +19,9 @@ To prevent unauthorized access, each repository is secured by its own unique nam
 
 To set up the Continia File Service, you must carry out the following actions in the order specified:
 
-* [Install the Continia File Service](@DC-124).
-* [Configure the Continia File Service](@DC-125).
-* [Set up the Continia File Service in Business Central](@DC-126).
+* [Install the Continia File Service](@DC-124)
+* [Configure the Continia File Service](@DC-125)
+* [Set up the Continia File Service in Business Central](@DC-126)
 
 For more information, click each of the links above to open detailed articles with how-to guides for each of the steps in the process.
 

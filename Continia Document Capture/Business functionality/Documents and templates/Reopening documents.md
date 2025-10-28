@@ -17,8 +17,8 @@ Note that not all types of documents support reopening, and that some documents 
 To reopen a document:
 
 1. Search ({{search}}) for and select **Document Categories**.
-1. Select the code of the relevant document category – for example, **PURCHASE** – to open the document journal.
+1. Click the code of the relevant document category – for example, **PURCHASE** – to open the document journal.
 1. In the upper-right corner, above the action bar, go to **Status Filter** and select the box to display the filter options. Select **Registered** or **Rejected**, depending on what types of documents you want to view.
 1. The document list is filtered to display only the selected type of documents. In the list, select the document that you want to reopen. Select the document line – not the number in the **No.** column, as this opens the document card.
-1. On the action bar, click **Process** and then **Reopen**.
+1. On the action bar, click **Home** and then **Reopen**.
 1. To find the reopened document, go to **Status Filter** in the upper-right corner and select **Open** to display all open documents in the document list. Your reopened document should now be in the list.

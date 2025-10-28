@@ -34,7 +34,6 @@ This article lists all Continia Document Capture features released as part of Do
 | [Create line fields via the assisted template field setup guide](@DC-320) | {{checkmark}} Sep 2024 | {{checkmark}} Oct 2024 |
 | [AI-assisted processing of sales documents](@DC-321) | {{checkmark}} Sep 2024 | {{checkmark}} Oct 2024 |
 | [Use Payment Days to calculate due dates in Spain](@DC-421) | {{checkmark}} Sep 2024 | {{checkmark}} Oct 2024 |
-| [New master template fields for Continia Sustainability](@DC-323) | {{checkmark}} Sep 2024 | {{checkmark}} Oct 2024 |
 | [Easier change of document category](@DC-324) | {{checkmark}} Sep 2024 | {{checkmark}} Oct 2024 |
 
 

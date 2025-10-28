@@ -11,7 +11,7 @@ lang: en
 The Document Search functionality in Continia Document Capture allows you to find documents based on one or more keywords. These keywords may be values that were recognized, automatically translated, or even manually entered by a user – including G/L accounts, approval flow codes, formula results, etc – in documents and XML files.
 
 ## To use Document Search
-1. Search {{search}} for and select **Document Search**.
+1. Search ({{search}}) for and select **Document Search**.
 2. On the **Document Search** page, enter the desired keywords in the **Find What** field.
 
 >[!NOTE]

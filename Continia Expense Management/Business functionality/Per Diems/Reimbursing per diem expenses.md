@@ -47,7 +47,7 @@ To reimburse a user's expenses:
 6. At this stage you can transfer the reimbursable amounts to an external payroll system. You can do this manually by typing in the external system, or by selecting **Export to Excel** on the action bar. You can send the Excel file that's generated to the relevant recipients.
 7. When you receive confirmation that the expense user has been reimbursed in the external payroll system, mark the per diem expenses in the current view as Reimbursed. On the action bar, select **Reimburse**. This avoids accidentally reimbursing them again the next time. 
 
-## See also
+## Related information
 
 For more information about reimbursing expenses and per diem expenses, see:
 

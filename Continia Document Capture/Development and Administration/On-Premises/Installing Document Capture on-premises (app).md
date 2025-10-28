@@ -1,6 +1,6 @@
 ---
 title: Installing Continia Document Capture on premises
-date: 08-07-2025
+date: 23-09-2025
 description: How to install Document Capture on premises in Business Central.
 id: DC-51
 lang: en
@@ -27,12 +27,12 @@ When you execute the script, it automatically scans the folder that it's execute
 
 To install Document Capture using this script:
 
-1. Go to the [Continia PartnerZone](https://partnerzone.continia.com).
-1. In the menu at the top, click **Downloads**.
+1. Go to the [Download Center on Continia PartnerZone](https://partnerzone.continia.com/partnerzone/help-center/download-center/).
 1. Use the filters to locate the latest version of Document Capture, and click **Download** to download the installation package.
 
    > [!IMPORTANT]
    > Once you've downloaded the installation package, you must unblock it in order to be able to extract it properly:
+   >
    > 1. Right-click the downloaded file, and select **Properties** to open the file properties window.
    > 1. On the **General** tab, under **Security**, select **Unblock** and then **Apply**. Close the window when you're done.
 

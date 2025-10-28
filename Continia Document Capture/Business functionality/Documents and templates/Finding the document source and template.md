@@ -1,6 +1,6 @@
 ---
 title: Finding the document source and template in Document Capture
-date: 11-06-2025
+date: 24-09-2025
 description: How sources and templates are identified and linked to documents.
 id: DC-109
 lang: en
@@ -35,4 +35,4 @@ If no matching vendor is found, click **Vendor** > **Vendor Card** to start the 
 ## Excluding certain vendors from recognition
 Some organizations set up their own company branches as vendors in Business Central, for various reasons. This may cause Document Capture to assign those vendors to many of the incoming purchase documents, as the branch name, address, VAT number, etc., appear in those documents as the recipient of the purchase documents – but not as the sender/vendor.
 
-If you’re not using such vendors for receiving purchase invoices, you can exclude them completely from identification within a document category. To learn more, see [Working with document categories](@DC-78).
+If you’re not using such vendors for receiving purchase invoices, you can exclude them completely from identification within a document category. For more information, see [Working with document categories](@DC-78#excluding-identification-sources).

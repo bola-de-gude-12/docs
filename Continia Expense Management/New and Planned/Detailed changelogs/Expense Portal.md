@@ -1,12 +1,113 @@
 ---
 title: Detailed Changelog for the Continia Expense Portal
-date: 09-07-2025
-description: Learn about new features and bug fixes for Continia Expense Portal version
+date: 02-10-2025
+description: List of features and bug fixes for each version of the Continia Expense Portal
+id: EM-368
 lang: en
 ---
 
 # Detailed changelog for the Continia Expense Portal
 This article lists all of the new features and bug fixes for each version of the Continia Expense Portal.
+
+## Expense Portal 27.0.0.3
+*Released: October 02, 2025*
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor improvements and bug fixes. |
+
+## Expense Portal 27.0.0.2
+*Released: September 29, 2025*
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor improvements and bug fixes. |
+
+## Expense Portal 27.0.0.1
+*Released: September 22, 2025*
+
+Expense portal 27.0.0.0 was never released. Instead it is included in Hotfix 27.0.0.1.
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Added support for per diem day destination dimensions. |
+| General | Added Merchant and Payment Type columns to an expense report's document list. |
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fixes. |
+
+## Expense Portal 26.2.1.3
+*Released: September 15, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | If a company has address management enabled (60-day rule), then the Expense Portal no longer allows mileages without latitude and longitude to be submitted. |
+
+## Expense Portal 26.2.1.2
+*Released: September 03, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fixes. |
+
+## Expense Portal 26.2.1.1
+*Released: September 02, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Previously, selecting a mileage to add to an expense report, would instead open the mileage. Now, selecting a mileage will mark it in the same way as it does when you select an Expense or a Per diem. |
+| Mileages | Previously, when you submitted an expense report that contained mileages, you could proceed without attaching any documents (even if they were required). Now you'll see dialog box that prevents you from proceeding until the required documents are attached. |
+| General | Commas are now allowed in the code of lookup values. |
+| General | Minor bug fixes and updates. |
+
+## Expense Portal 26.2.1.0
+*Released: August 13, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fix |
+
+## Expense Portal 26.2.0.9
+*Released: August 12, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fix |
+
+## Expense Portal 26.2.0.8
+*Released: Not released*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fix |
+
+## Expense Portal 26.2.0.7
+*Released: August 05, 2025*
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| General | Minor bug fix |
 
 ## Expense Portal 26.2.0.6
 *Released: July 04, 2025*

@@ -32,7 +32,7 @@ The cost of using Expense Management for Microsoft Dynamics 365 Business Central
 You can find detailed information on pricing for both online and on-premises usage [here](https://www.continia.com/pricing/).
 
 
-## See also
+## Related information
 [Country/Regional Availability and Supported Languages](/Continia Expense Management/Development and Administration/Countries and Languages.md)  
 [Finding a reseller of Continia Expense Management](/Continia Expense Management/Getting Started/Resellers and Partners/Find a Reseller.md)  
 [Trials and Subscriptions](/Continia Expense Management/Getting Started/Trials and Subscriptions.md)  

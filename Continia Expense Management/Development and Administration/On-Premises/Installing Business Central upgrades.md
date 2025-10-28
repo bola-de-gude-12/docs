@@ -15,7 +15,7 @@ lang: en
 | Before upgrading Business Central | <ol><li><b>Uninstall all apps in this order</b>: <br> Document Capture OnPremise (if used) > Expense Management > Document Capture > Delivery Network > Core</li><li><b>Unpublish all apps in this order</b>: <br> Document Capture OnPremise (if used) > Expense Management > Document Capture > Delivery Network > Core</li></ol> |
 | After upgrading Business Central | <ol><li><b>Publish all apps in this order</b>: <br> Core > Delivery Network > Document Capture > Expense Management > Document Capture OnPremise (if used)</li><li><b>Install all apps in this order</b>: <br> Core > Delivery Network > Document Capture > Expense Management > Document Capture OnPremise (if used)</li><div class="alarm alarm-note"><p class="alert-title"><i class="icon icon-warning-2"></i><span>Note</span></p><p>You must install the Expense Management runtime package that corresponds to the new version of Business Central.</p></div></ol> |
 
-## See also
+## Related information
 
 [Upgrading to the Latest Version](@EM-87)  
 

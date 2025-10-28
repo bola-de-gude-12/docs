@@ -10,7 +10,7 @@ lang: en
 
 If you have an on-premises installation of Microsoft Dynamics 365 Business Central, follow these steps to set up the Continia Web Approval Portal:
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the action bar, click **Approval Setup** > **Web Approval** to open the **Document Capture Setup / Continia Web Approval** page.
 1. On the **General** FastTab, click the field to the right of **Continia Web Portal** to open the **Continia Company Setup** page. If you haven't yet enabled the Web Approval Portal, the field says **Not configured**.
 1. Under **Web Portal Code**, click the down arrow on the right of the field to open the menu, and then click **New** in the lower-left corner of the menu to open the **Continia Web Portal List** page.

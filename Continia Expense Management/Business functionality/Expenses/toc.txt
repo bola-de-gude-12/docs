@@ -1,4 +1,5 @@
 Expenses Overview.md | Overview of Expenses
+Configuring specific expense types to require attendees as mandatory.md | Configuring specific expense types to require attendees as mandatory
 Submitting expenses.md | Submitting expenses
 Posting expenses.md | Posting expenses
 Reimbursing expenses.md | Reimbursing expenses

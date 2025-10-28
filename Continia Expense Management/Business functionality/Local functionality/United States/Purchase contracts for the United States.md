@@ -29,7 +29,7 @@ From the **Purchase Contract** page, you can also access the **Purchase Contract
 
 Any taxes defined like this from the Purchase Contracts module will be considered when you register documents in the document journal.
 
-## See also
+## Related information
 
 [Overview of Purchase Contracts](@EM-130)  
 

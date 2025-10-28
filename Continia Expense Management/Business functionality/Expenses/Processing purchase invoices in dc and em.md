@@ -34,5 +34,5 @@ You can automatically convert image-based invoices to PDFs for seamless integrat
 
 When you process expenses and select **Process with Document Capture**, supported image-format documents automatically convert to a PDF before they're sent to Document Capture. This results in a more efficient and accurate invoice processing experience.
 
-## See also
+## Related information
 [Posting expenses](@EM-11)

@@ -1,6 +1,6 @@
 ---
 title: Capturing item tracking information
-date: 02-06-2025
+date: 30-09-2025
 description:
 id: DC-470
 lang: en
@@ -10,7 +10,7 @@ lang: en
 
 | Feature | Public preview | General availability online |
 | --- | :-: | :-: |
-| Capturing item tracking information | - | Oct 2025 |
+| Capturing item tracking information | {{checkmark}} Sep 2025 | {{checkmark}} Oct 2025 |
 
 ## Business value
 
@@ -18,4 +18,13 @@ The ability to capture tracking information – such as lot numbers, serial numb
 
 ## Feature details
 
-Tracking information captured in purchase invoices, purchase orders, and purchase receipts will be shown in the order lines. When the document is registered, this information will be transferred to the order and to the created invoice.
+Tracking information extracted from PDF files in purchase invoices (under the **PURCHASE** category) will be automatically transferred to the created invoice when the document is registered.
+
+In future releases, the following enhancements will be introduced:
+
+* Capture values from purchase orders and receipts
+* Transfer captured values to purchase orders upon registration
+* Capture values from XML files
+* Capture multiple item tracking values per line
+
+For more information, see [Capturing item tracking information](@DC-175).

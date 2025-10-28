@@ -1,6 +1,6 @@
 ---
 title: eDocuments vendor flows
-date: 15-04-2025
+date: 15-10-2025
 description: How to send sales invoices and order responses, and receive purchase orders. 
 id: DC-221
 lang: en
@@ -124,9 +124,9 @@ In certain cases, it might be useful to resend an eBilling document that had alr
 >[!NOTE]
 >This action is only available in electronic document formats with the **Copy Indicator** field, such as the Danish OIOUBL format.
 
-1. Choose the {{search}} icon, enter **Outgoing Network Documents**, and then choose the related link.
+1. Search ({{search}}) for and select **Outgoing Network Documents**.
 2. Select the document you would like to resend. Note that only documents with the **eDocument Status** 'Successful' can be resent.
-3. On the action bar, click **Actions > Resend**. Alternatively, select **eDocument Card** and, on the **eOrder Response** page, select **Resend** on the action bar.
+3. On the action bar, click **Actions** > **Resend**. Alternatively, click **eDocument Card** and, on the **eOrder Response** page, click **Resend** on the action bar.
 
 An additional eDocument record is created in the Continia Delivery Network (CDN), and the copy is automatically sent.
 
@@ -139,7 +139,7 @@ Instead of manually responding to each order or invoice, you can configure Conti
 
 To configure your automatic eDocument responses:
 
-1. Choose the {{search}} icon, enter **Continia eDocuments Setup**, and then choose the related link.
+1. Search ({{search}}) for and select **Continia eDocuments Setup**.
 2. On the **eDocument Response** FastTab, under **eOrder Response**, configure the settings:
 
    * **Send Updates** - choose when to notify that the order has been updated. For example, when registering the order.

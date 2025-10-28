@@ -31,7 +31,7 @@ After you've completed the set up process as described above, you can have any e
 
 This will automatically approve the expense. Under **Comments**, the **Comment** field will display the text **Expense automatically approved based on the purchase contract [XXXX]**.
 
-## See also
+## Related information
 
 Refer to the following articles for more information about purchase contracts.
 [Creating Purchase Contracts](@EM-131)  

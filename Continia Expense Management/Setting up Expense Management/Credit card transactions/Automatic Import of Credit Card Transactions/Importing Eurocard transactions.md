@@ -1,25 +1,28 @@
 ---
-title: Importing Eurocard Transactions
-date: 08-09-2023
+title: Importing Eurocard transactions
+date: 31-07-2025
 description: Learn how to import Eurocard transactions into Continia Expense Management 
 id: EM-162
 lang: en
 ---
 
-# Importing Eurocard Transactions 
+# Importing Eurocard transactions 
 
-Continia supports the automatic import of Eurocard transactions directly into Continia Expense Management. Transactions can be imported directly from Eurocard for Eurocard corporate cards.
+Continia supports automatic import of Eurocard transactions directly into Continia Expense Management. Transactions can be imported directly from Eurocard for Eurocard corporate cards.
 
-In the section below, you can read about what's required to get Eurocard to automatically send your transaction files to Continia Expense Management.
+If you have a contact person at Eurocard, inform them that you want your transactions sent to Continia Expense Management. If you don't have a contact at Eurocard, write to one of the following email addresses (depending on where your company is located),
 
-If you have a contact person at Eurocard, inform them that you want your transactions sent to Continia Expense Management. If you don't have a contact at Eurocard, write to one of the following email adresses, depending on where your company is located, cosu@eurocard.dk, (Denmark), corporatesupport@eurocard.se (Sweden), corporatesupport@eurocard.no (Norway), or corporatesupport@eurocard.fi (Finland).
+* Denmark - cosu@eurocard.dk
+* Sweden - corporatesupport@eurocard.se
+* Norway - corporatesupport@eurocard.no
+* Finland - corporatesupport@eurocard.fi
 
-Eurocard will then provide you with a PDF form that you need to fill in and return using one of the above email addresses.
+Eurocard will then provide you with a PDF form that you need to fill in and return using one of the above mentioned email addresses.
 
-## See also
-[Importing Mastercard Transactions](@EM-279)  
-[Importing American Express Transactions](Importing American Express transactions.md)  
-[Importing Visa Transactions](@EM-281)  
-[Importing Transactions from Other Cards](Importing transactions from other cards.md)  
-[Automatic Import of Credit Card Transactions](Overview.md)  
-[Manual File Import](Manual file import.md)  
+## Related information
+[Importing Mastercard transactions](@EM-279)  
+[Importing American Express transactions](Importing American Express transactions.md)  
+[Importing Visa transactions](@EM-281)  
+[Importing transactions from other cards](Importing transactions from other cards.md)  
+[Automatic import of credit card transactions](Overview.md)  
+[Manual file import](Manual file import.md)  

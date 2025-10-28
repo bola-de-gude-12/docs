@@ -4,5 +4,4 @@ Setting up mileage rates.md | Setting up mileage rates
 Setting up company policies for mileages.md | Setting up company policies for mileages
 Setting up the 60-day rule.md | Setting up the 60-day rule (DK)
 Setting up mileage to deduct distance between home and office.md | Setting up mileage to deduct distance between home and office
-Mileage vat calculation uk.md | Mileage VAT calculation (UK)
 Configuring vehicle number registration.md | Configuring vehicle number registration

@@ -1,14 +1,14 @@
 ---
-title: Notifying Admins About Open Documents
-date: 10-07-2024
-description:  
+title: Notifying admins about open documents in Document Capture
+date: 15-10-2025
+description: How to configure email notifications for admins in Document Capture.
 id: DC-158
 lang: en
 ---
 
-# Notifying Admins About Open Documents
+# Notifying admins about open documents
 
-You can send emails to designated admins (such as accounts payable managers) to notify them that there are documents that need to be registered in Continia Document Capture. To send these notification emails – also known as status emails –, you must first [set up an admin as a category manager](#to-assign-category-managers) (one per document category), and then make sure that [the emails are sent either manually automatically](#to-send-status-emails).
+You can send emails to designated admins (such as accounts payable managers) to notify them that there are documents that need to be registered in Continia Document Capture. To send these notification emails – also known as status emails –, you must first [set up an admin as a category manager](#to-assign-category-managers) (one per document category) and then make sure that [the emails are sent either manually automatically](#to-send-status-emails).
 
 You can also [set up a number of customized reminder emails](#to-set-up-reminder-emails) at different levels of urgency, based on how long the individual documents have been in the document journal. For each level, you can enter a specific text that emphasizes the increasing importance of registering the documents. Reminder emails with your entered texts are then sent to the assigned admin at specified intervals until the documents have been registered.
 
@@ -32,7 +32,7 @@ The selected user(s) will now be notified of documents that are pending registra
 
 Once you've assigned one or more category managers, you can set up one or more customized reminder emails for the recipients to take action. To set up reminder emails:
 
-1. Choose the {{search}} icon, enter **Open Document Reminder Email Setup**, and then choose the related link.
+1. Search ({{search}}) for and select **Open Document Reminder Email Setup**.
 1. On the action bar, click **New** to create a new reminder email entry.
 1. In the **Level** column, specify the level of the reminder by entering a whole number. As the **Level** column determines the order in which reminder emails are sent out, the first level is typically labeled **1**, and any subsequent levels are then labeled with consecutive numbers (**2**, **3**, etc.).
 1. In the **Due Date Calculation** column, enter the amount of time that should pass before a reminder email is sent out at this level. This is calculated from the moment the document is imported.
@@ -51,22 +51,22 @@ Status emails can be sent either manually by you or automatically using job queu
 
 **To send status emails manually**:
 
-1. Choose the {{search}} icon, enter **Send Status Email to Category Managers**, and then choose the related link.
-1. Select **OK**.
+1. Search ({{search}}) for and select **Send Status Email to Category Managers**.
+1. Click **OK**.
 
 Status emails will now be sent to the category managers you've assigned.
 
 **To send status emails automatically using job queues**, follow these steps:
 
-1. Choose the {{search}} icon, enter **Send Status Email to Category Managers**, and then choose the related link.
-1. Select **Schedule**.
+1. Search ({{search}}) for and select **Send Status Email to Category Managers**.
+1. Click **Schedule**.
 1. Fill out the fields as needed. For more information, see [Scheduling a report to run later or periodically](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-work-report#ScheduleReport) (Microsoft article).
 
 Status emails will now be sent to the category managers you've assigned, in accordance with your specified settings.
 
 > [!NOTE]
-> You can also set up the job queue from the **Job Queue Entries** page. For more information on how to do this, see [Setting up Job Queues](@DC-16).
+> You can also set up the job queue from the **Job Queue Entries** page. For more information on how to do this, see [Setting up job queues](@DC-16).
 
 ## Related information
 
-[Email Notifications](@DC-26)  
+[Email notifications](@DC-26)  

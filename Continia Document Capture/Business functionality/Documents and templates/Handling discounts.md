@@ -21,7 +21,7 @@ The instructions below assume that you've already added the **Invoice Discount A
 To capture a discount:
 
 1. Search ({{search}}) for and select **Document Categories**.
-2. Select the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
+2. Click the code of the relevant document category – in this case **PURCHASE** – to open the document journal.
 3. In the document list, select the document that you want to register.
 4. On the action bar, click **Home** > **Recognize Fields** and make sure that all values, including the discount, have been captured correctly.
    >[!NOTE]

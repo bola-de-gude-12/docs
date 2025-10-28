@@ -1,12 +1,12 @@
 ---
-title: QR-Bill Management App Integration
-date: 30-01-2025
+title: QR-Bill Management app integration in Document Capture
+date: 15-10-2025
 description:  
 id: DC-217
 lang: en
 ---
 
-# QR-Bill Management App Integration
+# QR-Bill Management app integration
 
 > [!IMPORTANT]
 > This article only applies to Microsoft Dynamics 365 Business Central 2023 release wave 1 (BC v22) and later.
@@ -38,5 +38,5 @@ In addition to the above, Document Capture also carries out other QR-related act
 > [!IMPORTANT]
 > The automatic population of vendor-related fields requires an updated bank directory. To get the latest clearing numbers:
 > 1. Download the TXT file from the [Download Bankenstamm](https://www.six-group.com/de/products-services/banking-services/interbank-clearing/online-services/download-bank-master.html) page of the SIX website. Next, go to Business Central.
-> 2. Choose the {{search}} icon, enter **Bank Directory**, and then choose the related link.
-> 3. On the **Bank Directory** page, select **Import Bank Directory**. Then, select the TXT file downloaded in step 1.
+> 2. Search ({{search}}) for and select **Bank Directory**.
+> 3. On the **Bank Directory** page, click **Import Bank Directory**. Then, select the TXT file downloaded in step 1.

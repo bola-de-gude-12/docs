@@ -1,12 +1,12 @@
 ---
-title: Expense Management Overview of Event Publishers
-date: 08-07-2025
-description: Learn which event publishers are included for each version of Expense Management.
+title: Overview of event publishers
+date: 17-09-2025
+description: List of event publishers included for each version of Expense Management
 id: EM-168
 lang: en
 ---
 
-# Overview of Event Publishers
+# Overview of event publishers
 
 You can customize the functionality of Continia Expense Management using some of the many different event publishers that Continia provides.
 
@@ -14,11 +14,11 @@ Since the release of Expense Management 2025 R1 (26.00), the list of event publi
 
 The following list of Expense Management versions of event publishers:
 
-* [Event Publishers 8.00](@EM-71)
-* [Event Publishers 9.00](@EM-77)
-* [Event Publishers 10.00](@EM-102)
-* [Event Publishers 11.00](@EM-152)
-* [Event Publishers 12.00](@EM-185)
-* [Event Publishers 24.00](@EM-218)
-* [Event Publishers 25.00](@EM-266)
 * [Event Publishers 26.00](@EM-303)
+* [Event Publishers 25.00](@EM-266)
+* [Event Publishers 24.00](@EM-218)
+* [Event Publishers 12.00](@EM-185)
+* [Event Publishers 11.00](@EM-152)
+* [Event Publishers 10.00](@EM-102)
+* [Event Publishers 9.00](@EM-77)
+* [Event Publishers 8.00](@EM-71)

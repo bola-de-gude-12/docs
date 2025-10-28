@@ -26,7 +26,7 @@ If your organization generally matches documents manually, follow these steps to
 1. Search ({{search}}) for and select **Document Categories**.
 1. Select the **PURCHASE** code to open the document journal.
 1. In the document list, select the document (invoice or credit memo) that you want to match against other documents.
-1. On the action bar, click **Process** > **Match Lines**.
+1. On the action bar, click **Home** > **Match Lines**.
 1. In the **Match Overview**, a number of relevant lines from potentially related documents are listed in two overall line sections, depending on what type of document you selected in step 3 above. In one of these sections, select the document line that you want to manually edit.
 1. In the **Matched Quantity** field, enter the correct quantity (typically the quantity of the relevant line in the invoice or credit memo that you selected in step 3).
 1. Repeat steps 5-6 for any other relevant lines in that line section and/or in the other section.
@@ -58,7 +58,7 @@ If your organization generally matches documents manually, follow these steps to
 1. Search ({{search}}) for and select **Document Categories**.
 1. Select the **PURCHASE** code to open the document journal.
 1. In the document list, select the document (invoice or credit memo) that you want to match against other documents.
-1. On the action bar, click **Process** > **Match Lines**.
+1. On the action bar, click **Home** > **Match Lines**.
 1. In the **Match Overview**, a number of relevant lines from potentially related documents are listed in two overall line sections, depending on what type of document you selected in step 3 above. In one of these sections, select the document line that you want to manually edit.
 1. In the **Direct Unit Cost (Invoice)** field (or, if you selected a credit memo in step 3, in the **Direct Unit Cost (Credit Memo)** field), enter the correct price per delivered item for the selected line. This is typically the price of the relevant line in the invoice or credit memo that you selected in step 3.
 1. In the **Line Discount %** field, enter the correct line discount percentage, if necessary.

@@ -1,7 +1,7 @@
 ---
 title: Setting up the 60-Day Rule
-date: 25-03-2025
-description:
+date: 07-10-2025
+description: Verify if a mileage is in compliance with the 60-day rule for the tax-free transport allowance (DK)
 id: EM-59
 lang: en
 ---
@@ -10,21 +10,21 @@ lang: en
 > [!NOTE]
 > The 60-day rule is only available in the Danish localization of Expense Management, and it will not be displayed in the Expense Management Setup in any other localization.
 
-Expense Management can verify if a mileage is in compliance with the 60-day rule for tax-free transport allowance, as mandated by the Danish tax authorities. For more information, see [The 60-Day Rule Explained](https://skat.dk/en-us/businesses/employees-and-pay/transport-allowance/60-day-rule-for-tax-free-transport-allowance) (external link). 
+Expense Management can verify if a mileage is in compliance with the 60-day rule for the tax-free transport allowance, as mandated by the Danish tax authorities. For more information, see [The 60-day rule explained](https://skat.dk/en-us/businesses/employees-and-pay/transport-allowance/60-day-rule-for-tax-free-transport-allowance) (external link). 
 
 When you import a mileage expense into Microsoft Dynamics 365 Business Central, Expense Management will count the number of days an employee has claimed mileage between the home address and the workplace during the last 12 months. If the number of days exceeds 60, a warning will be added to the mileage, it’s then up to the  approver to accept or reject the mileage.
 
 > [!NOTE]
 > Only mileage entries that start or end at the employee's home address will count towards the 60-day rule.
 
-## Setting up checks for the 60-day rule
+## Set up checks for the 60-day rule
 
 To set up Expense Management to apply checks for the 60-day rule:
 
-1. Choose the {{search}} icon, enter **Expense Management Opsætning**, then choose the related link.
-2. In the **Kørsel** FastTab, in **Overskridelse af 60-dagesregel**, you have three options: <ul><li>Leave the field blank. This is the default, and it means that the rule is not enabled.</li><li><b>Advarsel på kørsel</b>. The rule is enabled, and a message will be sent to an admin if the limit of 60 days is exceeded.</li><li><b>Kørsel skattepligtig</b>. The rule is enabled. A new column named <b>Skattepligtig kontonr.</b> is added to the page <b>Bogføringsopsætning</b>. A new column named <b>Skattepligtig sats (RV)</b> is added to the page <b>Kørselssatser</b>.</li></ul>
+1. Search for {{search}} **Expense Management Opsætning**.
+2. In the **Kørsel** FastTab, in **Overskridelse af 60-dagesregel**, you have three options: <ul><li>Leave the field blank. This is the default, and it means that the rule is not enabled.</li><li><b>Advarsel på kørsel</b>. The rule is enabled, and a message will be sent to an admin if the 60 day limit is exceeded.</li><li><b>Kørsel skattepligtig</b>. The rule is enabled. A new column named <b>Skattepligtig kontonr.</b> is added to the page <b>Bogføringsopsætning</b>. A new column named <b>Skattepligtig sats (RV)</b> is added to the page <b>Kørselssatser</b>.</li></ul>
 
-## Understanding triggers and warnings
+## Understand triggers and warnings
 Expense Management has created helpful automatic warnings that ensure essential details are included and accurate (for example, home address and GPS coordinates). The system automatically detects and suggests correct addresses with Google Maps suggestions and helps prevent users from creating mileage entries with the same home address for both, "From home" and "To home". Warnings will also trigger for the following circumstances:
 
 * Mileage does not include a home address that is within range of a previously used home address
@@ -39,3 +39,8 @@ The Expense Mobile App also prevents users from creating mileage entries with th
 - Provide suggestions from Google Maps if the GPS is within 50-500 meters
 - Prevent Mileage from being submitted if the "From" and/or "To" fields were not selected from Google Maps suggestions
 - Suggest the home address if an address close to home is selected (regardless of user location)
+
+## Related information
+
+[The 60-day rule explained](https://skat.dk/en-us/businesses/employees-and-pay/transport-allowance/60-day-rule-for-tax-free-transport-allowance)
+

@@ -1,6 +1,6 @@
 ---
 title: Approval user groups in Document Capture
-date: 31-03-2025
+date: 15-10-2025
 description: How to set up approval user groups with specific account and dimension permissions in Document Capture.
 id: DC-24
 lang: en
@@ -18,7 +18,7 @@ It's possible to set up approval user groups with specific account and dimension
 
 To create a group of approvers and add members to it:
 
-1. Choose the {{search}} icon, enter **Approval User Groups**, and then choose the related link.
+1. Search ({{search}}) for and select **Approval User Groups**.
 
 1. On the action bar, click **New** to create a approval user group.
 
@@ -26,7 +26,7 @@ To create a group of approvers and add members to it:
 
 1. In the **Name** column, enter the name of the new group.
 
-1. To add members to the group, select the group in the list, and then select **Members** on the action bar to open the group's members page.
+1. To add members to the group, select the group in the list, and then click **Members** on the action bar to open the group's members page.
 
 1. On the action bar, click **New**, and then select a member from the list. Repeat this step for all members you want to add, and return to the **Approval User Groups** page when you're done.
 
@@ -40,8 +40,8 @@ To create a group of approvers and add members to it:
 
 Once you've set up an approval user group as described in [To set up approval user groups](#to-set-up-approval-user-groups), you can assign account and dimension permissions to it. You can configure the following two kinds of permissions:
 
-* **Assigning permissions** – what accounts and dimensions the group members can choose from when assigning accounts/dimensions to invoice lines during approval using the Continia Web Approval Portal.
-* **Approval permissions** – what invoice lines the group members can approve (only lines that have been assigned accounts/dimensions for which the members have permissions).
+* **Assigning permissions** - what accounts and dimensions the group members can choose from when assigning accounts/dimensions to invoice lines during approval using the Continia Web Approval Portal.
+* **Approval permissions** - what invoice lines the group members can approve (only lines that have been assigned accounts/dimensions for which the members have permissions).
 
 For more information on these two overall types of permissions, see [Additional details on assigning and approval permissions](#additional-details-on-assigning-and-approval-permissions) below.
 
@@ -52,9 +52,9 @@ For more information on these two overall types of permissions, see [Additional 
 
 To assign account and dimension permissions to an approval user group:
 
-1. Choose the {{search}} icon, enter **Approval User Groups**, and then choose the related link.
+1. Search ({{search}}) for and select **Approval User Groups**.
 
-1. Select the group in the list, and then select **Permissions** on the action bar.
+1. Select the group in the list and click **Permissions** on the action bar.
 
 1. In the **Type** column, select the type of permission. **G/L Account**, **Item**, **Fixed Asset**, **Charge (Item)**, and **Job** are all types of account permissions – whereas **Dimension** represents dimension permissions.
 
@@ -110,4 +110,4 @@ Specifically for approval permissions, it's worth noting that approvers are iden
 ## Related information
 
 [Enabling purchase approval](@DC-22)  
-[Continia user setup for approvals](Continia user setup for approvals.md)  
+[Continia user setup for approvals](@DC-23)  

@@ -1,12 +1,12 @@
 ---
-title: Overview of setting up web approval in Document Capture
-date: 16-06-2025
+title: Setting up web approval in Document Capture
+date: 25-09-2025
 description:  
 id: DC-76
 lang: en
 ---
 
-# Overview of setting up web approval
+# Setting up web approval
 
 Documents can be approved using either the Microsoft Dynamics 365 Business Central web client or the Continia Web Approval Portal. The Web Approval Portal is built on the standard approval functionality used in Business Central, but it’s a separate service that can be accessed by licensed users from [any supported web browser](/continia-document-capture/getting-started/frequently-asked-questions/minimum-requirements/additional-guidelines#browsers).
 

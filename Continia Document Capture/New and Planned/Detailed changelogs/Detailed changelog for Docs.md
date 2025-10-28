@@ -1,33 +1,80 @@
 ---
-title: Changelog for Document Capture Docs
-date: 14-07-2025
+title: Changelog for Document Capture docs
+date: 17-10-2025
 description: A list of all relevant changes to Docs for Document Capture (both new and updated articles).
 id: DC-29
 lang: en
 ---
 
-# Changelog for Document Capture Docs
+# Changelog for Document Capture docs
 
 This article lists all relevant changes to Docs for Continia Document Capture, covering both new and updated articles.
 
 > [!NOTE]
 > To find the detailed changelogs for the Document Capture application itself, see [Detailed changelogs for Document Capture](@DC-449).
 
+## October 2025
+
+| Article | Description |
+| --- | --- |
+| [Handling freight amounts when matching to a purchase order](@DC-230) | Added an article on how to configure and capture freight amounts when matching purchase invoices in Document Capture. |
+| [Keyboard shortcuts](@DC-176) | Added an article on the keyboard shortcuts available in Document Capture. |
+| [Detailed changelog for Continia Document Capture 2025 R2](@DC-389) | Updated the changelog and a number of articles with information related to this release:<ul><li>[Using field translations](@DC-460)</li><li>[Setting up Continia eDocuments](@DC-179#to-set-up-continia-edocuments)</li><li>[Configuring purchase documents](@DC-139)</li><li>[Capturing header fields in a document](@DC-110)</li><li>[Capturing line fields in a document (line recognition)](@DC-147)</li><li>[Setting up the Continia Delivery Network](@DC-75)</li></ul> |
+| [Capturing item tracking information](@DC-175) | Added an article on how to capture item tracking data with Document Capture. |
+| [Setting up the SimplerInvoicing format in eDocuments](@DC-489) | Added an article on the Dutch SimplerInvoicing electronic document format, also known as SI-UBL. |
+| [Release plan for Document Capture](@DC-56) | Updated the roadmap. |
+| [Upgrading to Business Central 2025 Release Wave 2 (v27)](@DC-491) | Added an article about what to do if you have Document Capture installed and want to update your old version of NAV/Business Central to Business Central 2025 release wave 2 (v27). |
+| [Detailed changelog for the Continia Web Approval Portal](@DC-398) | Updated the changelog. |
+
+## September 2025
+
+| Article | Description |
+| --- | --- |
+| [Detailed changelog for Continia Document Capture 2025 R2](@DC-389) | Added the changelog for the pre-release of Document Capture 2025 R2 (27.00). |
+| [Detailed changelog for the Continia Delivery Network](@DC-440) | Updated the changelog. |
+| [Release plan for Document Capture](@DC-56) | Updated the roadmap to indicate that the preview version of Document Capture 2025 R2 is available. |
+| [Minimum requirements for using Continia Document Capture (on premises)](@DC-135) | Added one address to the list of firewall requirements. |
+| [Document Capture permissions](@DC-140) | Updated several permission sets. |
+| [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
+| [Detailed changelog for the Continia Web Approval Portal](@DC-398) | Updated the changelog. |
+| [Continia eDocuments Flows](@DC-183) | Added a Continia Learn video on the purchase order flow to the article. |
+| [Setting up customers and vendors for Continia eDocuments](@DC-180) | Added a Continia Learn video on the eCandidates feature to the article. |
+| [Detailed changelog for the Continia Delivery Network](@DC-440) | Updated the changelog. |
+| [Minimum requirements for using Continia Document Capture (on premises)](@DC-135) | Added two addresses to the list of firewall requirements. |
+| [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
+
+## August 2025
+
+| Article | Description |
+| --- | --- |
+| [The Posted Purchase Receipts category](@DC-174) | Added an article on how to process documents imported into the Posted Purchase Receipts category. |
+| [Setting up customers and vendors for Continia eDocuments](@DC-180) | Updated the article to include a mention to the eCandidates feature. |
+| [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
+| [Using the standard connector app to send electronic documents via Continia](@DC-173) | Added an article on how to set up Continia's E-Document Connector application. |
+| [Detailed changelog for the Continia Delivery Network](@DC-440) | Updated the changelog. |
+| [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
+| [Detailed changelogs for the Continia Document Capture Service](@DC-133) | Updated the changelog. |
+
 ## July 2025
 
 | Article | Description |
 | --- | --- |
-| [Using Document Search](@DC-475) | Updated the changelog. |
+| [Handling reverse charges](@DC-446) | Added an article on how to handle reverse charges. |
+| [Using rules](@DC-245) | Added an article on rules and regular expressions. |
+| [Setting up approval sharing](@DC-25) | Expanded the article to include approval groups. |
+| [Enabling the Web Approval Portal for Business Central (online)](@DC-480) | Expanded the article to cover the entire process. |
+| [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
+| [Detailed changelogs for the Continia Document Capture Service](@DC-133) | Updated the changelog. |
 
 ## June 2025
 
 | Article | Description |
 | --- | --- |
-| [Detailed changelogs for the Continia Document Capture Service](@DC-133) | Published an article on the Document Search functionality. |
+| [Using Document Search](@DC-475) | Added an article on the Document Search functionality. |
 | [Detailed changelog for Continia Document Capture 2024 R1](@DC-188) | Updated the changelog. |
 | [Detailed changelog for Continia Document Capture 2025 R1](@DC-447) | Updated the changelog. |
 | [Detailed changelog for Continia Document Capture 2024 R2](@DC-234) | Updated the changelog. |
-| [Detailed Changelogs for the Continia Document Capture Service](@DC-133) | Updated the changelog. |
+| [Detailed changelogs for the Continia Document Capture Service](@DC-133) | Updated the changelog. |
 | [Detailed changelog for the Continia Delivery Network](@DC-440) | Updated the changelog. |
 | [Detailed changelog for the Continia Web Approval Portal](@DC-398) | Updated the changelog. |
 | [Release plan for Document Capture](@DC-56) | Updated the roadmap. |
@@ -113,7 +160,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | [Detailed changelogs for the Continia Document Capture Service](@DC-133) | Updated the changelog. |
 | [Purchase Contract Approvals](@DC-87) | Added a mention to the approval functionality available for purchase contracts when the Document Capture Document Approval module is active and purchase contract approval is enabled. |
 | [Previous Release Plans](@DC-45) | Roadmap articles related to releases prior to 2024 R2 have been moved to dedicated folders within the **Previous release plans** section. |
-| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate that the [Inclusion of Document Capture Files when Copying, Correcting, and Cancelling Posted Purchase Invoices](/Continia Document Capture/New and Planned/Purchase Documents/Inclusion of Document Capture files when copying, correcting, and canceling posted purchase invoices.md) feature is planned for April 2025. |
+| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate that the [Inclusion of Document Capture Files when Copying, Correcting, and Cancelling Posted Purchase Invoices](@DC-423) feature is planned for April 2025. |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to communicate that the [Inclusion of Document Capture Files when Reversing Transactions Registered in Journals](/Continia Document Capture/New and Planned/Purchase Documents/Inclusion of Document Capture files when reversing transactions registered in journals.md) feature is no longer needed. |
 | [Detailed changelog for Continia Document Capture 2024 R2](@DC-234) | Updated the changelog. |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to better communicate which features are postponed, why, and to when. |
@@ -127,7 +174,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | [Detailed changelog for the Continia Delivery Network](Continia Delivery Network.md) | Updated the changelog. |
 | [Detailed changelog for Continia Document Capture 2024 R2](@DC-234) | Updated the changelog. |
 | [Managing Template Fields](@DC-241) | Moved the content related to adding and removing template fields from [Capturing Header Fields in a Document](@DC-110) to the new article [Managing Template Fields](@DC-241). |
-| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Simpler eDocuments Onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md), [Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md), [Support for the PINT Billing and PINT A-NZ Billing formats in APAC](/Continia Document Capture/New and Planned/Documents and Templates/Support for the PINT Billing and PINT A-NZ Billing formats in APAC.md), [Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md), and [Resending eBilling documents](/Continia Document Capture/New and Planned/Documents and Templates/Resending eBilling documents.md) features. |
+| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Simpler eDocuments Onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md), [Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md), [Support for the PINT Billing and PINT A-NZ Billing formats in APAC](@DC-418), [Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md), and [Resending eBilling documents](@DC-413) features. |
 | [Billing, Consumption, and Transactions](@DC-397) | Added an article about how billing, consumption, and transactions work in Document Capture. |
 
 ## October 2024
@@ -140,7 +187,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | [Advance letters for the Czech Republic](@DC-228) | Added an article about the advance letters feature, which adds support for prepayments in the Czech Republic. |
 | [Calculating due dates with payment days](@DC-229) | Added an article about the payments days feature, which adds support for payment days in Spain. |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [One email for all companies to notify about open approval entries](@DC-406) feature. |
-| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Simpler eDocuments Onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md), [Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md), [Support for the PINT Billing and PINT A-NZ Billing formats in APAC](/Continia Document Capture/New and Planned/Documents and Templates/Support for the PINT Billing and PINT A-NZ Billing formats in APAC.md), [Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md), and [Resending eBilling documents](/Continia Document Capture/New and Planned/Documents and Templates/Resending eBilling documents.md) features. |
+| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Simpler eDocuments Onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md), [Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md), [Support for the PINT Billing and PINT A-NZ Billing formats in APAC](@DC-418), [Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md), and [Resending eBilling documents](@DC-413) features. |
 | [Setting up Customers and Vendors for Continia eDocuments](@DC-180) | Updated the names of certain settings, which were changed for consistency in the latest release. |
 | [Detailed changelog for the Continia Web Approval Portal](Web Approval Portal.md) | Updated the detailed changelog to reflect the release of versions 25.0.0 and 25.0.1 of the Continia Web Approval Portal. |
 
@@ -151,7 +198,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | [Creating Purchase Contracts](@DC-86) | Updated the article to reflect the fact that the **Default Line Details** setting is now known as **Assigned Amount Lines**. |
 | [Capturing Line Fields in a Document (Line Recognition)](@DC-147) | Added a note describing the correct way of changing the order in which columns are presented in the **Lines** section of a document. |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [One email for all companies to notify about open approval entries](/Continia Document Capture/New and Planned/Document Approval/One email for all companies to notify about open approval entries.md) feature. |
-| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Document Matching Improvements Regarding Units of Measure](/Continia Document Capture/New and Planned/Order and Receipt Matching/Document matching improvements regarding units of measure.md) feature. |
+| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Document Matching Improvements Regarding Units of Measure](@DC-422) feature. |
 
 ## August 2024
 
@@ -159,7 +206,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | --- | --- |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the postponement of the [Identification of account numbers using artificial intelligence](/Continia Document Capture/New and Planned/Documents and Templates/Identification of account numbers using artificial intelligence.md) and [Checking PDF signatures](/Continia Document Capture/New and Planned/Documents and Templates/Checking PDF signatures.md) features. |
 | [Release plan for Document Capture](@DC-56) | Updated the overview to communicate the addition of the [New master template fields for Continia Sustainability](@DC-323), [Use Payment Days to calculate due dates in Spain](@DC-421), and [AI-assisted processing of sales documents](@DC-321) features to the October 2024 release. |
-| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate that the [Optimized export of users – part 2](/Continia Document Capture/New and Planned/Web Approval Portal/Optimized export of users – part 2.md) feature is no longer needed. |
+| [Release plan for Document Capture](@DC-56) | Updated the overview to communicate that the [Optimized export of users - part 2](/Continia Document Capture/New and Planned/Web Approval Portal/Optimized export of users - part 2.md) feature is no longer needed. |
 | [Unsupported Standard Features](@DC-134) | Updated the article to indicate that the preview functionality isn't supported when matching against a purchase order. |
 | [Detailed changelog for Continia Document Capture 2024 R1](@DC-188) | Updated the article to reflect the release of Document Capture 2024 R1 Service Pack 1, hotfix 6. |
 
@@ -180,7 +227,7 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 
 | Article | Description |
 | --- | --- |
-| [Release plan for Document Capture](@DC-56) | Updated the Document Capture road map with the following feature articles: <ul><li>[Optimized export of users – part 2](/Continia Document Capture/New and Planned/Web Approval Portal/Optimized export of users – part 2.md)</li><li>[Fully functional cross-company dashboard listing all pending approvals](@DC-429)</li><li>[Warnings about invoices already paid and registered in Continia Expense Management](@DC-428)</li><li>[Approval flow codes with advanced approval](@DC-364)</li><li>[Automatic archiving of purchase orders upon registration of updates](@DC-349)</li><li>[One email for all companies to notify about open approval entries](@DC-406)</li><li>[Improvements to the Purchase Contracts module](@DC-350)</li><li>[Populating template fields with default values](@DC-312)</li><li>[Highlighting only relevant lines for advanced approval](@DC-430)</li><li>[Added support for the transfer of invoice discount amounts](@DC-313)</li><li>[Dedicated matching page for the purchase order category](@DC-351)</li><li>[Support for purchase advance letters in the Czech Republic](@DC-395)</li><li>[Identification of account numbers using artificial intelligence](/Continia Document Capture/New and Planned/Documents and Templates/Identification of account numbers using artificial intelligence.md)</li><li>[New line type – **Allocation Accounts**](@DC-425)</li><li>[Checking PDF signatures](/Continia Document Capture/New and Planned/Documents and Templates/Checking PDF signatures.md)</li><li>[Simpler eDocuments onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md)</li><li>[Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md)</li><li>[Support for the PINT Billing and PINT A-NZ Billing formats in APAC](/Continia Document Capture/New and Planned/Documents and Templates/Support for the PINT Billing and PINT A-NZ Billing formats in APAC.md)</li><li>[Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md)</li><li>[Support for the XRechnung format in Germany](@DC-420)</li><li>[Automatization of CDN metadata and statuses](@DC-315)</li><li>[Sending eDocuments automatically](@DC-316)</li><li>[Resending eBilling documents](/Continia Document Capture/New and Planned/Documents and Templates/Resending eBilling documents.md)</li><li>[Improved order matching using eDocuments data](@DC-317)</li><li>[Support for new document types in the advanced ordering flow](@DC-318)</li><li>[Checking for customer and vendor eDocument capabilities](@DC-319)</li><li>[Educational page to improve user knowledge of eDocuments and formats](/Continia Document Capture/New and Planned/Documents and Templates/Educational page to improve user knowledge of eDocuments and formats.md)</li><li>[Support for the FA(2) format in Poland](/Continia Document Capture/New and Planned/Documents and Templates/Support for the FA2 format in Poland.md)</li><li>[Support for sales shipments](/Continia Document Capture/New and Planned/Documents and Templates/Support for sales shipments.md)</li><li>[Ability to handle payment means in Continia eDocuments](/Continia Document Capture/New and Planned/Documents and Templates/Ability to handle payment means in Continia eDocuments.md)</li></ul> |
+| [Release plan for Document Capture](@DC-56) | Updated the Document Capture road map with the following feature articles: <ul><li>[Optimized export of users - part 2](/Continia Document Capture/New and Planned/Web Approval Portal/Optimized export of users - part 2.md)</li><li>[Fully functional cross-company dashboard listing all pending approvals](@DC-429)</li><li>[Warnings about invoices already paid and registered in Continia Expense Management](@DC-428)</li><li>[Approval flow codes with advanced approval](@DC-364)</li><li>[Automatic archiving of purchase orders upon registration of updates](@DC-349)</li><li>[One email for all companies to notify about open approval entries](@DC-406)</li><li>[Improvements to the Purchase Contracts module](@DC-350)</li><li>[Populating template fields with default values](@DC-312)</li><li>[Highlighting only relevant lines for advanced approval](@DC-430)</li><li>[Added support for the transfer of invoice discount amounts](@DC-313)</li><li>[Dedicated matching page for the purchase order category](@DC-351)</li><li>[Support for purchase advance letters in the Czech Republic](@DC-395)</li><li>[Identification of account numbers using artificial intelligence](/Continia Document Capture/New and Planned/Documents and Templates/Identification of account numbers using artificial intelligence.md)</li><li>[New line type – **Allocation Accounts**](@DC-425)</li><li>[Checking PDF signatures](/Continia Document Capture/New and Planned/Documents and Templates/Checking PDF signatures.md)</li><li>[Simpler eDocuments onboarding](/Continia Document Capture/New and Planned/Documents and Templates/Simpler eDocuments onboarding.md)</li><li>[Support for the EHF format for eOrders in Norway](/Continia Document Capture/New and Planned/Documents and Templates/Support for the EHF format for eOrders in Norway.md)</li><li>[Support for the PINT Billing and PINT A-NZ Billing formats in APAC](@DC-418)</li><li>[Support for the SimplerInvoicing format in the Netherlands](/Continia Document Capture/New and Planned/Documents and Templates/Support for the SimplerInvoicing format in the Netherlands.md)</li><li>[Support for the XRechnung format in Germany](@DC-420)</li><li>[Automatization of CDN metadata and statuses](@DC-315)</li><li>[Sending eDocuments automatically](@DC-316)</li><li>[Resending eBilling documents](@DC-413)</li><li>[Improved order matching using eDocuments data](@DC-317)</li><li>[Support for new document types in the advanced ordering flow](@DC-318)</li><li>[Checking for customer and vendor eDocument capabilities](@DC-319)</li><li>[Educational page to improve user knowledge of eDocuments and formats](/Continia Document Capture/New and Planned/Documents and Templates/Educational page to improve user knowledge of eDocuments and formats.md)</li><li>[Support for the FA(2) format in Poland](/Continia Document Capture/New and Planned/Documents and Templates/Support for the FA2 format in Poland.md)</li><li>[Support for sales shipments](/Continia Document Capture/New and Planned/Documents and Templates/Support for sales shipments.md)</li><li>[Ability to handle payment means in Continia eDocuments](@DC-407)</li></ul> |
 
 ## May 2024
 
@@ -224,8 +271,8 @@ This article lists all relevant changes to Docs for Continia Document Capture, c
 | --- | --- |
 | [Release plan for Document Capture](@DC-56) | Updated the Document Capture road map with the following feature articles: <ul><li>[Continia eDocuments](@DC-310)</li><li>[Aligning the Purchase Contracts Module with North America](@DC-346)</li><li>[End Dates for Purchase Contract Lines](@DC-347)</li><li>[List of Documents Requiring Special Attention with Regard to the Secure Archive](@DC-264)</li><li>[List of Documents for Which Activity Log Entries Have Been Created Between Approval and Posting](@DC-265)</li><li>[Support for Multi-Entity Management (MEM) by Binary Stream Software](@DC-263)</li></ul> |
 | [How to Comply with the Danish Bookkeeping Act](@DC-169) | Added an article about the new Danish Bookkeeping Act and how to comply with it. Also made the article available in Danish: [Sådan kan du overholde bogføringsloven](@DC-170) |
-| [Importing Electronic Documents in Denmark](@DC-174) | Updated the article with information about NemHandel and Continia's status as an officially registered Peppol and NemHandel access point. Also updated [Understanding the Continia Delivery Network](@DC-53). |
-| [Importing Electronic Documents in Australia](@DC-173) | Updated the article with information about the forthcoming ability to connect to the Peppol eDelivery Network. Also updated the following articles: <ul><li>[Importing Electronic Documents in the Netherlands](@DC-175)</li><li>[Importing Electronic Documents in New Zealand](@DC-176)</li></ul> |
+| [Importing Electronic Documents in Denmark](@DC-185) | Updated the article with information about NemHandel and Continia's status as an officially registered Peppol and NemHandel access point. Also updated [Understanding the Continia Delivery Network](@DC-53). |
+| [Importing Electronic Documents in Australia](@DC-202) | Updated the article with information about the forthcoming ability to connect to the Peppol eDelivery Network. Also updated the following articles: <ul><li>[Importing Electronic Documents in the Netherlands](@DC-196)</li><li>[Importing Electronic Documents in New Zealand](@DC-201)</li></ul> |
 | [Setting up the Continia Delivery Network](@DC-75) | Updated the article with a guide on how to onboard to the NemHandel network (only for Danish organizations). |
 
 <style>

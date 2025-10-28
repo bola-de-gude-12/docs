@@ -1,43 +1,44 @@
 ---
-title: Expense Management Scope of Support Services
-description: Learn more about EM versions and how Continia support can help you. 
-date: 25-09-2024
+title: Scope of support services 
+date: 01-10-2025
+description: Learn more about EM versions and how Continia support can help you
 id: EM-164
 lang: en
 ---
 
-# Scope of Support Services
+# Scope of support services
 
 This article provides information about the support services offered by Continia. We'll help you understand when it's appropriate to seek assistance from Continia, which Expense Management versions support covers, and what falls outside the scope of support. 
 
-## Supported versions
-Continia provides ongoing support of all Expense Management releases for at least two years after each release date. Currently, the following versions of Expense Management are supported: 
-
 > [!NOTE]
-> With its 2024 spring release, Expense Management will make a version leap from 12.00 to 24.00, meaning that versions 13.00–23.00 don't exist and never will. This was done in order to align the versioning of Expense Management with that of Microsoft Dynamics 365 Business Central.
+> Starting with Expense Management 2025 R2 (27.00), the latest version of Expense Management will only be compatible with the latest version of Business Central. However, service packs will continue to be released for the three latest versions of Expense Management.
+
+## Supported versions
+Continia provides ongoing support of all Expense Management releases for at least 18 months after each release date. Currently, the following versions of Expense Management are supported: 
 
 | Version | Release date | Support end date |
 | --- | --- | --- |
-| Expense Management 2024 R2 (25.00) | October 1, 2024 | October 1, 2026 |
-| Expense Management 2024 R1 (24.00) | April 1, 2024 | April 1, 2026 |
-| Expense Management 2023 R2 (12.00) | October 1, 2023 | October 1, 2025 |
-| Expense Management 2023 R1 (11.00) | April 1, 2023 | April 1, 2025 |
+| Expense Management 2025 R2 (27.00) | Oct 1, 2025 | Apr 1, 2027 |
+| Expense Management 2025 R1 (26.00) | Apr 1, 2025 | Apr 1, 2027 |
+| Expense Management 2024 R2 (25.00) | Oct 1, 2024 | Oct 1, 2026 |
+| Expense Management 2024 R1 (24.00) | Apr 1, 2024 | Apr 1, 2026 |
+| Expense Management 2023 R2 (12.00) | Oct 1, 2023 | Oct 1, 2025 |
 
 
 Support for the following versions of Expense Management has recently ended:
 
 | Version | Release date | Support end date |
 | --- | --- | --- |
-| Expense Management 2022 R2 (10.00) | October 1, 2022 | October 1, 2024 |
-| Expense Management 2022 R1 (9.00) | March 1, 2022 | March 1, 2024 |
-| Expense Management 2021 R2 (8.00) | September 1, 2021 | September 1, 2023 |
+| Expense Management 2023 R1 (11.00) | Apr 1, 2023 | Apr 1, 2025 |
+| Expense Management 2022 R2 (10.00) | Oct 1, 2022 | Oct 1, 2024 |
+| Expense Management 2022 R1 (9.00) | Mar 1, 2022 | Mar 1, 2024 |
 
 We strongly advise users currently using an unsupported version of Expense Management to upgrade to a supported version under two critical scenarios:
 
-1. If you encounter issues not addressed in a service pack for the older version.
-2. If you can gain clear benefits from the enhanced functionality the newer version offers.
+* If you encounter issues not addressed in a service pack for the older version.
+* If you can gain clear benefits from the enhanced functionality the newer version offers.
 
-Continia ensures the continuous improvement of all supported Expense Management versions through the regular release of service packs. We highly recommend implementing these service packs regularly. The process is straightforward, involving only the import of new objects, with no data conversion required. Each service pack provides end users easy and quick access to all corrections and improvements in a single update, significantly enhancing system stability.
+Continia ensures the continuous improvement of all supported Expense Management versions through the regular release of service packs. We highly recommend implementing these service packs regularly. The process is straightforward, involving only the import of new objects, with no data conversion required. Each service pack provides end users quick access to all corrections and improvements in a single update, significantly enhancing system stability.
 
 > [!IMPORTANT]
 > Individual patches and bug fixes cannot be provided separately. To implement a specific bug fix, you must install the entire service pack that includes that particular fix.
@@ -68,8 +69,6 @@ For outdated versions, Continia answers questions about Expense Management funct
 * Performance issues.
 * Issues with functionality that doesn't work as expected.
 * Incorrect recognition of text in PDF and XML files.
-
-
 
 
 

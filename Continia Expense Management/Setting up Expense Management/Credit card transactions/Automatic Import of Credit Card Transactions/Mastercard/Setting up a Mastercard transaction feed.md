@@ -48,6 +48,6 @@ Your bank will initiate delivery of the feed by finding Continia Software in Mas
 
 You're now ready to set up a bank agreement in Expense Management to receive Mastercard transactions automatically. For information on how to do this, see [Activating Credit Card Agreements](@EM-32).
 
-## See also
+## Related information
 
 [Importing Mastercard Transactions](@EM-279)  

@@ -31,7 +31,7 @@ To import Visa card transactions from your bank into Expense Management, an impo
 Transactions are exchanged between your bank and Continia via SFTP, which is a very widely used network protocol for the transfer of files between clients and servers.
 
 
-## See also
+## Related information
 [Automatic Import of Credit Card Transactions](/Continia Expense Management/Setting up Expense Management/Credit card transactions/Automatic Import of Credit Card Transactions/Overview.md)  
 [Finding a Reseller of Continia Expense Management](/Continia Expense Management/Getting Started/Resellers and Partners/Find a Reseller.md)  
 [Importing American Express Transactions](/Continia Expense Management/Setting up Expense Management/Credit card transactions/Automatic Import of Credit Card Transactions/Importing American Express transactions.md)  

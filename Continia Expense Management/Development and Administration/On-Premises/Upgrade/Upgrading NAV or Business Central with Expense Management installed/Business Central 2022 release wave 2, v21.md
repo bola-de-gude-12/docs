@@ -16,7 +16,7 @@ The following table provides an overview of what you have to do if you have Cont
 | Full upgrade from the following version: <ul><li>Business Central April 2019 (v14, FOB-based)</li></ul> | From this version, you must do as follows to upgrade: <ol><li>Upgrade Expense Management to the latest version (unless you've already done so coming from an earlier BC version). Use [this page](@DC-8) to determine how to upgrade from your particular version of Expense Management.</li><li>Follow [this guide](https://continia.zendesk.com/hc/en-us/articles/8031761835154-How-to-upgrade-DC-and-EM-to-Business-Central-2022-release-wave-2-BC21-on-premises-extensions-) to migrate table data to extensions. </li></ol> |
 | Full upgrade from one of the following versions: <ul><li>Business Central 2019 wave 2 (v15)</li><li>Business Central 2020 wave 1 (v16)</li><li>Business Central 2020 wave 2 (v17)</li><li>Business Central 2021 wave 1 (v18)</li><li>Business Central 2021 wave 2 (v19)</li><li>Business Central 2022 wave 1 (v20)</li></ul> | From these versions, you must do as follows to upgrade: <ol><li>Uninstall and unpublish all Continia apps.</li><li>Upgrade to BC v21 using [this Microsoft guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrade-overview-v21). </li><li>Publish and install the latest versions of all Continia apps.</li></ol> |
 
-## See also
+## Related information
 [Supported Upgrade Paths for Continia Expense Management (FOB)](@EM-103)  
 
 

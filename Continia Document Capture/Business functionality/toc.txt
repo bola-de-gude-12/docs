@@ -1,9 +1,9 @@
 Overview of business functionality.md | Overview
-General business functionality | General business functionality
+Continia eDocuments | Continia eDocuments
 Document categories | Document categories
 Documents and templates | Documents and templates
+General business functionality | General business functionality
+Local functionality | Local functionality
 Order and receipt matching | Order and receipt matching
 Purchase approval | Purchase approval
 Purchase contracts | Purchase contracts
-Local functionality | Local functionality
-Continia eDocuments | Continia eDocuments

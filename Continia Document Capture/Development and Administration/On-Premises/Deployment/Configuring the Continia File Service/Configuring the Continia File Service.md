@@ -1,6 +1,6 @@
 ---
-title: Configuring the Continia File Service
-date: 14-03-2023
+title: Configuring the Continia File Service in Document Capture
+date: 15-10-2025
 description:  
 id: DC-125
 lang: en
@@ -29,9 +29,9 @@ To set up a repository and authorization key for the Continia File Service, foll
    > 
    > The file path is the root directory that each of your Continia solutions has access to. So if, for example, you used to have your Document Capture documents in C:\DC\PDF, C:\DC\Archive, and C:\DC\Misc, enter **C\:\DC** under **File Path**.
 1. In the **Service** section, under **Service user**, select a service user with access to the directory.
-1. Below the **Repositories** table, select **Save** to save your changes. 
-1. In the **Service** section, under **Service status**, select **Start** to start the service.
-1. When you're done, select **Close** to exit.
+1. Below the **Repositories** table, click **Save** to save your changes. 
+1. In the **Service** section, under **Service status**, click **Start** to start the service.
+1. When you're done, click **Close** to exit.
 
 You're now ready to perform the final configuration of the Continia File Service. For information on how to do this, see [Setting up the Continia File Service in Business Central](@DC-126).
 

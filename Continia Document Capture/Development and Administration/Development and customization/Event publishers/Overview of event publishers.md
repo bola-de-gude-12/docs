@@ -1,12 +1,12 @@
 ---
-title: Overview of event publishers for Document Capture
+title: Event publishers for Document Capture
 description: A list of references to articles on event publishers per version of Document Capture.
-date: 27-06-2025
+date: 25-09-2025
 id: DC-91
 lang: en
 ---
 
-# Overview of event publishers
+# Event publishers
 
 You can customize the functionality of Continia Document Capture using some of the many different event publishers that Continia provides.
 

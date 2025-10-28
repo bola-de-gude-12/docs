@@ -15,6 +15,6 @@ To have a module added to your Expense Management license, please contact [your 
 > [!NOTE]
 > The base module, called Essential, for Expense Management is mandatory, and you'll be charged according to the number of modules added by your partner.
 
-## See also
+## Related information
 
 [Managing Licenses](@EM-55)  

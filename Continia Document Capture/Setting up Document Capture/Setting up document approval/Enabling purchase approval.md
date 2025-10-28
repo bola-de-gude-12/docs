@@ -1,6 +1,6 @@
 ---
 title: Enabling purchase approval in Document Capture
-date: 31-03-2025
+date: 19-09-2025
 description: How to enable purchase approval and edit the basic document approval settings.
 id: DC-22
 lang: en
@@ -15,12 +15,12 @@ Most of the basic document approval settings for Continia Document Capture – i
 
 You can easily enable Document Capture purchase approval using the assisted setup guide. To do this, follow these steps:
 
-1. Choose the {{search}} icon, enter **Assisted Setup**, and then choose the related link to open the corresponding page.
-1. Under **Continia Document Capture**, select **Create approval workflow** to open the assisted setup guide.
-1. Select **Next**, and then select the approval workflows that you want to set up. Select **Next** to continue.
-1. To set up users as approvers right away, select **Open Continia User Setup** to open the user setup page, and then edit the list of users as needed. You can also do this later, following the guide in [Continia user setup for approvals](@DC-23).
-1. To configure a number of more advanced approval settings immediately, select **Approval Setup** to open the **Document Capture Setup** page, and then make any necessary changes. You can also do this later, following the [guide below](#to-set-up-purchase-approval).
-1. Select **Next** > **Finish** to complete the guide.
+1. Search ({{search}}) for and select **Assisted Setup**.
+1. Under **Continia Document Capture**, click **Create approval workflow** to open the assisted setup guide.
+1. Click **Next**, then select the approval workflows that you want to set up. Click **Next** to continue.
+1. To set up users as approvers right away, click **Open Continia User Setup** to open the user setup page, and then edit the list of users as needed. You can also do this later, following the guide in [Continia user setup for approvals](@DC-23).
+1. To configure a number of more advanced approval settings immediately, click **Approval Setup** to open the **Document Capture Setup** page, and then make any necessary changes. You can also do this later, following the [guide below](#to-set-up-purchase-approval).
+1. Click **Next** > **Finish** to complete the guide.
 
 Once you've completed the assisted setup guide, go to the **Continia Solution Management** page and enable the **Document Approval** module. For information on how to do this, see [Using Continia Solution Management](@DC-107).
 
@@ -31,7 +31,7 @@ Once you've completed the assisted setup guide, go to the **Continia Solution Ma
 
 To set up Document Capture purchase approval, follow these steps:
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 
 1. On the action bar, click **Setup > Purchase Approval**.
 
@@ -45,9 +45,9 @@ To set up Document Capture purchase approval, follow these steps:
    > [!NOTE]
    > Enabling any of the above settings automatically creates an [approval user group](@DC-24) with the code ALL – that is, with all permissions on all types and dimensions –, but only if such a group doesn’t already exist.
 
-   * **Allow Force Approval** – to actually apply force approval, see [Force approval](@DC-36).
-   * **Use Account and Dimension Approval Permissions** – to configure account and dimension permissions for a group or an individual user, see [Approval user groups](Approval user groups.md) and [Configuring account and dimension permissions](/continia-document-capture/setting-up-document-capture/setting-up-document-approval/continia-user-setup-for-approvals#configuring-account-and-dimension-permissions).
-   * **Keep On Hold** – if you enable this, the **Remove On Hold** dialog won't be displayed to approvers when they approve documents that have been put on hold. Instead, the on-hold status will be kept by default throughout the approval process.
+   * **Allow Force Approval** - to actually apply force approval, see [Force approval](@DC-36).
+   * **Use Account and Dimension Approval Permissions** - to configure account and dimension permissions for a group or an individual user, see [Approval user groups](Approval user groups.md) and [Configuring account and dimension permissions](/continia-document-capture/setting-up-document-capture/setting-up-document-approval/continia-user-setup-for-approvals#configuring-account-and-dimension-permissions).
+   * **Keep On Hold** - if you enable this, the **Remove On Hold** dialog won't be displayed to approvers when they approve documents that have been put on hold. Instead, the on-hold status will be kept by default throughout the approval process.
    * **Copy Document Comment to Approval Comment** - if enabled, document comments added prior to registration are made available as approval comments on purchase invoices, credit memos, and purchase orders when the document is registered.
 
    > [!TIP]
@@ -57,8 +57,8 @@ To set up Document Capture purchase approval, follow these steps:
 
 1. To enable [four-eye approval](@DC-35), go to **4-eyes Approval** and select either **Required** or **Required - both with full amounts limits**, depending on what you prefer. Besides enabling four-eye approval, this makes the following two fields editable:
 
-   1. **2nd Approver**: This allows you to specify if the second approver should be selected manually or automatically. For more details, see [Manual or automatic approver identification](@DC-35#manual-or-automatic-approver-identification).
-   1. **4-eyes Threshold Amount (LCY)**: If you enter an amount in this field, four-eye approval will be applied only to invoices that exceed this amount in the local currency. All invoices with lower values will only need a single approver rather than two.
+   1. **2nd Approver** - this allows you to specify if the second approver should be selected manually or automatically. For more information, see [Manual or automatic approver identification](@DC-35#manual-or-automatic-approver-identification).
+   1. **4-eyes Threshold Amount (LCY)** - if you enter an amount in this field, four-eye approval will be applied only to invoices that exceed this amount in the local currency. All invoices with lower values will only need a single approver rather than two.
 
    > [!NOTE]
    > If document approval is initiated by an [approval flow code](@DC-33), four-eye approval won't apply even when enabled here.

@@ -8,7 +8,7 @@ lang: en
 # Manual File Import 
 If it isn't possible to import your credit card transactions automatically into Continia Expense Management from either your credit card provider or your bank, importing them manually instead will be an option as of version 2021 R1 of Expense Management. You can read more about this in the article [Setting up Transaction Templates](@EM-42).
 
-##See also
+## Related information
 [Automatic Import of Credit Card Transactions](Overview.md)  
 [Importing American Express Transactions](Importing American Express transactions.md)  
 [Importing Mastercard Transactions](@EM-279)  

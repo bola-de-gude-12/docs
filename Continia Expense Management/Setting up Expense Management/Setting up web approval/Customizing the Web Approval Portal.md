@@ -18,7 +18,7 @@ To customize the portal:
 1. Under **Custom Approval Fields**, you can enable your own custom fields, which will display in the Web Approval Portal. If you need additional fields, select **Show more** in the upper-right corner.
 1. Select **Close** when you're done to save your changes and close the page.
 
-## See also
+## Related information
 
 For more information about setting up and customizing fields, see:
 

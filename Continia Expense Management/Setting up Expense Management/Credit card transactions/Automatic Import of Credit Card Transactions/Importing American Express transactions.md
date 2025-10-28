@@ -25,7 +25,7 @@ When you have completed the two forms, send them to the Data Files Enablement Te
 <b>electronic.transmissions.team@aexp.com</b>
 
 
-##See also
+## Related information
 [Automatic Import of Credit Card Transactions](Overview.md)  
 [Importing Mastercard Transactions](@EM-279)  
 [Importing Visa Transactions](@EM-281)  

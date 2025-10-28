@@ -78,7 +78,7 @@ If you're still having trouble, please submit a support ticket. Your support tic
 > 
 > For information on how to find client credentials and company GUID, see [How to find Client Credentials and Company GUID](https://continia.zendesk.com/hc/en-us/articles/360020019300-How-to-find-Client-Credentials-and-Company-GUID) (only available to Continia partners).
 
-##See also
+## Related information
 [Importing American Express Transactions](Importing American Express transactions.md)  
 [Importing Mastercard Transactions](@EM-279)  
 [Importing Visa Transactions](@EM-281)  

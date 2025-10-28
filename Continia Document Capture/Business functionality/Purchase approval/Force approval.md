@@ -23,7 +23,7 @@ As an approval administrator, you can force the approval of a purchase invoice b
 1. On the **Purchase Invoice** page, on the action bar, click **Actions** > **Approval Administration** > **Force Approval**.
 1. A dialog box asks if you want to force the approval of the invoice. Select **Yes**.
 
-The invoice will now be instantly approved and moved to the **Released PIs** tile in the Role Center.
+The invoice will now be instantly approved and moved to the **Released PIs** tile on the Role Center.
 
 > [!NOTE]
 > For any invoice whose approval has been forced, the forced approval will be logged in the **Approval Entry** table. Also, on the **Purchase Invoice** page of the relevant invoice, on the **General** FastTab, the **Approval Comments** field will read **Approval forced by [user ID]**.

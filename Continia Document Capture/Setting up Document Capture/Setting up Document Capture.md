@@ -1,12 +1,12 @@
 ---
-title: Overview of setting up Document Capture
-date: 16-06-2025
+title: Setting up Document Capture
+date: 28-08-2025
 description:  
 id: DC-121
 lang: en
 ---
 
-# Overview of setting up Document Capture
+# Setting up Document Capture
 Continia Document Capture comes with a standard configuration that covers all common scenarios and processes, but you can change the configuration to fit the exact needs of your organization.
 
 The standard configuration includes a set of predefined document categories and templates all ready to use, making it easy for you to start processing purchase invoices and credit memos as well as a range of other document types.

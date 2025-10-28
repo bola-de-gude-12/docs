@@ -1,12 +1,12 @@
 ---
-title: Overview of setting up order and receipt matching in Document Capture
-date: 16-06-2025
+title: Setting up order and receipt matching in Document Capture
+date: 25-09-2025
 description:  
 id: DC-60
 lang: en
 ---
 
-# Overview of setting up order and receipt matching
+# Setting up order and receipt matching
 
 With Continia Document Capture, you can have all incoming invoices and credit memos matched against related documents (for instance, invoices can be matched with corresponding purchase orders and receipts) to ensure that everything checks out and that, for example, invoices are ready for payment. This can be done either manually by you or automatically by Document Capture.
 
@@ -22,4 +22,4 @@ The manual procedure requires no setup at all, whereas automatic matching must b
 
 ## Related information
 
-[Overview of order and receipt matching](@DC-61)
+[Order and receipt matching](@DC-61)

@@ -20,7 +20,7 @@ The following table contains a number of recommended links to get you started:
 | [System Requirements (On-Premises)](On-premises/Deployment/Minimum Requirements.md) | Lists the minimum requirements and recommendations for using Expense Management in Microsoft Dynamics 365 Business Central *on-premises*. You can find the _online_ requirements [here](@EM-83). |
 | [Web Approval Portal Requirements (On-Premises)](On-premises/Deployment/Web Approval Portal Requirements On-Premises.md) | Describes the requirements for using the Continia Web Approval Portal with Microsoft Dynamics 365 Business Central *on-premises*. For the _online_ requirements, see [this article](/continia-expense-management/getting-started/troubleshooting-and-faqs/minimum-requirements#continia-web-approval-portal). |
 
-##See also
+## Related information
 [Getting Started with Continia Expense Management](/Continia Expense Management/Getting Started/Overview.md)  
 [Feature Management](Feature Management.md)  
 [Supported Countries and Languages](@EM-1)  

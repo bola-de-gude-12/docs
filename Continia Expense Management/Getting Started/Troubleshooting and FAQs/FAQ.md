@@ -1,7 +1,8 @@
 ---
 title: Expense Management Frequently Asked Questions
-date: 27-03-2025
-description:  
+date: 05-09-2025
+description: Frequently asked question regarding Expense Management
+id: EM-360
 lang: en
 ---
 
@@ -28,12 +29,12 @@ The cost of using Expense Management for Microsoft Dynamics 365 Business Central
 
 You can find detailed information on pricing for both online and on-premises usage [here](https://www.continia.com/pricing/).
 
-## Unsupported Endpoint Managers in Continia Expense Management
+## Unsupported endpoint managers in Continia Expense Management
 Continia Expense Management does not currently support the use of Microsoft Intune, app protection policies, or other endpoint management solutions. Moreover, we cannot provide support or assistance for configurations involving endpoint managers, such as Microsoft Intune.
 
 However, we are actively investigating adding support for these solutions in a future release. While we hope to offer this functionality in the future, there is no confirmed timeline for implementation so we cannot make any promises.
 
-## See also
+## Related information
 [Country/Regional Availability and Supported Languages](@EM-1)  
 [Country/Regional Availability and Supported Languages for FOB](@EM-2)  
 [Finding a reseller of Continia Expense Management](@EM-57)  

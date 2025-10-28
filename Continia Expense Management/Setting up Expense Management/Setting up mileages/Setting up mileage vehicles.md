@@ -56,7 +56,7 @@ To set up a default vehicle for an expense user, follow these steps:
 5. Under **Vehicle Code**, choose the vehicle you want to set as the default vehicle for the expense user.
 6. Fill out the rest of the fields as necessary.
 
-## See also
+## Related information
 [Setting up the Continia Users Default Setup](/Continia Expense Management/Setting up Expense Management/Setting up General Business Functionality/Setting up the Continia Users Default Setup.md)  
 [Expense User Setup for Expense Management](@EM-36)  
 [Expense User Group Setup for Expense Management](@EM-35)  

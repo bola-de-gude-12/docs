@@ -24,7 +24,7 @@ To set up on-premises OCR:
 1. Ensure that you've imported the default Document Capture configuration.
 1. Create and configure email addresses for each relevant document category. For more information, see [Creating and Configuring Email Addresses for Document Import](Creating and configuring email addresses for document import.md).
 1. Install the ABBYY and Document Capture services. For more information, see [Installing ABBYY and Document Capture Services](Installing ABBYY and Document Capture services.md).
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the **Document Capture Setup** page, on the **General** FastTab, go to the **On-Premise OCR Storage** section.
 1. In the **PDF File Path for OCR** field, specify a path to the folder where you want to store all scanned PDF documents. This folder corresponds to the **Pending OCR** cue in the **Continia Document Capture Activities** section of the Role Center.
    > [!IMPORTANT]

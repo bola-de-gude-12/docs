@@ -20,7 +20,7 @@ You can send expense reports created in the Continia Expense Portal or the Expen
  * **Mandatory**, which means users *must* send their expense reports for pre-approval 
  * **Disabled**, which deactivates the entire feature.
 
-## See also
+## Related information
 For more information about expense reports, see: 
 
 [Setting up expense reports](@EM-306)

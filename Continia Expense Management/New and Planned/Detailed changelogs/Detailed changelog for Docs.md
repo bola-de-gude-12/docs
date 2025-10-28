@@ -1,12 +1,12 @@
 ---
 title: Changelog for Expense Management Docs
-date: 01-07-2025
-description: A list of all relevant changes to Docs for Expense Management – both new and updated articles
+date: 17-10-2025
+description: List of all updated and new Docs for new and changed functionality to Expense Management
 id: EM-287
 lang: en
 ---
 
-# Changelog for Expense Management docs
+# Changelog for Expense Management Docs
 
 This article lists all relevant changes to docs for Continia Expense Management, covering both new and updated articles.
 
@@ -15,15 +15,57 @@ This article lists all relevant changes to docs for Continia Expense Management,
 
 
 
+## September 2025
+
+| Article                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Mapping bank currency codes](@EM-371)                       | Map three digit numeric banking currency codes to alphabetic currency codes in NAV or Business Central. |
+| [Detailed changelog for Continia Expense Management 2025 R2](@EM-359) | A list of all the new features, changes, and bug fixes for each version of Continia Expense Management 2025 R2. |
+| [Basic concepts in Expense Management](@EM-50)               | Understand the essential principles of Expense Management.   |
+| [Editing posting in the Web Approval Portal](@EM-321)        | Ensure clear and accurate financial processing and compliance by being able to edit a posting. |
+| [Setting up restrictions on field value access](@EM-296)     | Specify which field values are visible to different user-types in the Expense Mobile App and Expense Portal. |
+|                                                              |                                                              |
+
+
+## August 2025
+
+| Article                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Overview of quickstart guides](@EM-311)                     | A quick outline of what you can expect to find in the quickstart guides and how they work. |
+| [Quickstart guide for admins](@EM-312)                       | A curated playlist of articles and videos to help admins get up and running with Expense Management in their role. |
+| [Quickstart guide for approvers](@EM-313)                    | A curated playlist of articles and videos to help approvers use Expense Management in their role. |
+| [Quickstart guide for expense users](@EM-314)                | A curated playlist of articles and videos to help expense users in submitting expense documentation and information with Expense Management. |
+| [Quickstart guide FAQs](@EM-315)                             | FAQs about the Expense Management quickstart guides.         |
+| [How bank mapping rules work](@EM-330)                       | Create your own mapping rules to automatically assign an expense type to an expense created for a bank transaction. |
+| [Enhanced bulk user import in the Continia User Setup](@EM-336) | Bulk import users during setup faster and more efficiently.  |
+
+
+
+## July 2025
+
+| Article                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Setting up reminder codes for email reminders](@EM-329)     | Create different levels of reminder emails that determine the frequency of notifications sent to expense users. |
+| [Importing bank statements for Expense Management reconciliation](@EM-323) | Upload a bank statement to reconcile transactions for a specified period. |
+| [Assign per diems to projects by destination](@EM-331)       | For a more detailed cost allocation, expense users can select project information for each individual destination within a per diem. |
+| [Enhanced tax travel expense statement](@EM-332)             | Provide a monthly comprehensive, structured report for employee travel expenses. |
+| [Bulk approval in Business Central](@EM-333)                 | Approvers can now bulk approve expense submission in Business Central. |
+| [Enhanced department menu navigation](@EM-334)               | Access Expense Management pages and reports far more easily than before. |
+| [Bank transaction posting description configuration](@EM-335) | Set up a custom posting description template directly from the Expense Management Setup page. |
+
+
+
 ## June 2025
 
-| Article                                                    | Description                                                  |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| [Editing posting in the Web Approval portal](@EM-321)      | Ensure transparent, accurate financial processing and compliance by being able to edit a posting in the Web Approval Portal. |
-| [Approver setup for Expense Management](@EM-33)            | Streamline the workflow of your approval processes to ensure all documents are correctly reviewed and authorized in good time. |
-| [Expense user setup for Expense Management](@EM-36)        | Specify the key settings for each expense user, including their expense user group and document visibility. |
-| [Using expense reports in the Expense Mobile App](@EM-326) | An expense report streamlines the reimbursement process and provides an overview of your expenditures, allowing you to approve them from a single place. |
-| [Using expense reports from your browser](@EM-294)         | Keep track of your business expenses with an expense report management tool that's intuitive to use and creates a more efficient workflow. |
+| Article                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Configuring a matching tolerance](@EM-319)                  | Automatically match between an expense and a transaction by setting up a matching tolerance in Expense Management. |
+| [Understanding priority and inheritance of dimensions in Expense Management](@EM-318) | Understand the priority of dimensions and allocations for Expenses, Mileage, and Per diems. |
+| [Editing posting in the Web Approval portal](@EM-321)        | Ensure transparent, accurate financial processing and compliance by being able to edit a posting in the Web Approval Portal. |
+| [Approver setup for Expense Management](@EM-33)              | Streamline the workflow of your approval processes to ensure all documents are correctly reviewed and authorized in good time. |
+| [Expense user setup for Expense Management](@EM-36)          | Specify the key settings for each expense user, including their expense user group and document visibility. |
+| [Using expense reports in the Expense Mobile App](@EM-326)   | An expense report streamlines the reimbursement process and provides an overview of your expenditures, allowing you to approve them from a single place. |
+| [Using expense reports from your browser](@EM-294)           | Keep track of your business expenses with an expense report management tool that's intuitive to use and creates a more efficient workflow. |
 
 
 
@@ -45,7 +87,6 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | Article                                       | Description                                                  |
 | --------------------------------------------- | ------------------------------------------------------------ |
 | [Approving documents](@EM-3)                  | Use the variety of options available  in the Approve and Request Approval sections for your document approval process. |
-| [About Norwegian per diems](@EM-308)          | Employers can choose to either reimburse their employees expenses, based on their own employee- employer agreement, or based on Norway's state per diem rates. |
 | [Understanding Norwegian per diems ](@EM-309) | Learn about Norwegian per diem rules to make per diem expenses under Norwegian rules a quick and easy process for expense users, approvers, and admins. |
 
 
@@ -252,15 +293,11 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [Using jobs and job tasks](@EM-170)                  | Added an article about how to assign expenses to specific jobs and tasks. |
 | [Posting expenses](@EM-11), [Posting Mileage Expenses](@EM-12), [Posting Per Diem Expenses](@EM-13) | Added a section about exporting expense attachments. |
 
-
-
 ## June 2023
 
 | Article                                                | Description                                                  |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
 | [Using your Microsoft 365 account to sign in](@EM-160) | Added an article about signing in to the Continia Expense Portal and the Continia Expense App using their Azure Active Directory (AD) credentials. |
-
-
 
 ## April 2023
 
@@ -268,8 +305,6 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | --- | --- |
 | [Setting Up Payment Types](@EM-81) | Updated this article and added a section about how to assign payment types to expense user groups. |
 | [Mileage VAT calculation](@EM-155) | Added an article on how to set up mileage VAT calculation for the fuel element of a mileage claim in the UK market. |
-
-
 
 ## March 2023
 
@@ -283,8 +318,6 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [Supported On-Premises Versions of NAV and Business Central](@EM-72) | Updated the article with a compatibility matrix. |
 | [Setting up Job Queues](@EM-65) | Added a new Codeunit and a description of it to the article. |
 
-
-
 ## February 2023
 
 | Article | Description |
@@ -293,16 +326,12 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [New and Planned for Continia Expense Management](@EM-78) | Updated the Expense Management road map to reflect that the following feature has been postponed to the 2023 R2 release: <ul><li>VAT/Sales tax input from expense users</li></ul> |
 | [Setting up Per Diem Groups](@EM-85) | Revised the article and updated it with a section about allowances. |
 
-
-
 ## November 2022
 
 | Article | Description |
 | --- | --- |
 | [New and Planned for Continia Expense Management](@EM-78) | Updated the Expense Management road map to reflect that the following feature has been released in November 2022: <ul><li>AI Receipt Scanner</li></ul>. |
 | [New and Planned for Continia Expense Management](@EM-78) | Updated the Expense Management road map to reflect that the following features were added for release in April 2023: <ul><li>Payment types for user groups</li><li>VAT/Sales tax input from expense users</li><li>In-app introductory videos</li></ul> |
-
-
 
 ## October 2022
 
@@ -312,8 +341,6 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [Setting up Approval Sharing](@EM-64) | Updated the article with a section about creating a user and using it as a group to manage certain situations. |
 | [Images in the Expense Mobile App](@EM-113) | Added an article describing how to open the camera in the Expense Mobile App and how to view all saved images. |
 | [New and Planned for Continia Expense Management](@EM-78) | Updated the Expense Management road map to reflect that the following feature was released in October 2022: <ul><li>Cue Improvements in the Role Center</li></ul> |
-
-
 
 ## September 2022
 
@@ -328,16 +355,12 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | Change in product name | '365' has been removed from the Expense Management product name. Documentation, app name, and other related materials have been updated accordingly. |
 | [Creating Tax Reports](@EM-97) | Added an article on how to create tax reports for validating expenses with the authorities. |
 
-
-
 ## August 2022
 
 | Article | Description |
 | --- | --- |
 | [Customizing your Storage](@EM-92) | Added an article on how to customize your storage. |
 | [Enabling Taxable Rates for Mileage](@EM-93) | Added an article on how to enable taxable rates for mileage. |
-
-
 
 ## July 2022
 
@@ -348,8 +371,6 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [Event Publishers for Expense Management 2022 R1 (9.00)](@EM-77) | Updated the article with new events. |
 | [Event Publishers for Expense Management 2022 R1 (8.00)](@EM-71) | Updated the article with new events. |
 | [New and Planned for Continia Expense Management](@EM-78) | Updated the Expense Management road map to reflect the fact that the following feature has been postponed: <ul><li>Mileage receipt VAT calculation improvements for the UK market</li></ul> |
-
-
 
 ## March 2022
 
@@ -364,16 +385,12 @@ This article lists all relevant changes to docs for Continia Expense Management,
 | [Business Functionality](@EM-69) | Article updated with new features in Expense Management 2022 R1. |
 | [Upgrading to Expense Management 2022 R1 (9.00) for FOB versions](@EM-74) | Added a new article with information about how to upgrade to Expense Management 2022 R1. |
 
-
-
 ## February 2022
 
 | Article | Description |
 | --- | --- |
 | [Approval sharing (business functionality)](@EM-67) | New article describing the two types of approval sharing. |
 | [Approval sharing (setting up)](@EM-64) | New article describing how to enable approval sharing, including Out of Office for approvers. |
-
-
 
 ## January 2022
 

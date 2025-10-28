@@ -1,12 +1,13 @@
 Overview.md | Overview
-Understanding the Continia Delivery Network.md | Understanding the Continia Delivery Network
 Importing electronic documents | Managing electronic documents
-Using the Document Capture assisted setup.md | Using the Document Capture assisted setup
-Business Functionality.md | Business functionality
-Trials and Subscriptions.md | Trials and subscriptions
-Billing, consumption, and transactions.md | Billing, consumption, and transactions
-Help and Support.md | Help and support
-Continia notifications.md | Continia notifications
-Continia Hub.md | Continia Hub
 Resellers and Partners | Resellers and partners
 Frequently Asked Questions | Troubleshooting and FAQs
+Billing, consumption, and transactions.md | Billing, consumption, and transactions
+Business Functionality.md | Business functionality
+Continia Hub.md | Continia Hub
+Continia notifications.md | Continia notifications
+Help and Support.md | Help and support
+Keyboard shortcuts.md | Keyboard shortcuts
+Trials and Subscriptions.md | Trials and subscriptions
+Understanding the Continia Delivery Network.md | Understanding the Continia Delivery Network
+Using the Document Capture assisted setup.md | Using the Document Capture assisted setup

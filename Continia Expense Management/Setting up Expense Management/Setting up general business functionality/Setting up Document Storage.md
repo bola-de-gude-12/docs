@@ -1,6 +1,6 @@
 ---
-title: Expense Management Setting up Document Storage
-date: 16-11-2021
+title: Expense Management setting up document storage
+date: 28-07-2025
 description: 
 id: EM-144
 lang: en
@@ -28,16 +28,16 @@ The table below outlines the various storage options, enabling you to decide whi
 
 To set up your document storage, follow these steps:
 
-1. Choose the {{search}} icon, enter **Expense Management Setup**, and then choose the related link.
-2. On the **General** FastTab, go to **Document Storage Type** and select your preferred storage type in the box.
-3. If you select **Azure Blob Storage**, a dialog box appears asking you if you want to continue. Select  **Yes**.
-4. The **Update Storage Settings** window opens. Under **General**, fill out all fields with the relevant details from your Azure Blob account. Select  **OK**  to close the window and update the settings.
+1. Search for {{search}} **Expense Management Setup**.
+2. Under **General**, go to **Document Storage Type** and select your preferred storage type in the box.
+3. If you select **Azure Blob Storage**, a dialog box appears asking you if you want to continue. Click **Yes**.
+4. The **Update Storage Settings** window opens. Under **General**, fill out all fields with the relevant details from your Azure Blob account. Click **OK**  to close the window and update the settings.
 
 ## Custom storage
 
 Some customers prefer to store documents in their own document management system (DMS). This is somewhat more complicated and requires the assistance of a developer. If this is what you need though, you have to implement your own storage functions.
 
-## See also
+## Related information
 [Setting up Azure Blob Storage](/continia-expense-management/development-and-administration/setting-up-azure-blob-storage)  
 [Customizing Storage](/Continia Expense Management/Development and Administration/Development and customization/Customizing your storage.md)  
 [Storage considerations when migrating to the cloud](/continia-expense-management/development-and-administration/on-premises/upgrade/migrate-from-on-premises-to-cloud)  

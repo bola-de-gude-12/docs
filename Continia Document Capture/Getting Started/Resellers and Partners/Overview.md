@@ -1,13 +1,14 @@
 ---
-title: Overview of resellers and partners of Document Capture
-date: 16-06-2025
-description:  
+title: Resellers and partners of Document Capture
+date: 26-09-2025
+description: How to locate or become a certified Continia partner.
+id: DC-487
 lang: en
 ---
 
-# Overview of resellers and partners of Document Capture
+# Resellers and partners of Document Capture
 {{include "resellers-and-partners-overview" "Document Capture"}}
 
 ## Related information
-[Becoming a reseller of Continia Document Capture](Become a Reseller.md)  
-[Finding a reseller of Continia Document Capture](Find a Reseller.md)
+[Becoming a reseller of Continia Document Capture](@DC-210)  
+[Finding a reseller of Continia Document Capture](@DC-15)

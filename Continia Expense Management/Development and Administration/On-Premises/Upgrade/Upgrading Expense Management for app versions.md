@@ -1,6 +1,6 @@
 ---
 title: Upgrading Continia Expense Management for app versions of Business Central
-date: 09-07-2025
+date: 17-09-2025
 description: Learn how to how to upgrade Expense Management for app versions of Microsoft Dynamics 365 Business Central
 id: EM-254
 lang: en
@@ -9,7 +9,7 @@ lang: en
 # Upgrading Continia Expense Management for app versions of Business Central
 
 > [!NOTE]
-> This article describes how to upgrade Expense Management for app versions of Microsoft Dynamics 365 Business Central. For information on how to upgrade Expense Management for _FOB_ versions of Business Central, see [Supported Upgrade Paths for Continia Expense Management (FOB)](@EM-103)
+> This article describes how to upgrade Expense Management for app versions of Microsoft Dynamics 365 Business Central. For information on upgrading Expense Management for _FOB_ versions of Business Central, see [Supported Upgrade Paths for Continia Expense Management (FOB)](@EM-103)
 
 All upgrade packages are free. For best practice, we recommend you upgrade regularly to benefit from all the new features that are regularly being added to the application. Ensure your Continia partner assists you whenever you carry out an upgrade.
 
@@ -25,7 +25,7 @@ To upgrade Expense Management using this script:
 
 1. Go to the [Continia PartnerZone](https://partnerzone.continia.com).
 
-1. In the menu at the top, click **Downloads**.
+1. In the menu at the top, click **Help Center** > **Download Center**.
 
 1. Use the filters to locate the latest version of Expense Management, and click **Download** to download the upgrade package.
 

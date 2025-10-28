@@ -9,5 +9,3 @@ Enabling taxable rates for per diem.md | Enabling taxable rates for per diem
 Enabling multiple destinations for per diem.md | Enabling multiple destinations for per diem
 Enabling multiple accommodations for per diem.md | Enabling multiple accommodations for per diem
 Enabling or disabling allowances for per diem.md | Enabling or disabling allowances for per diem
-The 3 months rule for per diem expenses in germany.md | The 3-month rule for per diem expenses in Germany
-Understanding-Norwegian-per-diems.md | Understanding Norwegian per diems

@@ -1,0 +1,21 @@
+---
+title: Expense Management Support for OData V4 for the Continia Web Approval Portal
+date: 05-01-2024
+description:
+id: EM-203
+lang: en
+---
+
+# Support for OData V4 for the Continia Web Approval Portal
+
+| Feature | Public preview | General availability online |
+| --- | :-: | :-: |
+| Support for OData V4 for the Continia Web Approval Portal | - | - |
+
+## Business value
+
+By transitioning from the SOAP web services access protocol to OData V4, the Continia Web Approval Portal will remain fully functional when Microsoft eventually ends support for the SOAP protocol.
+
+## Feature details
+
+The Web Approval Portal currently relies on the SOAP protocol in a number of ways, but this feature will mark the end of that reliance and the full transition to OData V4.

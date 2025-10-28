@@ -29,7 +29,7 @@ If you have an *on-premises* installation of Microsoft Dynamics 365 Business Cen
 1. Select **OK** > **Close** to save your changes and close the **Continia Web Portal List** and **Continia Company Setup** pages.
 1. On the **Expense Management Setup / Web Approval** page, in the action bar, select **Continia User Setup**, and then follow [this guide](@EM-53) to set up users for the Web Approval Portal.
 
-## See also
+## Related information
 
 [Requirements for Using the Continia Web Approval Portal On-Premises](/Continia Expense Management/Development and Administration/On-Premises/Deployment/Web Approval Portal Requirements On-Premises.md)  
 [How to setup Business Central (On-Prem) with Continia Web Approval (on-Prem) using Office 365 logins](https://continia.zendesk.com/hc/da/articles/360007941420-How-to-setup-Business-Central-On-Prem-with-Continia-Web-Approval) (only available to Continia partners)  

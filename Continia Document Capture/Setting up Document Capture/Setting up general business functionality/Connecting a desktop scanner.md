@@ -17,9 +17,9 @@ Before you can start using a desktop scanner, you must ensure that both the scan
 When you’ve plugged your scanner into a user PC, connect it by following these steps:
 1. Install the required software. To get access to this software, please reach out to your [dedicated Continia partner](/Continia Document Capture/Getting Started/Resellers and Partners/Overview.md).
 1. Run the software provided by your partner. In the setup guide, select the installer that matches the version of Microsoft Dynamics NAV/Business Central you're using, and select **Install**.
-1. In Business Central, search {{search}} for and select **Document Capture Setup**.
+1. In Business Central, search ({{search}}) for and select **Document Capture Setup**.
 1. On the **General** FastTab, enable the use of your attached scanner by turning on the **Enable Local Scanner** setting.
-1. To verify that the scanner has been enabled, search {{search}} for and select **Scanning & OCR**. In the **Scanning & OCR** window that opens, your scanner should now appear in the **Scanner** box.
+1. To verify that the scanner has been enabled, search ({{search}}) for and select **Scanning & OCR**. In the **Scanning & OCR** window that opens, your scanner should now appear in the **Scanner** box.
 1. On the action bar, click **Scan** to scan a document.
 
 Refer to your scanner manufacturer's website to download the required drivers.

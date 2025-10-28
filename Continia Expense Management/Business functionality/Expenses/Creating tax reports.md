@@ -28,5 +28,5 @@ To export expense attachments:
 
 * Work through the steps in [Posting Expenses: To export expense attachments](@EM-11).
 
-## See also
+## Related information
 [Posting expenses](@EM-11)

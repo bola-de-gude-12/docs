@@ -1,7 +1,8 @@
 ---
-title: Expense Management detailed changelog for the Continia Web Approval Portal
-date: 12-06-2025
-description: Detailed changelog for the Continia Web Approval Portal.
+title: Detailed changelog for the Continia Web Approval Portal
+date: 30-09-2025
+description: List of features and bug fixes for each version of the Continia Web Approval Portal
+id: EM-366
 lang: en
 ---
 

@@ -34,7 +34,7 @@ The table below enables you to determine exactly what tasks must be carried out 
 | Full upgrade from the following version: <ul><li>Expense Management 7.00</li></ul> | From this version, you must do as follows to upgrade: <ol><li>Upgrade directly to EM8.00 using [this guide](@EM-30).</li><li>From Expense Management 8.00, upgrade to Expense Management 12.00 using the approach described further below in the table under "Expense Management 8.00".</li></ol> |
 | Full upgrade from the following versions: <ul><li>Expense Management 8.00</li><li>Expense Management 9.00</li><li>Expense Management 10.00</li><li>Expense Management 11.00</li></ul> | From these versions, you can upgrade directly to EM12.00 using [this guide](../application-and-data/from-versions-8001100/manual-upgrade). |
 
-## See also
+## Related information
 [Supported Upgrade Paths for Continia Expense Management (FOB)](/Continia Expense Management/Development and Administration/On-Premises/Upgrade/Supported Upgrade Paths.md)  
 [Upgrading NAV/Business Central with Expense Management Installed](/Continia Expense Management/Development and Administration/On-Premises/Upgrade/Upgrading NAV or Business Central with Expense Management installed/Overview.md)  
 

@@ -1,20 +1,20 @@
 ---
 title: Editing posting in the web approval portal
-date: 17-06-2025
+date: 09-09-2025
 description: Learn how to edit posting in the web approval portal
 id: EM-321
 lang: en
 ---
 # Editing posting in the Web Approval Portal
 
-Having access to edit a posting is crucial to ensure clear and accurate financial processing and compliance. Being able to edit a posting means you can:
+Having access to edit a posting is crucial if you want to ensure clear and accurate financial processing and compliance. Being able to edit a posting means you can:
 
 * Correct accounting errors
 * Ensure compliance with your company's policies
 * Adjust VAT/GST tax codes accordingly
 * Add or update dimensions
 * Adjust the posting date to match the correct accounting period (especially around closings)
-* Prevent rejections or delays if Approvers are allowed to make minor corrections directly
+* Prevent rejections or delays if approvers are allowed to make minor corrections directly
 * Improve data quality for reporting to ensure better financial and management reporting
 
 ## Enable editing

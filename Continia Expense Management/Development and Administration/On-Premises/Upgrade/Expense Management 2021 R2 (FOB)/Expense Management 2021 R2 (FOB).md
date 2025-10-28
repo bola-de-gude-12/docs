@@ -22,7 +22,7 @@ The table below enables you to determine exactly what tasks must be carried out 
 | Full upgrade from the following versions: <ul><li>Expense Management 2.60</li><li>Expense Management 3.00</li><li>Expense Management 3.50</li><li>Expense Management 4.00</li><li>Expense Management 6.50</li></ul> | From these versions, you can upgrade directly to EM8.00 using [this guide](@EM-29). |
 | Full upgrade from the following version: <ul><li>Expense Management 7.00</li></ul> | From this version, you can upgrade directly to EM8.00 using [this guide](@EM-30). |
 
-##See also
+## Related information
 [Supported Upgrade Paths for Continia Expense Management (FOB)](/Continia Expense Management/Development and Administration/On-Premises/Upgrade/Supported Upgrade Paths.md)  
 [Upgrading NAV/Business Central with Expense Management Installed](/Continia Expense Management/Development and Administration/On-Premises/Upgrade/Upgrading NAV or Business Central with Expense Management installed/Overview.md)  
 

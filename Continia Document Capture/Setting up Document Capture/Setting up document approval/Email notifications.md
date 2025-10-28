@@ -14,7 +14,7 @@ If necessary, you can [customize the actual emails](#to-customize-notification-e
 
 Before you can send notification emails, you must configure an email account using the assisted setup guide:
 
-1. Search {{search}} for and select **Set up email**.
+1. Search ({{search}}) for and select **Set up email**.
 1. Follow the on-screen instructions to set up the email account.
 
 ## To send status emails manually
@@ -39,7 +39,7 @@ Each email contains a table with all documents pending approval and a link to th
 >To avoid duplicate notifications, it's recommended that you disable the standard Microsoft Dynamics NAV/Business Central notifications. Otherwise, both Document Capture and NAV/Business Central will notify approvers about the same approval requests.
 >
 >To disable the standard notifications:
->1. Search {{search}} for and select **Document Capture Setup**.
+>1. Search ({{search}}) for and select **Document Capture Setup**.
 >2. On the **General** FastTab, under **Purchase Approval**, click the link in the **Status** field.
 >3. On the **Document Capture Setup / Purchase Approval** page, turn off the **Enable Standard Notification** setting.
 
@@ -47,7 +47,7 @@ Each email contains a table with all documents pending approval and a link to th
 
 To customize certain parts of the emails sent to approvers, including their default subject lines and the actual text they contain:
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the **General** FastTab, under **Purchase Approval**, click the link in the **Status** field.
 1. On the **Document Capture Setup / Purchase Approval** page, under **Email Setup**, fill out the fields as needed.
 1. **Optional**: To import a custom HTML template with, for example, different text and formatting than the default template, click **Status Email** > **Import Template** > **Choose** on the action bar and open the HTML template you want to import.
@@ -72,7 +72,7 @@ Anything you enter when setting up reminder emails as described below – for ex
 
 To set up reminder emails:
 
-1. Search {{search}} for and select **Approval Reminder Email Setup**.
+1. Search ({{search}}) for and select **Approval Reminder Email Setup**.
 1. On the action bar, click **New** to create a reminder email entry.
 1. In the **Level** column, specify the level of the reminder by entering an integer. As the **Level** column determines the order in which reminder emails are sent out, the first level is typically labeled **1**, and any subsequent levels are then labeled with consecutive numbers (**2**, **3**, etc.).
 1. In the **Due Date Calculation** column, enter the amount of time that should pass before a reminder email is sent out at this level. This is calculated from the moment the approval request is sent to the approver.

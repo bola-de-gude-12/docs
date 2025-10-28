@@ -1,14 +1,14 @@
 ---
-title: Continia Expense Management Resellers and Partners
-date: 04-06-2020
+title: Continia Expense Management resellers and partners
+date: 28-07-2025
 description:  
 id: EM-243
 lang: en
 ---
 
-# Continia Expense Management Resellers and Partners
+# Continia Expense Management resellers and partners
 {{include "resellers-and-partners-overview" "Expense Management"}}
 
-##See also
+## Related information
 [Becoming a Reseller of Continia Expense Management](Become a Reseller.md)  
 [Finding a reseller of Continia Expense Management](Find a Reseller.md)

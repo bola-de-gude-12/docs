@@ -1,6 +1,6 @@
 ---
 title: Working with templates in Document Capture
-date: 04-07-2025
+date: 09-10-2025
 description: How to set up, copy, view, and edit templates in Document Capture – including master templates.
 id: DC-18
 lang: en
@@ -22,9 +22,12 @@ This article focuses on the two types of document templates – master and sourc
 
 Master templates aren't linked to any vendors, but they're used as a basis for the creation of vendor templates. When a document is imported from a vendor with no associated template (typically when you receive a document from a vendor for the first time), Document Capture automatically creates a template for the vendor during field recognition by copying one of the master templates assigned to the **PURCHASE** category. The copied master template then becomes a source template that's associated specifically with this vendor – a vendor template.
 
-However, you can customize the template if some of the default fields aren't exactly right for you. If you choose to customize the vendor template, for example by adding or removing fields, your changes only apply to this particular template and this particular vendor. For more information, see [Managing template fields](@DC-241) and [Setting up new template fields](@DC-19).
+However, you can customize the template if the default fields don't meet your needs. If you choose to customize the vendor template, for example by adding or removing fields, your changes only apply to this particular template and this particular vendor. For more information, see [Managing template fields](@DC-241) and [Setting up new template fields](@DC-19).
 
 You may also want to edit the master template. For example, if there are fields that should be captured in all or most of your documents, it's a good idea to add these fields to the master template, so that you don't have to add them manually to each individual vendor template. For details on how to edit the master template, see [To configure master templates](#to-configure-master-templates) below.
+
+>[!NOTE]
+>If you don't have any master templates, import the configuration files via the **Set Up Document Capture** assisted guide (online) or from the installation package.
 
 ## To configure master templates
 
@@ -43,7 +46,7 @@ To configure master templates:
 For most of the changes you make to the master template, a dialog box asks if you want to update all related templates accordingly. If you click **Yes**, all vendor templates based on the master template in the **PURCHASE** category inherit the changes you've made.
 
 > [!NOTE]
-> Unlike changes made in other sections of the master template, any changes that you make to the master template fields in the **Fields** section (step 6 of the guide above) are not pushed to the vendor templates that have already been created based on the master template. Only vendor templates created after such field configuration inherit the changes.
+> Unlike changes made in other sections of the master template, any changes that you make to the master template fields in the **Fields** section (step 6 of the guide above) are not pushed to the vendor templates that have already been created based on the master template. Vendor templates created after these field changes inherit them automatically.
 
 ## To copy and create master templates
 
@@ -62,8 +65,8 @@ Rather than editing an existing master template, you may want to create one. Dur
 The process of copying vendor templates is virtually identical to that of copying master templates, except for the naming of the new templates (referred to as numbering in the user interface). To copy vendor templates:
 
 1. Search ({{search}}) for and select **Document Categories**.
-1. To open the purchase document category, select the **PURCHASE** line (not the **PURCHASE** code itself), and then click **Edit** on the action bar.
-1. On the **Templates** FastTab, in the list of templates, select the template that you want to copy, and then click **Copy...** to open the **Copy Template** page.
+1. To open the purchase document category, select the **PURCHASE** line (not the **PURCHASE** code itself) and click **Edit** on the action bar.
+1. On the **Templates** FastTab, in the list of templates, select the template that you want to copy and click **Copy** to open the **Copy Template** page.
 1. Edit the default settings if necessary, then click **OK** > **OK** to create a template copy and add it to the list of templates.
 1. If you chose to enable **Automatic Numbering** on the **Copy Template** page, the new template is provided with a number instead of an actual name (the next consecutive number in the list of templates). However, you can rename it by locating it in the list and entering a new name in the **No.** column.
 
@@ -75,4 +78,4 @@ The process of copying vendor templates is virtually identical to that of copyin
 >1. Search ({{search}}) for and select **Vendors**.
 >2. On the list of vendors, click **Settings** ({{settings}}) > **Personalize** in the top-right corner.
 >3. On the action bar, expand the action group **Related**.
->4. Hover the cursor over **Vendors > Document Templates**, then click **Show** to make the action available.
+>4. Hover the cursor over **Vendors** > **Document Templates**, then click **Show** to make the action available.

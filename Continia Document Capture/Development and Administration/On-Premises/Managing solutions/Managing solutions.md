@@ -1,23 +1,23 @@
 ---
-title: Managing solutions in Business Central on premises
-date: 24-02-2025
-description: How to manage solutions in on-premises instances of Business Central. 
+title: Using Continia Solution Management (on premises)
+date: 21-07-2025
+description: How to manage your solutions in on-premises instances of Business Central. 
 id: DC-151
 lang: en
 ---
 
-# Managing solutions in Business Central on premises
+# Using Continia Solution Management (on premises)
 This article deals with the general management of Continia solutions in on-premises deployments of Microsoft Dynamics 365 Business Central. For information on the management of Continia solutions in online deployments of Business Central, see [Using Continia Solution Management](@DC-107). 
 
-For information on Continia license management, including how to buy or cancel solution licenses, manage modules, and add or remove companies, see [Managing Licenses](Managing licenses.md).
+For information on Continia license management, including how to buy or cancel solution licenses, manage modules, and add or remove companies, see [Managing licenses](@DC-488).
 
 > [!IMPORTANT]
-> All guides in this article are aimed at Continia partners, as only partners are able to carry out the steps mentioned. If any of the guides are applicable to you, please reach out to your [dedicated Continia partner](/Continia Document Capture/Getting Started/Resellers and Partners/Overview.md) and ask them to complete the relevant guide(s) for you.
+> All guides in this article are aimed at Continia partners, as only partners are able to carry out the steps mentioned. If any of the guides are applicable to you, please reach out to your [dedicated Continia partner](@DC-487) and ask them to complete the relevant guide(s) for you.
 
 ## To activate a solution
 When you've [bought a license for a solution](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-licenses#to-buy-a-license), you can activate the solution by following these steps:
 
-1. In Business Central, choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
+1. Search ({{search}}) for and select **Continia Solution Management**. 
 1. In the list of installed Continia solutions, select the solution you wish to activate.
 1. On the action bar, click **Activate Solution**.
 1. Follow the on-screen instructions of the assisted setup guide to complete the activation.
@@ -27,7 +27,7 @@ If this is the first solution you activate, the customer's company is also activ
 ## To deactivate a solution
 To deactivate a Continia solution:
 
-1. Choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
+1. Search ({{search}}) for and select **Continia Solution Management**.
 1. In the list of installed Continia solutions, select the solution you wish to deactivate.
 1. On the action bar, click **Deactivate Solution**.
 
@@ -46,7 +46,7 @@ Note that when you deactivate all solutions, the company you're currently signed
 
 To change client credentials:
 
-1. Choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
+1. Search ({{search}}) for and select **Continia Solution Management**.
 1. On the action bar, click **Client Credentials** to open the **Continia Client Credentials** page.
 1. Enter the new client ID and the corresponding client password, and select **Save** to save the changes and close the page.
 1. Reactivate all solutions manually using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution).
@@ -69,7 +69,7 @@ When you [activate the first solution](/continia-document-capture/development-an
 
 You can always change the company type at a later stage, if necessary. To do this:
 
-1. Choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
+1. Search ({{search}}) for and select **Continia Solution Management**.
 1. Under **Company Status**, select the company type (test or production).
 
 **Using demo credentials**  
@@ -80,11 +80,11 @@ Sometimes you may have to make changes to your database, for instance if you nee
 
 To avoid any accidental import of production data into a test environment, the system automatically detects if the database has been restored or moved to another server. Whenever the system detects changes to the database information, all companies and their respective solutions are deactivated – and a warning is displayed on the Continia Solution Management page. To reactivate the deactivated companies and solutions:
 
-1. Choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
-1. Select the warning that's displayed (as mentioned above) to open the **Continia Client Credentials** page.
+1. Search ({{search}}) for and select **Continia Solution Management**.
+1. Click the warning that's displayed (as mentioned above) to open the **Continia Client Credentials** page.
 1. Do one of the following, depending on your situation:
-   * If the database is a copy of another database (whether a production or a test database), change the client credentials and select **Save**. Then activate all solutions manually using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution).
-   * If the database has been moved or restored, select **Update Database Info** to continue with your existing credentials. This will automatically reactivate all solutions.
+   * If the database is a copy of another database (whether a production or a test database), change the client credentials and click **Save**. Then activate all solutions manually using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution).
+   * If the database has been moved or restored, click **Update Database Info** to continue with your existing credentials. This automatically reactivates all solutions.
 1. Repeat all above steps for any additional companies associated with the database that's been changed.
 
 ## To reactivate a renamed company
@@ -92,13 +92,13 @@ When a company has been renamed, you must reactivate it. You can do this either 
 
 To reactivate from the role center:
 
-1. In the role center, the notification "\<Solution name\> has been installed. Would you like to activate it now?" is displayed. Select this notification to start the **Solution Activation** setup guide.
-1. Complete the guide by following the on-screen instructions in order to reactivate the solution.
+1. In the role center, the notification "\<Solution name\> has been installed. Would you like to activate it now?" is displayed. Click this notification to start the **Solution Activation** setup guide.
+1. Complete the guide by following the on-screen instructions to reactivate the solution.
 
 To reactivate via **Continia Solution Management**:
 
-1. Choose the {{search}} icon, enter **Continia Solution Management**, and then choose the related link. 
-1. On the **Continia Solution Management** page, a red label with the text "The company has not been activated correctly" is displayed. Select this label to reactivate the company, including all previously activated solutions. The red label will disappear upon activation.
+1. Search ({{search}}) for and select **Continia Solution Management**.
+1. On the **Continia Solution Management** page, a red label with the text "The company has not been activated correctly" is displayed. Click this label to reactivate the company, including all previously activated solutions. The red label disappears upon activation.
 
 ## To copy a company for use as a test company
 
@@ -109,15 +109,15 @@ To create a test company in a production database by copying a production compan
 
 1. Copy the company, and give it a new name. For details on how to do this, see [this Microsoft article](https://docs.microsoft.com/en-us/dynamics-nav/how-to--create-companies).
 1. Open the company that you've just created as a copy.
-1. Choose the {{search}} icon, enter **Continia Company Setup**, and then choose the related link. 
-1. Under **General**, enter a new company code, and select **OK** when you're done.
+1. Search ({{search}}) for and select **Continia Company Setup**. 
+1. Under **General**, enter a new company code, and click **OK** when you're done.
 1. Activate the company by activating all relevant solutions using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution). When you complete the setup guide, select **Test Company** as the company type.
-1. To send the new company code to Continia Online, choose the **Search** box, enter **Export OCR Configuration Files**, and then choose the related link. A dialog box confirms that a number of configuration files have been exported. Select **OK** to close it.
+1. To send the new company code to Continia Online, search ({{search}}) for and select **Export OCR Configuration Files**. A dialog box confirms that a number of configuration files have been exported. Click **OK** to close it.
 
 ## To copy a company for use as an active company
 To create an active company in a production database by copying a production company in the same database:
 
-1. Copy the company, and give it a new name. For details on how to do this, see [this Microsoft article](https://docs.microsoft.com/en-us/dynamics-nav/how-to--create-companies).
+1. Copy the company, and give it a new name. For details on how to do this, see [Creating companies in Dynamics NAV](https://docs.microsoft.com/en-us/dynamics-nav/how-to--create-companies) (Microsoft article).
 1. Deactivate the original company:
    1. Open the original company (unless you're already signed in to this).
    1. Using Continia Solution Management, deactivate the original company by [deactivating all active solutions](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-deactivate-a-solution). When all active solutions have been deactivated, the company is also deactivated.
@@ -137,10 +137,11 @@ To copy a production database for use as a test database:
 
 1. Restore the new database.
 1. Using Continia Solution Management, [change client credentials](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-change-client-credentials) to demo client credentials.
-1. Choose the {{search}} icon, enter **Continia Company Setup**, and then choose the related link. 
-1. Under **General**, enter a new company code, and select **OK** when you're done.
-1. Activate the company by activating all relevant solutions using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution). As you're using demo client credentials, the company will by default be registered as a test company.
-1. To send the new company code to Continia Online, choose the **Search** box, enter **Export OCR Configuration Files**, and then choose the related link. A dialog box confirms that a number of configuration files have been exported. Select **OK** to close it.
+1. Search ({{search}}) for and select **Continia Company Setup**.
+1. Under **General**, enter a new company code, and click **OK** when you're done.
+1. Activate the company by activating all relevant solutions using [the usual procedure](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-activate-a-solution). As you're using demo client credentials, the company is registered by default as a test company.
+1. If you use on-premises OCR and have email addresses specified in your document categories, either remove these email addresses or assign different ones. To do this, search ({{search}}) for and select **Document Categories**, select a category (not its code), and click **Edit** on the action bar. Under the **General** FastTab, change the value of the **Email** field.
+1. To send the new company code to Continia Online, search ({{search}}) for and select **Export OCR Configuration Files**. A dialog box confirms that a number of configuration files have been exported. Click **OK** to close it.
 
 ## Copying a production database to a new server
 When you copy a production database to a new server, you must [update the client credentials](/continia-document-capture/development-and-administration/on-premises/managing-solutions/managing-solutions#to-change-client-credentials) in one of the databases or delete the client credentials from one of the databases. To delete the client credentials, run the table and delete the relevant record in the table.
@@ -149,7 +150,3 @@ When you copy a production database to a new server, you must [update the client
 When importing data from one company to another using import tools such as Rapid Start, you must make sure that Continia Core tables are skipped, as they store the current company's activation data. If the Continia Core tables aren't omitted, you could corrupt the data and invalidate the company's activation state.
 
 Therefore, you must skip importing data stored in objects in the following range: 6192810 to 6192868.
-
-## Related information
-[Managing Licenses](Managing licenses.md)  
-[Continia Document Capture Resellers and Partners](/Continia Document Capture/Getting Started/Resellers and Partners/Overview.md)  

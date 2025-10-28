@@ -128,7 +128,7 @@ As a purchase contract administrator, you can finalize a contract review by foll
 
 This will bring about five changes on the **Review** FastTab: It will clear the **Status** field to prepare for the next review cycle and update the **Next Review Date** field based on the review frequency that you've specified in the **Review** field. Also, any review comments you may have added will be displayed in the **Comments** field, **Last Date Reviewed** will be updated with today's date, and then your name will be displayed in **Last Reviewed by**.
 
-## See also
+## Related information
 
 [Creating Purchase Contracts](@EM-131)  
 [Approving Expenses Based on a Contract](@EM-133)  

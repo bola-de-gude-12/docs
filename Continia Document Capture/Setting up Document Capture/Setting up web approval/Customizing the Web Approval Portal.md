@@ -12,7 +12,7 @@ The procedure for customizing the Continia Web Approval Portal is the same for o
 
 To customize the portal:
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the action bar, click **Setup** > **Web Approval** to open the **Document Capture Setup / Continia Web Approval** page.
 1. On the **General** FastTab, under **Fields to Show**, select which fields (if any) should be displayed in addition to the mandatory standard fields during approval in the Web Approval Portal.
 1. Under **Forward Settings**, specify if users can forward documents to other approvers and approve them at the same time, if they can delegate documents for approval (i.e. forward them without approving them themselves), and/or if they can forward documents for approval and then approve the documents themselves when the documents are returned.

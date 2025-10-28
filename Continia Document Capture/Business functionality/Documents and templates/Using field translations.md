@@ -1,6 +1,6 @@
 ---
 title: Using field translations in Document Capture
-date: 14-05-2025
+date: 30-09-2025
 description: How to use the field translation functionality in Document Capture.
 id: DC-460
 lang: en
@@ -25,6 +25,9 @@ The field translations feature converts values captured for the field in which i
 5. On the **Field Translations** FastTab, enter the value you want to translate under the **Translate From** column.
 6. Under the **Translate to** column, enter the value you want as a result. Note that you can leave this field blank, resulting in the removal of the value entered under **Translate From**.
 7. If the field translation should only occur when the case of the captured values is the same as the case entered under **Translate From**, select the **Case-sensitive** box. E.g.: Hazel, but not hazel or HAZEL.
+
+>[!TIP]
+>If the data type of a template field is set to **Lookup**, the **Translate To** field on the **Template Field Card** also works as a lookup field. This allows you to select values dynamically, rather than entering them manually. To enable this functionality, configure lookup values for both the source table and source field of the template field.
 
 ## To use a wildcard in field translations
 

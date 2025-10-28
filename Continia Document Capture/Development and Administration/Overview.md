@@ -1,12 +1,12 @@
 ---
-title: Overview of development and administration of Document Capture
-date: 16-06-2025
+title: Development and administration of Document Capture
+date: 28-08-2025
 description:
 id: DC-483
 lang: en
 ---
 
-# Overview of development and administration of Document Capture
+# Development and administration of Document Capture
 
 {{include "development-and-administration-overview" "Document Capture"}}
 

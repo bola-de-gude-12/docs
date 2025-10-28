@@ -1,13 +1,13 @@
 ---
 title: Setting up company identification texts in Document Capture
-date: 21-03-2025
+date: 15-10-2025
 description: How to to set up company identification texts in Document Capture.
 id: DC-443 
 lang: en
 ---
 
 # Setting up company identification texts
-Company identification texts are used when you only have one email address for receiving documents and would like these documents to be moved automatically to other companies once you’ve imported them. Most organizations use a separate email address for each company, which means that they don’t have to move documents automatically using company identification texts. For more information, see [Moving a document to another company](/Continia Document Capture/Business functionality/Documents and templates/Moving a document to another company.md).
+Company identification texts are used when you only have one email address for receiving documents and would like these documents to be moved automatically to other companies once you’ve imported them. Most organizations use a separate email address for each company, which means that they don’t have to move documents automatically using company identification texts. For more information, see [Moving a document to another company](@DC-74).
 
 When you use company identification texts, you basically tell Continia Document Capture to automatically move any document that contains a specific text specified by you. Each document that contains the specified text will be moved to a company whose name you’ve mapped to this particular text. You can set up multiple company identification texts that all point to the same document. For example:
 
@@ -32,10 +32,10 @@ To set up company identification texts, you must have two or more companies set 
 
 To set up company identification texts:
 
-1.	Choose the {{search}} icon, enter **Company Identification Texts**, and then choose the related link.
+1.	Search ({{search}}) for and select **Company Identification Texts**.
 1.	On the action bar, click **New**.
 1.	A new line is added to the table. In the **Company Name** column, select the company that you want to move incoming documents to.
 1.	In the **Identification Text** column, enter a text that uniquely identifies the selected company in the incoming documents.
 1.	Repeat steps 2-4 for every company identification text that you want to use.
 
-When you’ve entered the number of company identification texts you need, you must enable automatic transfer of documents for each of the document categories in which documents should be moved automatically upon import. To do this, see [Moving documents to other companies automatically](/continia-document-capture/business-functionality/documents-and-templates/moving-a-document-to-another-company#moving-documents-to-other-companies-automatically).
+When you’ve entered the number of company identification texts you need, you must enable automatic transfer of documents for each of the document categories in which documents should be moved automatically upon import. To do this, see [Moving documents to other companies automatically](@DC-74#moving-documents-to-other-companies-automatically).

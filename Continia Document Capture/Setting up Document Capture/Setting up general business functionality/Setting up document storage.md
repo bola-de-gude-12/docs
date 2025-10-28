@@ -29,17 +29,17 @@ The table below outlines the various storage options, enabling you to decide whi
 
 To set up your document storage:
 
-1. Search {{search}} for and select **Storage Migration Assisted Setup Guide**.
+1. Search ({{search}}) for and select **Storage Migration Assisted Setup Guide**.
 1. Follow the on-screen instructions.
 1. When you're done, click **Finish** to close the guide and implement the settings.
 
 To check, pause, or resume a storage migration:
 
-* Search {{search}} for and select **Storage Migration Status**.
+* Search ({{search}}) for and select **Storage Migration Status**.
 
 For more advanced storage configurations (such as changing storage settings without actually migrating any data):
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the **General** FastTab, go to **Document Storage Type** and select your preferred storage type in the box.
 1. If you select **Azure Blob Storage**, a dialog box appears, asking you if you want to continue. Click **Yes**.
 1. The **Update Storage Settings** window opens. Under **General**, fill out all fields with the relevant details from your Azure Blob account. Click **OK** to close the window and update the settings.

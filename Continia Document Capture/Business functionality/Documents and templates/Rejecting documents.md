@@ -13,5 +13,5 @@ To reject a document, follow these steps:
 1. Search ({{search}}) for and select **Document Categories**.
 1. Click the code of the relevant document category – for example, **PURCHASE** – to open the document journal.
 1. In the document list, select the document that you want to reject. Select the document line – *not* the number in the **No.** column, as this will open the document card.
-1. On the action bar, click **Process** and then **Reject**.
+1. On the action bar, click **Home** and then **Reject**.
 1. To find the rejected document, go to **Status Filter** in the upper-right corner and select **Rejected** to display all rejected documents in the document list. Your rejected document should now be in the list.

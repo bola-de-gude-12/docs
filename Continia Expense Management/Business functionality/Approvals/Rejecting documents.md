@@ -1,11 +1,11 @@
 ---
-title: Expense Management Rejecting Documents
-date: 16-03-2021
+title: Rejecting documents
+date: 27-08-2021
 description:
 id: EM-4
 lang: en
 ---
-# Rejecting Documents
+# Rejecting documents
 
 When you reject a document, it will get the status **Open** or **Pending Expense User** depending on the setup **Automatically send for approval** in Expense Management Setup.
 
@@ -15,8 +15,8 @@ On the other hand, when documents cannot be automatically submitted for approval
 
 To reject a document, follow these steps:
 
-1. Choose the {{search}} icon, enter  **Expense Management Approval Entries**, and then choose the related link.
-2. Select the relevant document to be approved.
-3. In the action bar, select **Reject**.
-4. A dialog appears asking for a reject comment. This comment will be delivered to the expense user, depending on the setup.
-5. The document is then rejected, and based on the setup it would be either re-sent to the expense user or will be ready for the admin with the status Open.
+1. Search for {{search}} **Expense Management Approval Entries**.
+2. Select the relevant document you want to approve.
+3. On the action bar, click **Reject**.
+4. A dialog appears asking for a reject comment. This comment is delivered to the expense user, depending on the setup.
+5. The document is then rejected and, based on the setup, it is either re-sent to the expense user or to the admin with the status **Open**.

@@ -19,7 +19,7 @@ You can view the comments from each of the documents in a report in the same pla
 3. For a deeper dive into this functionality, see the Improved visibility of comments in Expense Reports video.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEA8jrrkKLs?si=eRVXt2diCqkJSMtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## See also
+## Related information
 For more information about expense reports, see: 
 
 * [Setting up Expense Reports](@EM-306)

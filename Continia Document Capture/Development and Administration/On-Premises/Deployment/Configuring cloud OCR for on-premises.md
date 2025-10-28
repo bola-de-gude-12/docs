@@ -23,7 +23,7 @@ Obviously, this is not an email address that’s easy to remember, or one that y
 
 To set up Continia Cloud OCR for NAV/Business Central on-premises, follow these steps:
 
-1. Search {{search}} for and select **Document Capture Setup**.
+1. Search ({{search}}) for and select **Document Capture Setup**.
 1. On the **Document Capture Setup** page, on the **General** FastTab, enable **Use Cloud OCR** by checking the box.<a href="#footnote-1"><sup>1</sup></a>
 1. A dialog box appears, asking you if you want to export all document categories to Cloud OCR. Choose **Yes**.
 1. Optional (recommended): Using your own email service, set up a local email address with your own domain and have all incoming emails forwarded to the dedicated Continia Cloud OCR email address. Share the new local email address with the companies that send you documents for OCR processing in Document Capture.

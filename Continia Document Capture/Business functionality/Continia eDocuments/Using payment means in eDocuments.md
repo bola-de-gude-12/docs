@@ -1,6 +1,6 @@
 ---
 title: Using payment means in eDocuments
-date: 07-04-2025
+date: 15-10-2025
 description: How to configure payment means on the bank account, company, and customer levels.
 id: DC-450
 lang: en
@@ -30,8 +30,8 @@ Additionally, the default payment means doesn’t generate a payment ID. To do t
 
 It’s possible to configure custom payment means on the bank account, company, and customer levels. To do so, start by creating a default setup.
 
-1. Choose the {{search}} icon, enter **eDocuments Payment Means Setup**, and then choose the related link.
-2. On the **eDocuments Payment Means Setup** page, select **New** on the action bar.
+1. Search ({{search}}) for and select **eDocuments Payment Means Setup**.
+2. On the **eDocuments Payment Means Setup** page, click **New** on the action bar.
 3. On the **General** FastTab, enter the following details:
    * **Code** - the code that identifies the payment means setup. E.g.: FIK73.
    * **Description** - the text that describes the payment means setup. E.g.: FIK 73.
@@ -50,9 +50,9 @@ Custom payment means setups can be applied on the company, bank account, or cust
 
 To apply a custom payment means setup to a company:
 
-1. Choose the {{search}} icon, enter **Company Information**, and then choose the related link.
+1. Search ({{search}}) for and select **Company Information**.
 
-1. On the **Company Information** page, on the **Payments** FastTab, select the three dots by the **Payment Means Setup** field.
+1. On the **Company Information** page, on the **Payments** FastTab, click the three dots by the **Payment Means Setup** field.
 2. Select the desired payment means setup.
 
 The selected payment means becomes the new default, which is used if the **Company Bank Account Code** field on the invoice or credit memo is empty.
@@ -64,9 +64,9 @@ The selected payment means becomes the new default, which is used if the **Compa
 
 To apply a custom payment means setup to a bank account:
 
-1. Choose the {{search}} icon, enter **Bank Accounts**, and then choose the related link.
+1. Search ({{search}}) for and select **Bank Accounts**.
 2. On the **Bank Accounts** page, select the desired bank account.
-3. On the **Bank Account Card**, on the **General** FastTab, select the three dots by the **Payment Means Setup** field.
+3. On the **Bank Account Card**, on the **General** FastTab, click the three dots by the **Payment Means Setup** field.
 4. Select the desired payment means setup.
 
 When you then set the **Company Bank Account Code** field of an electronic invoice or credit memo to this bank account, the payment means associated with it is used.
@@ -78,9 +78,9 @@ When you then set the **Company Bank Account Code** field of an electronic invoi
 
 To apply a custom payment means setup to a customer:
 
-1. Choose the {{search}} icon, enter **Customers**, and then choose the related link.
+1. Search ({{search}}) for and select **Customers**.
 2. On the **Customers** page, select the desired customer. Note that this customer must be able to receive eDocuments.
-3. On the **Customer Card**, on the eDocuments FastTab, select the three dots by the **Payment Means Setup** field.
+3. On the **Customer Card**, on the eDocuments FastTab, click the three dots by the **Payment Means Setup** field.
 4. Select the desired payment means setup.
 
 When invoices and credit memos are sent to this customer, the payment means associated with it is used.
@@ -94,8 +94,8 @@ When you import configuration files from Continia Online, several payment means 
 
 However, it’s also possible to create a payment means. To do so:
 
-1. Choose the {{search}} icon, enter **eDocuments Payment Means**, and then choose the related link.
-2. On the **eDocuments Payment Means** page, select **New** on the action bar.
+1. Search ({{search}}) for and select **eDocuments Payment Means**.
+2. On the **eDocuments Payment Means** page, click **New** on the action bar.
 3. Enter the following details:
    * **Code** - the code that identifies the payment means. 
    * **Description** - the text that describes the payment means.

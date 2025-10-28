@@ -1,11 +1,11 @@
 ---
-title: Setting up the Continia Users Default Setup
-date: 04-03-2025
+title: Setting up the Continia users default setup
+date: 28-07-2025
 description:  
 id: EM-273
 lang: en
 ---
-# Setting up the Continia Users Default Setup
+# Setting up the Continia users default setup
 
 In Expense Management, multiple settings are assigned by default, but you can customize these settings for individual users or groups of users. 
 
@@ -13,8 +13,8 @@ Use the Continia Users Default Setup to establish default mileage vehicles, per 
 
 **To set up the default Continia user setup:**
 
-1. Search {{search}} for **Continia Users Default Setup**, then select the related link.
-2. On the action bar, select **New**.
+1. Search for {{search}} **Continia Users Default Setup**.
+2. On the action bar, click **New**.
 3. Refer to the following table to fill in the fields:
 
    | Field                  | Description                                                  |

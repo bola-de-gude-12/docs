@@ -65,7 +65,7 @@ If you're an administrator, you must, as a minimum, be assigned the following pe
 | -------------- | --------------------------------------------------- |
 | CEM-SUPER      | Used by the bookkeeper role and EM super user role. |
 
-## See also
+## Related information
 
 [Assign Permissions to Users and User Groups](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-define-granular-permissions) (Microsoft article)  
 

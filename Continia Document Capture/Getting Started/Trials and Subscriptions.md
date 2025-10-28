@@ -32,7 +32,7 @@ When you [have an active subscription](#start-a-subscription) for one or more mo
 
 To activate a free 30-day trial of a module, follow these steps:
 
-1. Search {{search}} for and select **Continia Solution Management**.
+1. Search ({{search}}) for and select **Continia Solution Management**.
 1. In the **Subscription Modules** FactBox on the right side of the page, locate the relevant module.
 1. Click {{vertical-dots}} to open a dropdown menu for the module, and then click **Start Trial** to activate the module in trial mode.
 

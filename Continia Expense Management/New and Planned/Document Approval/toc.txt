@@ -1,3 +1,2 @@
-Option of making the approval flow different from Continia Document Capture.md | Option of making the approval flow different from Continia Document Capture
-Configurable messages.md | Configurable messages
-One email for all companies to notify about open approval entries.md | One email for all companies to notify about open approval entries
+Bulk approval in business central.md | Bulk approval in Business Central
+

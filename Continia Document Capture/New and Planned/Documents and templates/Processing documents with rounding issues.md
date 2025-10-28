@@ -1,6 +1,6 @@
 ---
 title: Processing documents with rounding issues
-date: 02-06-2025
+date: 30-09-2025
 description:
 id: DC-469
 lang: en
@@ -10,7 +10,7 @@ lang: en
 
 | Feature | Public preview | General availability online |
 | --- | :-: | :-: |
-| Processing documents with rounding issues | - | Oct 2025 |
+| Processing documents with rounding issues | {{checkmark}} Sep 2025 | {{checkmark}} Oct 2025 |
 
 ## Business value
 
@@ -19,3 +19,5 @@ Currently, when users encounter small VAT differences between the vendor’s inv
 ## Feature details
 
 A setting will be added to the **General Ledger Setup**. If enabled, this setting will automatically correct the created invoice if the values set in **Maximum Allowed Difference Excl. VAT** and **Maximum Allowed Difference Incl. VAT** allow for it.
+
+For more information, see [Configuring purchase documents](@DC-139).

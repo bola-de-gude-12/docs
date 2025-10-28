@@ -1,6 +1,6 @@
 ---
 title: Detailed changelogs for the Continia Document Capture Service
-date: 04-07-2025
+date: 19-08-2025
 description:  
 id: DC-133
 lang: en
@@ -15,6 +15,28 @@ This article lists all the changes that have been carried out for the Continia D
 
 > [!IMPORTANT]
 > When you upgrade the Document Capture Service to a newer version, you must also export the OCR configuration files. If you fail to do so, new features that depend on settings in the OCR configuration files won't work as expected (such as the import of emails using EWS or the creation of PNG image files).
+
+## Document Capture Service 26.02
+
+*Released: August 19, 2025*
+
+### Bug fixes
+
+| Functional area | Description                                                  | ID   |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ---- |
+| Platform and Technology |Prior to this, incoming ZUGFeRD and PDF files could receive the same filename in some cases. |68329|
+
+## Document Capture Service 26.01
+
+*Released: August 4, 2025*
+
+### Bug fixes
+
+| Functional area | Description                                                  | ID   |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ---- |
+| Platform and Technology |Improved the handling of ZUGFeRD documents with multiple files. |62470, 66926|
+| Platform and Technology |Due to a bug introduced in version 26.00, the retrieval of emails from EWS was failing in some cases. |67871|
+| Platform and Technology |Removed the ability to recognize documents from scanners. |-|
 
 ## Document Capture Service 26.00
 

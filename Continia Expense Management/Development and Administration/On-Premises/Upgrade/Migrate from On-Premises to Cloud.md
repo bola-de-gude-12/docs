@@ -1,12 +1,12 @@
 ---
 title: Migrating Expense Management from Business Central On-Premises to Cloud
-date: 09-07-2025
-description:  
+date: 15-10-2025
+description: Guide to migrate Expense Management from on-premises to online
 id: EM-112
 lang: en
 ---
 
-# Migrating Expense Management from Business Central On-Premises to Cloud
+# Migrating Expense Management from Business Central on-premises to cloud
 
 If your organization currently uses Continia Expense Management in Microsoft Dynamics NAV/Business Central on-premises, but wants to move to the cloud, use this guide to migrate to Business Central online.
 
@@ -31,13 +31,13 @@ Before migrating any data to Business Central online, you must carry out the fol
 1. As mentioned in the previous section, you must set **Document Storage Type** to **Database** at the time of migration – otherwise, no files will be migrated. If necessary, you can change the storage type later, (for example **Azure Blob Storage**). However, **File System** storage type isn't available in Business Central online.
 
 > [!NOTE]
-> Previously, you had to upgrade to the latest available versions of both Business Central and Expense Management to migrate to the cloud. This is no longer necessary if you use version 24.1.0 or later of Expense Management in your Business Central online environment (target).
+> There's a direct upgrade path from Expense Management 5.00 or later to Expense Management 2021 R2 (8.00), but upgrading from a version earlier than Expense Management 5.00 requires multiple manual steps.
 
 ## Migrating data to the cloud
 
 After you've prepared your on-premises environment for migration, you're ready to migrate your data to Business Central online. To do this, carry out the following steps in your new online environment:
 
-1. Run the Microsoft cloud migration tool: select the {{search}} icon, enter **Cloud Migration Setup**, then choose the related link to open the **Cloud Migration Setup** guide. For more information, see [Run the assisted setup guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-data#run-the-assisted-setup-guide) (Microsoft article).
+1. Run the Microsoft cloud migration tool: Search for {{search}} **Cloud Migration Setup**. For more information, see [Run the assisted setup guide](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-data#run-the-assisted-setup-guide) (Microsoft article).
 1. Follow the on-screen instructions to complete the guide.
 
    >[!IMPORTANT]
@@ -46,12 +46,13 @@ After you've prepared your on-premises environment for migration, you're ready t
 1. After the migration process is complete, go through the steps of the **Post Migration Checklist** to ensure you've carried out all necessary actions.
 
    > [!IMPORTANT]
-   > 
-   > Before you disable cloud migration, consider the type of online environment you've migrated to:
+   >
+   > *Before* you disable cloud migration, consider the type of online environment you've migrated to:
+   >
    > * **If you've migrated to a sandbox environment**, your original client credentials are automatically deleted. When you then activate Expense Management as a cloud solution (steps 5-6), new client credentials are created.
    > * **If you've migrated to a production environment**, your existing client credentials are reused for the online environment.
 1. Disable cloud migration, and define user mappings between on-premises and cloud. For more information, see "Disable Cloud Migration" and "Define User Mappings" in the table under [Manage the migration](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-data#manage-the-migration) (Microsoft article).
-1. In the **Role Center**, you'll see the following notification: "Continia Expense Management has been migrated from On-premises to Cloud. Would you like to activate it?" Select **Yes** to open the activation guide.
+1. In the **Role Center**, you'll see the following notification: "Continia Expense Management has been migrated from On-premises to Cloud. Would you like to activate it?" Click **Yes** to open the activation guide.
 1. Complete the guide to activate Expense Management as a cloud solution.
 
    > [!NOTE]

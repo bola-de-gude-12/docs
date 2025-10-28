@@ -48,7 +48,7 @@ Wondering what Continia Expense Management is all about? The tables below provid
 | --- | --- |
 | Learn about working with documents for approval | [Guide](https://partnerzone.blob.core.windows.net/articles/docs/em/document-approval/Working-with-documents-for-approval.pdf) |
 
-##See also
+## Related information
 [Business Functionality](/Continia Expense Management/Getting Started/Business Functionality.md)  
 
 

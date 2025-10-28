@@ -1,6 +1,6 @@
 ---
 title: eDocuments flows
-date: 09-05-2025
+date: 10-09-2025
 description: A description of the flows supported by Continia eDocuments.
 id: DC-183
 lang: en
@@ -48,6 +48,8 @@ The posted sales invoice can then be sent to the customer as part of [the billin
 >[!NOTE]
 >Only one order change can be submitted per document.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src=https://player.vimeo.com/video/1114186087?h=aedccc9114&badge=0&autopause=0&player_id=0&app_id=58479%22 frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DC_Welcome_to_Document_Capture"></iframe></div><script src=https://player.vimeo.com/api/player.js></script>
+
 ## Billing flow
 
 A classic Continia eDocuments billing flow involves a vendor (seller) who sends an invoice to a customer (buyer), who then responds to that invoice. Such a flow will typically look as follows:
@@ -59,7 +61,7 @@ A classic Continia eDocuments billing flow involves a vendor (seller) who sends 
    * **Under Query** - the customer needs clarification or has questions about the invoice and may contact the vendor via phone or email.
 1. When no more information is needed, the customer matches the invoice against the original order. One of the following three types of invoice response will then be sent either manually or automatically from the customer to the vendor, depending on the result of the matching process:
    * **Rejected** - the invoice and the order don't match, so the customer rejects the invoice.
-      
+     
       > [!NOTE]
       > If the customer rejects the invoice, the vendor will have to start the flow again by creating a new sales invoice and sending it to the customer.
    * **Conditional** - the invoice and the order almost match, so the customer accepts under certain conditions – for example, provided that the vendor adjusts the price.
