@@ -1,1 +1,0 @@
-![Back](/images/back_icon.png)

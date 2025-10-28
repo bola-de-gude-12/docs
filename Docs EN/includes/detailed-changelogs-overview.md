@@ -1,3 +1,0 @@
-Every time Continia {param1} is updated, a detailed changelog is published. This changelog lists new or changed functionality and bug fixes included in the release. Each item includes a brief release note explaining the purpose and impact of the change. There's also a {param1} Docs changelog available, listing the articles that cover these changes and updates.
-
-For more information about {param1}, see the latest changelogs:
