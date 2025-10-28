@@ -1,6 +1,0 @@
-Overview.md | Overview
-General Application | General application
-Documents and Templates | Documents and templates
-Platform and Technology | Platform and technology
-Previous release plans
-detailed changelogs | Detailed changelogs

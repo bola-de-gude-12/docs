@@ -1,3 +1,0 @@
-FAQ.md | General FAQ
-CDN FAQ.md | Continia Delivery Network FAQ
-Minimum Requirements.md | Minimum requirements

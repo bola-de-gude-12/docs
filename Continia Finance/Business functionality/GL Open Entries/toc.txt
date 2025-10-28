@@ -1,6 +1,0 @@
-Introduction to the GL Open Entries module.md | Introducing the G/L Open Entries module
-Setting up the gl open entries module.md | Setting up the G/L Open Entries module
-Open GL Accounts.md | Open G/L Accounts 
-Printing Open GL Account Entries.md | Printing open G/L account entries 
-GL Acc Application.md | Automatic application of G/L accounts
-Applying payments to open entries.md | Applying payments to open entries

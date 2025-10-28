@@ -1,5 +1,0 @@
-Overview.md | Overview
-Adding a Payment Service Provider.md | Setting up a payment service agreement
-Importing PSP payments.md | Importing PSP payments
-Matching ledger entries PSP payments.md | Matching ledger entries with PSP payments
-Setting up custom payment service providers.md | Setting up custom payment service providers

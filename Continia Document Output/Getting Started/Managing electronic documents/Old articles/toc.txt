@@ -1,2 +1,0 @@
-Overview.md | Overview
-Onboarding to the Continia Delivery Network.md | Preparing for electronic invoicing using Continia Delivery Network

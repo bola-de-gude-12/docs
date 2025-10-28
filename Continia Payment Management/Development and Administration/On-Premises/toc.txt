@@ -1,7 +1,0 @@
-Installing Payment Management on-premises.md | Installing Payment Management
-Installing upgrades to business central on-premises.md | Installing Business Central upgrades
-Versions On-Premises.md | Supported Business Central versions
-Comparison of features and versions.md | Comparison of features and versions
-Managing solutions
-Deployment
-Upgrade

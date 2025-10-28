@@ -1,2 +1,0 @@
-Introducing payment reference rules.md | Introducing payment reference rules
-Setting up a payment reference rule.md | Setting up a payment reference rule

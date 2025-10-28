@@ -1,8 +1,0 @@
-Getting started with Continia Banking.md | Getting started with Continia Banking
-Setups | Setting up Continia Banking
-Business functionality.md | Business functionality
-Help and Support.md | Help and support
-Continia Notifications.md | Continia Notifications
-Continia Hub.md | Continia Hub
-Trials and Subscriptions.md | Trials and subscriptions
-Resellers and Partners | Resellers and partners

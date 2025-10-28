@@ -1,4 +1,0 @@
-Using Continia Solution Management.md | Using Continia Solution Management
-Installing the Payment Management app.md | Installing the Payment Management app
-Updating to the latest version.md | Upgrading to the latest version
-Overview.md | Overview

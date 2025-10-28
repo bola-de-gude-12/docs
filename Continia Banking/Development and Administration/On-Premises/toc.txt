@@ -1,5 +1,0 @@
-Installing continia banking on-premises.md | Installing Continia Banking
-Versions On-Premises.md | Supported Business Central versions
-Upgrade | Upgrade
-Managing solutions
-Deployment

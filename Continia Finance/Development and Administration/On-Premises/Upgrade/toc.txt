@@ -1,4 +1,0 @@
-Updating to the latest version.md | Overview
-Upgrading Continia Finance for app versions.md | Upgrading Continia Finance (app)
-Upgrading Business Central
-Migrate from On-Premises to Cloud.md | Migrate from on-premises to cloud

@@ -1,9 +1,0 @@
-Introduction to the Essential module.md | Introducing the Essential module
-Using balance confirmation codes.md | Using balance confirmation codes
-Using Fast Capture Codes.md | Using Fast Posting codes
-Using ledger entry comments.md | Using ledger entry comments
-Using VAT Key Codes.md | Assigning VAT key codes
-Using extended application features.md | Using extended application features
-Using extended payment discount handling.md | Using extended payment discount handling
-Using dimensions on system entries.md | Using dimensions on system entries
-Using CSV ports.md | Using CSV ports

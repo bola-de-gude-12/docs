@@ -1,2 +1,0 @@
-Overview of print.md | Overview
-The print queue.md | The print queue

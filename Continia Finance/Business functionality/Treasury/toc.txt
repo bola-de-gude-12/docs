@@ -1,2 +1,0 @@
-Introducing the treasury module.md | Introducing the Treasury module
-Setting up the treasury module.md | Setting up the Treasury module

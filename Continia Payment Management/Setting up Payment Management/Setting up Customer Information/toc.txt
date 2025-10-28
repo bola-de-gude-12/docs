@@ -1,5 +1,0 @@
-Overview.md | Overview
-Defining payment ID.md | Defining payment ID
-Setting up customer application rules.md  | Setting up customer application rules
-Setting up customer statements.md | Setting up customer statements
-The Payment Management fields on the customer card.md  | The Payment Management fields on the customer card

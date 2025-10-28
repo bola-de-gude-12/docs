@@ -1,7 +1,0 @@
-index.md | Welcome to Payment Management
-New and Planned | New and planned
-Getting Started | Getting started
-Setting up Payment Management | Setting up Payment Management
-Business Functionality | Business functionality
-Development and Administration | Development and administration
-Compliance | Compliance 

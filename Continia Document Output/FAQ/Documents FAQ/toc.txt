@@ -1,9 +1,0 @@
-How can I exclude specific document types from being sent.md | How can I exclude specific document types from being sent?
-How can I select the GLN when sending XML files to customers.md | How can I select the GLN when sending XML files to customers?
-How come my pdf is locked.md | How come my PDF is locked?
-Why is the Document Output FactBox grayed out.md | Why is the Document Output FactBox grayed out?
-Can I use the print service on the demo portal.md | Can I use the print service on the demo portal?
-How can I check whether my email arrived.md | How can I check whether my email arrived?
-Can I send documents without email.md | Can I send documents without email?
-How to export and import email templates.md | How do I export and import email templates?
-Why Is the resend button grayed out.md | Why is the Resend button grayed out?

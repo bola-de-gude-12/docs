@@ -1,2 +1,0 @@
-swedbank overview.md | Overview
-swedbank iso format.md | Swedbank (ISO format)

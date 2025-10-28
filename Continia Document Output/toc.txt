@@ -1,7 +1,0 @@
-index.md | Welcome to Document Output
-New and Planned | New and planned
-Getting Started | Getting started
-Setting up Document Output | Setting up Document Output
-Business functionality
-Development and Administration | Development and administration
-Compliance.md | Compliance

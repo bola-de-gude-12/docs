@@ -1,5 +1,0 @@
-Development and customization.md | Overview
-Scope of support services.md | Scope of support services
-Accessing the source code.md | Accessing the source code
-Using the OCR reference interface.md | Using the OCR reference interface
-Creating an OCR reference for Bank Girot.md | Creating an OCR reference for Bank Girot

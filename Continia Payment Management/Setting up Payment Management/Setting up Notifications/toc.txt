@@ -1,3 +1,0 @@
-Setting up Payment Notifications.md | Defining payment notification method
-Setting up email notifications.md | Setting up email notifications
-Enable detailed expense information in the payment journal.md | Adding detailed expense information to the payment journal

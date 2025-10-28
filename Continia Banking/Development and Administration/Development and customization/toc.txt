@@ -1,4 +1,0 @@
-Development and customization.md | Overview
-Setting up azure blob storage for continia banking.md | Setting up Azure Blob Storage for Continia Banking
-Scope of support services.md | Scope of support services
-Requesting events and external functions.md | Requesting events and external functions

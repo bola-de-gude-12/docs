@@ -1,3 +1,0 @@
-Introducing the multilevel payment discount module.md | Introducing the Multi-level Payment Discount module
-Setting up multilevel payment discount.md | Setting up the Multi-Level Payment Discount module
-Using multi-level payment discounts in sales and purchases.md | Using multi-level payment discounts in sales and purchases

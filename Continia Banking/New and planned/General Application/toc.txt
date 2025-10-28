@@ -1,3 +1,0 @@
-support for norwegian.md | Support for Business Central NO
-support for CAMT54.md | Support for CAMT.054
-support for dutch.md | Support for Business Central NL

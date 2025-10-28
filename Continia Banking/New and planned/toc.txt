@@ -1,6 +1,0 @@
-Overview.md | Release plan
-Detailed changelogs | Detailed changelogs
-General Application | General application
-Import | Import
-Export | Export
-

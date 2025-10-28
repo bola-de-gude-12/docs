@@ -1,3 +1,0 @@
-Secure communication using Continia Delivery Network and Peppol.md | Secure communication using Continia Delivery Network and Peppol
-Outgoing network documents.md | Outgoing Network Documents
-Document validation in the Continia Delivery Network.md | Document validation in the Continia Delivery Network (CDN)

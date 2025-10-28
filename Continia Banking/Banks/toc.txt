@@ -1,4 +1,0 @@
-Overview.md | Overview
-Onboarding banks | Banks
-supported bank files.md | Supported bank files
-Managing tokens and certificates.md | Managing tokens and certificates

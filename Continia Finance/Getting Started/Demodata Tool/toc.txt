@@ -1,9 +1,0 @@
-Overview.md | Setting up the Demodata for Continia Finance
-Demodata Essential.md | Essential modules demo
-Demodata Associations.md | Associations demo
-Demodata GL Open Entries.md | G/L Open Entries demo
-Demodata Trial Balance and VAT.md | Extended Financial Reports demo
-Demodata Extended Fixed Assets.md | Extended Fixed Assets demo
-Demodata Installments.md | Installments demo
-Demodata Multiple Payments.md | Multi-Level Payment Discount demo
-Demodata Treasury.md | Treasury demo

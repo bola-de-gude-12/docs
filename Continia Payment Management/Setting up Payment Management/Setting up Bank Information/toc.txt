@@ -1,5 +1,0 @@
-overview of setting up bank information.md | Overview
-Setting up bank accounts.md | Setting up bank accounts
-Setting up balance accounts.md | Setting up balance accounts
-Setting up vendor bank accounts.md | Setting up vendor bank accounts
-Direct communication

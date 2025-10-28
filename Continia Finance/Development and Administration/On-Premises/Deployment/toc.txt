@@ -1,2 +1,0 @@
-Minimum Requirements.md | Minimum requirements
-Lifecycle Policy On-premises.md | Software lifecycle policy

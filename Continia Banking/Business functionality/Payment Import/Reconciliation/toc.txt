@@ -1,6 +1,0 @@
-Introduction to reconciliation.md | Introduction to reconciliation
-The basics of matching accounts.md | The basics of matching accounts
-Account identification methods.md | Transaction type identification
-Bank account reconciliation | Bank Account reconciliation
-Payment reconciliation journal | Payment Reconciliation Journal 
-

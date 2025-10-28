@@ -1,4 +1,0 @@
-Introducing the installment module.md | Overview
-Setting up the installment module.md | Setting up the Installment module
-Adding an installment template.md | Adding an installment template
-Applying installment plans.md | Applying installment plans

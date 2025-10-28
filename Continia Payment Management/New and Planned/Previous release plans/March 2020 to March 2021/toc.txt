@@ -1,8 +1,0 @@
-March 2020 to March 2021.md | Overview
-Improvements to the import of FIK and GIK files, CREMUL.md | Improvements to the import of FIK and GIK files, CREMUL
-Support for Feature Management in Business Central.md | Support for Feature Management in Business Central
-General reconciliation rules for the bank account reconciliation journal.md | General reconciliation rules for the bank account reconciliation journal
-Customer reconciliation rules to identify customers.md | Customer reconciliation rules to identify customers
-Enhanced management of notifications.md | Enhanced management of notifications
-Merge rules for the merging of account statement lines.md | Merge rules for the merging of account statement lines
-Migration tool for migrating Continia Payment Management.md | Migration tool for migrating Continia Payment Management

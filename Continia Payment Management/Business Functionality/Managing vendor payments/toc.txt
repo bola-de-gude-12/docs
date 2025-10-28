@@ -1,9 +1,0 @@
-Overview.md | Overview
-Suggesting and processing payments.md | Suggesting and processing payments
-Using the payment status.md | Using the payment status
-Managing cash discounts.md | Managing cash discounts
-Applying balance accounts.md | Applying balance accounts
-Summarizing payments.md | Summarizing payments
-Managing payment notifications.md | Managing payment notifications
-Voiding a payment.md | Voiding a payment
-Payment methods

@@ -1,3 +1,0 @@
-Using Continia Solution Management.md | Using Continia Solution Management
-Installing the Document Output app.md | Installing the Document Output app
-Updating to the latest version.md | Upgrading to the latest version

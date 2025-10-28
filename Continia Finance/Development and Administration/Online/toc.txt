@@ -1,4 +1,0 @@
-Using Continia Solution Management.md | Using Continia Solution Management
-Installing the Continia Finance app.md | Installing the Continia Finance app
-Updating to the latest version.md | Upgrading to the latest version
-Minimum Requirements.md | Minimum requirements

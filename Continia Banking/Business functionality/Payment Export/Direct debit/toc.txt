@@ -1,2 +1,0 @@
-Overview.md | Overview
-Setting up direct debit.md | Setting up Direct Debit

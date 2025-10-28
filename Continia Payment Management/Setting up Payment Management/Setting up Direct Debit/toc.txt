@@ -1,3 +1,0 @@
-Overview.md | Overview
-Setting up Direct Debit.md | Setting up Direct Debit
-Working with Direct Debit Collections.md | Working with Direct Debit Collections

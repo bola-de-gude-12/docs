@@ -1,8 +1,0 @@
-Overview.md | Overview
-Introducing Payment reconciliation journal.md | Introducing the Payment Reconciliation Journal
-Importing transactions.md | Importing payments into the Payment Reconciliation journal
-Working in the payment reconciliation journal.md | Working in the Payment Reconciliation Journal
-Handling payment reconciliation postings.md | Handling Payment Reconciliation Journal postings
-The reconciliation statuses in the payment reconciliation journal.md | The statuses in the Payment Reconciliation Journal
-Handling amount differences in the payment reconciliation.md | Handling amount differences in the Payment Reconciliation Journal
-
