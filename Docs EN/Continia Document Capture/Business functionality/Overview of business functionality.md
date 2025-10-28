@@ -4,6 +4,8 @@ date: 28-08-2025
 id: DC-50
 lang: en
 description: An overview of the business functionality in Document Capture.
+vars:
+  first_variable: First in Business Func in DC
 ---
 
 # Business functionality (with the title changed)
