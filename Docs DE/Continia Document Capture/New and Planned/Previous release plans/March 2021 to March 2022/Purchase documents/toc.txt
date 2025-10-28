@@ -1,0 +1,8 @@
+Continia Delivery Network.md | Continia Delivery Network
+Support for the ZUGFeRD XML format for Germany.md | Unterstützung für das XRechnung-Format in Deutschland
+Exporting and downloading multiple attachments in bulk.md | Exportieren und Herunterladen mehrerer Anhänge in großen Mengen
+Ability to view PDF and XML files directly from the Vendor Ledger Entries screen.md | PDF/XML-Dateien können direkt von der Kreditorenposten-Seite angezeigt werden
+Forced registration of documents.md | Erzwungene Registrierung von Belegen
+Support for the Finvoice XML format for Finland.md | Unterstützung für das Finvoice XML-Format für Finnland
+Partial support for the UTS XML format.md | Teilweise Unterstützung für das UTS XML-Format
+Full support for the UTS XML format.md | Volle Unterstützung für das UTS XML-Format

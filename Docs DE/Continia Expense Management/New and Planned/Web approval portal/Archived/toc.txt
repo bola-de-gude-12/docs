@@ -1,0 +1,1 @@
+Highlighting only relevant lines for advanced approval.md | Hervorheben der relevanten Zeilen für die erweiterte Genehmigung

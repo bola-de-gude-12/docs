@@ -1,0 +1,410 @@
+---
+title: Detailed Changelog for Continia Expense Management 2020 R2
+date: 18-09-2025
+description: List of features and bug fixes for each version of Expense Management 2020 R2
+id: EM-364
+lang: en
+---
+
+# Detailed changelog for Continia Expense Management 2020 R2
+This article lists all new features and bug fixes for each version of Continia Expense Management 2020 R2.
+
+> [!IMPORTANT]
+> This version of Expense Management is no longer supported. As a consequence of this, Continia will no longer correct any errors appearing in this version, and no further service packs relating to the version will be released. For supported versions of Expense Management, see [Software Lifecycle Policy and Continia Expense Management On-Premises](@EM-104).
+
+> [!TIP]
+> As a Continia partner, you can be notified of new Expense Management versions and service packs whenever they're released. To sign up for this service, go to [this page](https://continia.zendesk.com/hc/en-us/articles/360005316840-Receive-a-notification-upon-new-Expense-Management-releases) in the Continia PartnerZone (only available to partners).
+
+## Expense Management 2020 R2 Service Pack 7, Hotfix 1
+
+*Released: December 6, 2022*  
+*App version: 6.5.7.1*  
+*FOB version: 6.50.07.01*  
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Expenses|When importing transactions and processing them, the status was not updated so multiple transactions and expenses could have been created based on the same transaction inbox. The issue was introduced in versions 7.05 and 8.04. |41841|
+| Expenses|<span>When downloading an expense from Continia Online (Synchronize) that is matched to a bank transaction, it would have failed in the Expense Inbox with the following error:</span><br> <ul><li><span><em>Matched to Bank Transaction must be equal to 'No' &nbsp;in Expense: Entry No.=&lt;ExpenseNo&gt;. Current value is 'Yes'.</em></span> </li> </ul> |42071|
+| Expenses|When trying to &quot;Get Expenses&quot; from an Expense Report, when the expense would have been matched, the following error was shown: <br><em><ul><li>Matched to Bank Transaction must be equal to 'No' in Expense: Entry No.=&lt;EntryNo.&gt;. Current value is 'Yes'. </li></em></ul>  |42497|
+
+## Expense Management 2020 R2 Service Pack 7
+
+*Released: September 26, 2022*  
+*App version: 6.5.7*  
+*FOB version: 6.50.07*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Expenses|For Sales Tax allocation, the sales tax amount will be distributed into multiple lines in the event that an expense has already been allocated.  |38588|
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Expenses|Allocations did not inherit standard dimensions from the employee.&nbsp; |35143|
+| Expenses|An issue has been fixed that was causing decimal differences in the sales taxes appended to the Purchase Invoice when the user would not have changed the sales taxes allocated amount.  |39083|
+| Expenses|An issue in the sales tax was causing the following error to be shown, even though the sales tax differences were within the setup ranges. This has been fixed. <ul><li><em>Government Sales Tax Expense Type 10 must not exceed General Ledger Setup Max. Tax Difference Allowed 5.</em> </li> </ul> |39337|
+| Expenses|The&nbsp;<span>Expense Report (Settlement) posting date is used to post all the sub-documents on the same date. However, on an expense, the exchange rates were not calculated in regard to that date, but based on the &quot;Document Date&quot;.</span>  |41026|
+| Expenses|When validating the expense “Document Date”, a recalculation of exchange rates will happen. |41027|
+| Expenses|The expense report posting date is used for recalculating the currency exchange rates for expenses. Now amounts are recalculated to reflect currency exchange rates on expenses in an Expense Report (Settlement). Until now, these were only updated at posting time. |41029|
+| Expenses|An issue has been fixed, resulting in an error where an allocated expense would have an allocation without a Project Task No. specified when the original expense had a Project No. specified. The error can be bypassed if the main expense Project No. is removed.<ul><li><em>Project Task No. must have a value in Expense Allocation: Entry No.=53. It cannot be zero or empty.</em></li> </ul> |41145|
+| General Application|The field Approver Name was editable in View mode on the Continia User Setup Card page. |34815|
+| General Application|A permission issue that could result in the following message has been fixed:&nbsp; <ul><li><em>You do not have the following permissions to TableData Employee Ledger Entry: Read </em> </li> </ul> |40808|
+| Mileages|When attempting to modify a mileage rate that is already used for posting mileage entries, you would get the following error message.&nbsp; <ul><li><em>One or more mileage have been posted after &lt;fieldValue1&gt; and &lt;field2&gt; can therefore not be changed.</em> </li> </ul>The&nbsp;<em>&lt;fieldValue1&gt; </em><span>was intended to be the start date of the mileage rate but was showing random values from the mileage rate, making the error message unclear.&nbsp;</span>  |38492|
+| Mileages|A user who has the permission set CEM-NAVUSER, would get the following error when creating a mileage. <ul><li><em>You do not have the following permissions on the TableData CEM Mileage Detail: Modify.</em> </li> </ul> |40953|
+| Mileages|An issue in the mileage calculation, where in a very specific situation, the low mileage rate was wrongly assigned instead of the high rate have been fixed. This happened when a mileage existed in 2 periods and when the sum of the total distance driven by a user was exceeding the low rate. |41111|
+| Mileages | When exporting configurations through the Expense Management Assisted Setup Guide, decimal values were converted to integers (e.g., 1.23 was converted to 123). This impacted mileage rates. | 42127 |
+| Per Diem|When setting the First and Last Day Setup, Calculation Method to Sub rates immediately after creating the Per Diem Rate, you would get the following error message: <ul><li><em>The Per Diem Rate does not exist. </em> </li> </ul>  |38538|
+| Per Diem|For Per Diem calculation, in certain conditions, if skipping one day rate when using sub-rates, an issue has been fixed.  |38931|
+| Per Diem|A wrong calculation on the Per Diem, when using hourly rates, on the last day of the trip has been fixed.<br>  |38932|
+| Per Diem|We have fixed the following error in the Status Report, related to the Per Diem calculations over the number of hours: <br> <ul><li><em>Overflow under conversion of Microsoft.Dynamics.Nav.Runtime.Decimal18 value 16,5 to System.Int32</em> </li> </ul> |39458|
+
+## Expense Management 2020 R2 Service Pack 6
+
+*Released: June 28, 2022*  
+*App version: 6.5.6*  
+*FOB version: 6.50.06*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Expenses|We have implemented functionality to avoid and enforce the usage of Project No./Project Task No. on sales tax allocation lines. Sales Tax allocation will no longer post Job ledger entries.&nbsp;<span>This is especially relevant for the Canada Sales Tax.</span> |31943|
+| Expenses|For the Sales Tax allocation lines, we now distribute the sales tax amount into multiple lines if the expense was already allocated.&nbsp; |38588|
+| General Application|We are now processing the release notifications from the&nbsp;<span>Notification Outbox as part of the normal synchronization with Continia Online.</span> |28682|
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Credit Card Transactions|We've increased the length limit of the Transaction ID to 150 characters. |13728|
+| Expenses|<span>We have fixed an issue in MS Dynamics NAV 2009 R2, when an expense with Jobs was posted. There would have been an error like the one below.&nbsp;</span> <span>This issue doesn't affect other versions.&nbsp;</span> <span><br></span> <ul><li><em>&quot;Bal. Account Type must be G/L Account in Gen. Journal Line Journal Template Name='GENERAL',Journal Batch Name='EXPENSE',Line No.='0'.&quot;</em> </li> </ul> |32562|
+| Expenses|We have found an issue that could create duplicated bank transactions out of one single bank transaction inbox. That would occur if multiple users processed the transaction inbox in the exact split of a second. The bookkeeper would have been informed if an expense existed twice, though. |35047|
+| General Application|We have done some performance improvements based on feedback from the Application Insight logs. |28370|
+| General Application|We have fixed a bug in NAV/Business  Central where the first subdocument line on a Settlement (Expense Report) would not inherit the global dimensions from the main document. |31238|
+| General Application|We have improved the caption on the request page of the batch posting of expenses, mileages and expense reports. |31650|
+| General Application|When exporting the Expense Management configuration&nbsp; with the Expense Management Assisted Setup, the Vehicle table would always be exported. Now it is only exported if the user has selected to export Mileage Rate IDs. |32335|
+| General Application|We have fixed an issue where the inbox entries would have failed with the error below. This was happening only when using the &quot;O365 Authentication Email&quot; on the Continia User. <ul><li><em>&quot;User with user ID &lt;email&gt; does not exist in the Continia User table.&quot;</em></li></ul> |34643|
+| General Application|We have fixed an issue that was returning the following error in the Web Approval Portal, when custom fields would have been created with value longer than 50 characters. The issue was present on Mileage, Per Diem and Expense Report. <ul><li><em>The length of the string is 51, but it must be less than or equal to 50 characters. Value: A very long description, longer than 50 characters.</em></li> </ul> |38431|
+| General Application|We have identified an issue that was not updating documents in the Expense App when they were paid, due to the fact that the payment was not made with a Document Type = Payment.&nbsp;<span>We are now not checking anymore the Document Type, we only make sure the payment applies to the initial entry.</span> |38505|
+| Mileages|We have fixed an issue that was crashing the client while trying to calculate mileage amounts in an endless loop. This was happening when mileage rates would exist for 2 years in advance. The error received is the one below: <ul><li><em>There is insufficient memory to execute this function. This can be caused by recursive function calls. Contact your system administrator.</em></li></ul> |38457|
+| Per Diem|On the Per Diem rates, we have removed the fields&nbsp;<span>&quot;Half Day Starting Time&quot; and&nbsp;</span><span>&quot;Half Day Latest Time&quot; because they were not used anymore.</span> |32391|
+| Per Diem|We have fixed an issue on the Per Diem calculation in the case there where &quot;First/Last Day Calculation Method&quot; would have been &quot;First/Last Day fixed rate&quot;. If the number of hours in the current day would have been precisely the same as &quot;First/Last Day Minimum Stay&quot;, the rate was not applied but it should have been. |34501|
+
+## Expense Management 2020 R2 Service Pack 5
+
+*Released: March 10, 2022*  
+*App version: 6.5.5*  
+*FOB version: 6.50.05*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| General Application|We've included the sending of all release notifications from the Notification Outbox as part of the normal synchronization with Continia Online. |28682|
+| General Application|We are no longer saving the default dimensions calculated at posting time, back to the original expense document. This has been causing issues in the past and it can lead to errors when posting a document in multiple transactions.&nbsp; |30811|
+| General Application|A filter on a Field Type of data type &quot;Code&quot; would have not worked unless the value was spelled with capital letters. <span>This has been fixed by uppercasing the filter value.</span> |31255|
+| General Application|We have fixed an issue when the same number series was used for both posted and un-posted settlements. In this case, the posted document would have still increased the number series number when it was not expected to do so. |31575|
+| General Application|We have enabled the feature of signing expense attachments digitally in the French and Belgium localizations. |31662|
+| Per Diem|<span>We have fixed an issue that was calculating wrong total amounts on the Per Diems, in the Status Report.</span> |31245|
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description | ID |
+| --- | --- |  --- |
+| Expenses|In a settlement where Cash and non-Cash expenses would have been found, out of which some had Jobs specified, the balancing account would have been calculated incorrectly and therefore the expense would be posted as if it was Cash when the expense was not marked as such. This is found in systems where &quot;Matching Required&quot; is Never. |28963|
+| Expenses|We have fixed an issue where automatically allocated expenses would not inherit Extra Fields from the main expense to the allocation lines. This was mainly a concern for the Sales Tax automatic allocation. |29287|
+| Expenses|When automatically allocating due to sales taxes, the Tax Area Code was not copied to the tax lines. If &quot;TAX AREA CODE&quot; was a mandatory field, the expense would have encountered an error in the mobile app, preventing the sending. The user were supposed to manually type the &quot;TAX AREA CODE&quot; values on all the allocation lines.&nbsp; |29339|
+| Expenses|When posting a reconciliation journal, the following error would appear if the statement lines were manually inserted (without having an underlying statement transaction).<br><em>The Bank Transaction does not exists. Identification fields and value Entry No. = &quot;0&quot;</em>|29446|
+| Expenses|We have fixed an inconsistency error which was present when posting an expense where the default dimensions were changed during the posting. The error would come up with messages similar to the ones below. <br><em> The changes to the Expense record cannot be saved because some information on the page is not up-to-date. Close the page, reopen it, and try again. <br> Inconsistent read of field(s): 'Global Dimension 2 Code', on table 'Expense', identification values: 'Entry No.='xxxx'' </em> |29691|
+| General Application|We have fixed an issue in the addin that was setting a default zoom of 1% on the attachments.&nbsp; |28658|
+| General Application|We have fixed an issue on the Posting Setup, when copying the Expense or Mileage Account to the actual document. If no account was found on that user, it would have taken a posting account from any other user. |28856|
+| General Application|We have fixed an issue that was leading to desynchronization issues on subdocuments belonging to a settlement. When documents were being downloaded in Business Central, if the user would have modified the documents in the exact same split of a second, the last change of the user would have never been downloaded inside Business Central. The sub-document would have failed in the Inbox with an error. |28914|
+| General Application|Preview posting was sometimes failing with the error below when default dimensions were configured on accounts that were external to Expense Management (for example, a G/L Account). The functionality would have tried to copy those default dimensions back to the expense document. The functionality was failing to find the Expense Management document because, in preview mode, the relation between the expense document and the un-posted document [number] doesn't exist.<br>  <em>   The Expense Header does not exist. Identification fields and values: Document Type='Settlement',No.='<span>[number]</span>'</em>  |28973|
+| General Application|&quot;Tax Area Code&quot; and &quot;Tax Group Code&quot; were missing on the Settlement expense subpage. |29132|
+| General Application|When synchronizing, there was functionality to recalculate mileage across all companies. This code was triggering permission errors when the user that synchronizes would have not had permissions on all the companies. We have changed the functionality so that it skips the calculations when the user doesn't have enough permissions. We do not foresee a major downside in doing so, as this calculation was mostly for presentation purposes. A mileage will always be recalculated before posting. |29422|
+| General Application|We have prevented the following error when synchronizing. If a user didn't have the CEM-SUPER permission set but had some basic Expense Management permissions, he would have gotten a similar error when he was trying to modify a Job or a Task, for example. The error would have occurred in areas of standard Business Central, but when using a field type that was configured in Expense Management over that table (for example, Job/Task). <br><br><em> You do not have the following permissions o TableData CEM Field Type: Modify </em> |30044|
+| General Application|We have fixed an issue where the number of documents was not correct in the Approval Portal.&nbsp; |30722|
+| General Application|For Cloud:&nbsp; In Expense Management version 8.1.0.1 we have corrected an issue where default dimensions were not created at the time of posting. Unfortunately, the change further revealed another issue: the default dimension was then used for posting and re-added on the document instead of the dimension added by the user. We have now corrected the issue.<br> For OnPrem: In the EM versions <span>8.01 and 4.00.06&nbsp;</span>we have corrected an issue where default dimensions were not created at posting time.  Unfortunately, the change further revealed another issue:&nbsp;<span>the default dimension was then used for posting and re-added on the document, instead of the dimension added by the user.&nbsp;</span>  |30737|
+| General Application|We have fixed an issue that was calculating wrong total amounts on the Per Diems, in the Status Report. |30927|
+| Mileages|We have prevented creating a mileage rate without starting date. |28971|
+| Per Diem|On the Per Diem, the number of hours was rounded to the next full hour, resulting in calculation problems when sub-rates were used. |28824|
+| Per Diem|We have fixed an inconsistency error which was present when posting a per diem where the default dimensions were changed during the posting. The error would come up with messages similar to the ones below. <br><em> The changes to the Per Diem record cannot be saved because some information on the page is not up-to-date. Close the page, reopen it, and try again. <br> Inconsistent read of field(s): 'Global Dimension 2 Code', on table 'Per Diem', identification values: 'Entry No.='xxxx'' </em> |30813|
+
+## Expense Management 2020 R2 Service Pack 4
+
+*Released: October 15, 2021*  
+*App version: 6.5.4*  
+*FOB version: 6.50.04*  
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform and Technology | A user with a limited permission set including CEM-NAVUSER could not use the function Send to Expense User on the pages Expense Card or Expenses.<br>The user would get the following message: You do not have the following permissions on TableData CEM Synchronization Log: Read. |
+| General Application | We have added actions to open the Default Continia User Setup page from the Expense User Group and Per Diem Group pages. |
+| General Application | We have improved the functionality that was dependent on the permission sets name, so that renaming of permission sets will not affect the behavior. We have improved some functionality that was dependent on the permission sets name, so that renaming of permission sets will not affect the behavior. Further improvements have been done in the major releases, due to the necessity of data upgrades. |
+| General Application | It was possible to post documents with a job but without a task. This was misleading, and an error message is now displayed when a task is expected. |
+| General Application | Reimbursed amount was not shown for user paid corporate credit card. |
+| General Application | When validating the User ID on a document, the Vendor default dimensions are normally inherited. Meanwhile, we have introduced Employee posting but the Employee dimensions were not inherited. We have fixed this issue now. |
+| General Application | In EM 6.50.03 we have fixed the following error. Unfortunately, the change log was not updated correctly at that time.<br> <em>The transaction cannot be completede because it will cause inconsistencies in the G/L Entry table. Check where and how the CONSISTENT function is used in the transaction to find the reason for the error.<br>Contact your system administrator.<br>Tables can be marked as inconsistent during comprehensive tasks, such as posting. This prevents data from being updated incorectly.</em> |
+| General Application | The fields Employee Number and Employee Name have been removed from the Spanish version because employee posting would still require vendor information. |
+| General Application | We have fixed an issue that was leading to desynchronization of versions. |
+| General Application | In MS Dynamics NAV 2009 RTC, the expense fact box was not displayed. This issue has been fixed. |
+| General Application | We have fixed an issue where the payment of a document was not changing states in the Expense App, when using purchase invoice posting. |
+| General Application | A confirmation dialog that was displayed when web services were created in Expense Management has been removed. This was causing a problem when upgrading from EM 6.50 to 7.00.<br>"The function UpdatePerCompany in the company initialization codeunit 6086102 in company Bejo BOB B.V. has failed due to the following error: 'Microsoft Dynamics NAV Server attempted to issue a client callback to show a confirmation dialog box: Do you want to update all web services for Continia Online? (CodeUnit 6086360 CEM Create Web Services). Client callbacks are not supported on Microsoft Dynamics NAV Server." |
+| General Application | An issue causing the error "You do no have the following permissions on CodeUnit CEM Business Setup Management Execute" when opening Business Setup was fixed. |
+| General Application | In the Configured Fields form in the classic client we displayed the following message in English: "Details are only displayed for Per Diem". Now the message is translated to the user's language. |
+| General Application | Reopening a document was not possible if there were unproceessed inbox entries. We are now allowing reopening if the document is Pending Approval or Approved. |
+| General Application | On the Settlement Card in the Classic client (NAV 2009 R2), when displaying a Per Diem line on the Settlement, and choosing Card from the Line menu button, it would display a Mileage. |
+| Expenses | On the expense, a validation error would occur when 2 different currencies had a 1:1 exchange rate. We have changed that comment from error to warning. |
+| Expenses | We have fixed an issue where the Tax Group Code was not copied from the Expense Type setup to the Expense. |
+| Expenses | When an expense was reopened and re-sent to the user, there would be a notification as if the document was new. The notification has been changed to reflect the fact that it's an update. |
+| Expenses | When trying to merge an allocated expense, you would get the error message "Expense %1 cannot be merged when it has been allocated to one or more lines". With this update, the parameter %1 will be updated with the expense entry number. |
+| Expenses | When expenses were allocated based on the sales tax, the functionality was not calculating correctly the tax amount. |
+| Expenses | When sending a reminder email to the expense users we would in some cases give a wrong message or no message to explain the choices.<br>Wrong message: "*This expense contains values that have not been synchronized to Continia Online. This is required before this expense can be sent to the expense user. Would you like to synchronize values with Continia Online?*"<br>The message should have said: "*Do you want to send a status e-mail to all the users or only to the selected ones?*" |
+| Expenses | Attendees were not copied to the Sales Tax allocation lines in the Canadian localization, when synchronizing expenses from Continia Online. |
+| Mileage | We have excluded the mileage rate checks for a vehicle that was not used. |
+| Mileage | It was possible to change dimensions on a posted mileage. With this release, that's no longer possible. |
+| Credit Card Transactions | In a company where the Bank Account No. Series (in the General Ledger Setup) doesn’t allow manual series the following error message would occur when running the Expense Management Setup wizard, because it would try to create the MASTERCARD bank account. We have decided to skip the Bank Account creation in this case.<br><em>"You may not enter numbers manually. If you want to enter the number manually, please activate Manual Nos. in No. Series BANK."</em> |
+| Per Diem | The Add to Settlement action on the Per Diems list, allow you to chose from a list of Settlements. The list showed all Settlements. It should only show Settlements with the same Continia User ID as on the selected Per Diem. This has been fixed. Now it works as for Expense and Mileage. |
+| Per Diem | When adding a Per Diem to a Settlement you get the error "Record(6086387) is not compatible with Codeunit.Run(Record(6086320))." |
+| Per Diem | When a per diem with the status Pending Expense User was changed, an update was not sent to Continia Online. This issue has been fixed. |
+| Document Approval | Performance optimization when approving or rejecting documents in the Continia Web Approval Portal has been carried out. |
+
+## Expense Management 2020 R2 Service Pack 3
+
+*Released: May 18, 2021*  
+*App version: 6.5.3*  
+*FOB version: 6.50.03*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform | We have introduced the possibility to push notifications in the Expense App. The feature will be available in a later update of the Expense App (v.3.11). |
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform | When using the O365 email address, it is now possible to use also the Expense Portal and transfer documents from the Expense App/ Expense Portal to Business Central and the other way around. In the past it was only possible to use the Approval Portal. </em></li></ul> |
+| General Application | The status report would display "Paid Out" = 0 on settlements where the first expense was non-reimbursable, even though other documents on the same settlement had been reimbursed. |
+| General Application | We have fixed an issue that created inconsistencies in a Settlement if it was re-sent to the expense user. In the Expense App, its subdocuments would have not been shown while in the Expense portal they were shown but non-editable. |
+| General Application | We have fixed an issue when changing from one Settlement Card to another one (page up/down) all the previous attachments were shown, even when the current settlement doesn’t have attachments. |
+| General Application | We have changed the caption of the Expense Country/Region table to "Expense Management Country/Region" to eliminate the confusion with the standard table. |
+| General Application | We have fixed a bug on expense and per diem documents, requiring a vendor or employee to be set up on the Continia User, even though reimbursement method was set to external system. |
+| General Application | Uploading history to the cloud from the expense management setup page would result in the following error in the release notification inbox: <ul><li><em>"The following C/AL functions are limited during write transactions because one or more tables will be locked. Form.RunModal is not allowed in write transactions. Codeunit.Run is allowed in write transactions only if the return value is not used."</em></li></ul> The error has been corrected. |
+| General Application | In the page Configured Fields, we have changed the shortcuts for moving fields up and down. They were previously Ctrl+Arrow Up and Ctrl+Arrow Down. These shortcuts did now work in the Web client, where they are used for something else. The shortcuts have been changed to Shift+Ctrl+Arrow Up and Shift+Ctrl+Arrow Down. |
+| General Application | In the Expense Management status report, the column “Entry No.” was changed to “No.”. |
+| General Application | When a Field Type has more than 50.000 lookup values, performance on the App decreases. We now give a warning when the user updates the lookup values from the Field Types page. |
+| General Application | We have fixed the following error in the Notification Outbox (former Release Notification Entries) page, when trying to sort the records after the field called "Table Name": </li></ul>*“Sorting cannot be done based on the Table Name field(s) in the Release Notification Entry table.”* |
+| General Application | We have added the queue "Notification Outbox" in the Role Center. |
+| General Application | We have changed the Lessor integration object name from "Expense Management 6.50 - Lessor Integration - NAV2013 R2 - 2018" to "Expense Management 6.50 - Lessor Integration - NAV2013 R2 - 2019" |
+| General Application | When loading the company logo, the message would have said "The company logo was uploaded" but it was only loaded in the database. We made sure the logo is also uploaded in Continia Online. |
+| General Application | A confirmation dialog was missing when posting a settlement, where one or more of the underlying documents had warning comments. |
+| General Application | When using Employee No. and Preferable Purchase Invoice posting, mileage and per diems will be posted using the General Journal, as it happens for Expenses. |
+| General Application | We have fixed an issue where an attachment was stored in a wrong folder while moving an expense from a company to another (when storing to a file system). |
+| General Application | We have updated some missing permissions on the CEM-APPROVE role, when trying to modify allocations. |
+| General Application | We have avoided a SETTL-NULL error in the Expense/Mileage/Per Diem inbox when *"Keep history in Continia Online"* was Never. The issue was occurring if the document belonged to a Settlement. |
+| General Application | We have fixed missing captions in the Expense Management Setup groups. |
+| General Application | We have added actions to open the Default Continia User Setup page from the Expense User Group and Per Diem Group pages. |
+| General Application | The reimbursement method options have been changed from Vendor (On User) to Internal (On User) since the caption is no longer relevant because we have also introduced the possibility to post on an Employee, as well. |
+| General Application | We have missed exposing events that were otherwise documented as being exposed. |
+| General Application | We have added multiple new Event Publishers. You can find the updated list here: https://continia.zendesk.com/hc/da/articles/360011785419-Expense-Management-Event-Publishers |
+| General Application | We have fixed an issue where the client add-in would not show correctly a PDF document that had only one page. The issue was only found in Business Central on premise apps. |
+| General Application | We have added missing indirect permissions for Table 6086344 "CEM Credit Card User Mapping" needed for the CEM-APPROVE role. |
+| General Application | We have done improvements in the permission sets, especially indirect permissions for Credit Card and Transactions in the Approval flow. |
+| General Application | We have fixed an issues where the Navigate page would not show Expense Management related documents, in an installation where Document Capture was not active. |
+| General Application | We have done few French translation corrections. |
+| Expenses | We have fixed an issue where the Country Code was not inherited from the Transactions to the Expense. |
+| Expenses | When a non-refundable expense was allocated into a refundable and a non-refundable part, the Expense showed as Rejected in Continia Online and the Continia Expense app. We have changed it to Approved since some parts of the expense will be refunded. |
+| Expenses | In previous versions we have introduced the possibility of updating the amount calculations, after a document has been completed. An update was sent to CO with the newly calculated amounts. This updated would have been without attachments, so the user history did not contain the attachments anymore. We have fixed this issue. |
+| Expenses | We have fixed an issue where an expense was posted without an amount when the Matching Method would have been Never Required and the Vendor on the user would have had a currency specified. |
+| Mileage | Mileage with company vehicles don't necessarily need a mileage rate. We have found and fixed an issue when a rate actually existed. The user total distance would have never been reset when a new mileage year started. |
+| Credit Card Transactions | We have fixed an issue that caused the Bank Country/Region Map values to not be saved. This was happening in a situation where the string to be mapped was the same as the country code. |
+| Per Diem | In approval entries comments were not shown for Per Diems. |
+| Per Diem | We have prevented changing per diem details on a posted per diem. |
+| Per Diem | We have addressed an issue in the Per Diem calculation engine for the hourly ratio method, where a 24 hours calculation would bring different results depending on the time of the day the trip started. |
+| Per Diem | We have changed the Per Diem calculation engine when using sub-rates, so that the sub-rates are only applied in the last day of the journey, not in the first day. |
+| Per Diem | We have fixed an issue in the Per Diem calculation where the meals were not deducted from the total allowance, when the "First/Last Day calculation method" is set to "Sub Rates" or "First/Last Day fixed rates" |
+| Document Approval | We have fixed an issue, where an approver was not able to see documents rejected on behalf of someone else in the web approval portals history view. |
+
+## Expense Management 2020 R2 Service Pack 2
+
+*Released: December 22, 2020*  
+*App version: 6.5.2*  
+*FOB version: 6.50.02*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform | We have added the possibility to refund the Continia users via the Employee ledger entries. In the past Continia users would have been able to be refunded only by creating a Vendor. Both options are still available but only Employee posting will have priority over the Vendor. This feature is only available from MS Business Central 2018 (version 13.00). |
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform | We have prevented the error below which is found in installations with Business Central Clients, including MS Dynamics NAV Clients from 2015 and onwards. The error would occur in the Expense App due to an unknown version of Expense Management. This was due to user export from a company that didn't have Expense Management activated. <ul><li><em>"Field Name DESCRIPTION is defined more than once. Contact your local administrator.“</em></li></ul> |
+| Platform | We have added the field "Approval By" on all the posted document lists. |
+| Platform | We have removed copyright details from the "About Expense Management" page. Copyright details are handled troughout the activation processes in Continia Core. |
+| Platform | A custom text field longer than 50 characters would have failed in the Approval Portal. We are now enforcing the max limit |
+| Platform | We have prevented an issue caused by an Expense Management subscriber to the Table Business Setup - OnRegisterBusinessSetup. When Expense Management was not activated, the following error would have occured: <ul><li><em>“The Expense Management Setup does not exist. Identification fields and values: Primary Key='' Page Manual Setup, Intercompany must close.”</em></li></ul> |
+| Platform | We are now updating Amount calculations in the App/Expense Portal, after the document was synchronized in Business Central. In the past many documents would have not had returned the amount calculation, resulting in a status "Pending Calculation" which was never updated. |
+| Platform | When exporting users, in versions before MS Dynamics NAV 2016, the user export would have failed if the user name was longer than 20 characters. <ul><li><em>"String length is 25 but it has to be smaller or equal than 20 characters. Value: "YOUR_LONGER_THAN_20_USER_NAME"</em></li></ul> |
+| Platform | Expense Management Assisted Setup would have failed with the error below, when the Gen. Business Posting Setup code would be longer than 10 characters. <ul><li><em>"The length of the string is 17, but it must be less than or equal to 10 characters."</em></li></ul> |
+| Platform | We are skipping the status report automatic sending if Expense Management is not activated. Sometimes, when taking a database backup and the Job Queues were not deactivated, un-wanted e-mails were sent to the users. |
+| Platform | We have made "Employee No." visible all the time on Continia User Setup card. |
+| Platform | When exporting setup with Expense Management Assisted Setup, the "Default User Setup" would have causes an error if the user name is longer than 20 characters. |
+| Platform | On history documents we made sure that all the documents on a settlement are uploaded,when only one document would have pushed to Continia Online. |
+| Platform | It is now possible to Preview-Post documents even when they are not yet approved. |
+| Platform | In a new installation, where the Expense Management Assisted Setup was not run, the message below would be presented on all the pages. We have changed the code so that it prefills the Data Version in this situation, with the current version of the application. <ul><li><em>"You must upgrade Expense Management data. Please perform the upgrade in Expense Management Setup."</em></li></ul> |
+| Platform | We have increased the timeout limit to 30 min when sending release notification entries in a background session (e.g. when uploading history to the cloud). If not all release notification entries can be processed in that time span, then a new run is triggered after 10 min |
+| Platform | When opening the Release Notification Entries page you would see entries with the status Pending, Error, and Ignore. This has been changed so you now only see entries with status Pending and Error. |
+| Platform | When sending release notifications manually from the Release Notification Entry pages, the progress bar was hidden. |
+| Platform | On the Settlement Inbox, the fields "Created by" were updated all the time the entry was processed. Instead the fields "Processed by" are no now updated. |
+| Platform | When uploading a new company image, we are enforcing the Expense App requirements of the logo. The image must be 60 by 60 pixels. |
+| Platform | We have prevented an unwanted notification when Expense Management is not activated. The notification would have said that assisted setup is available, but then it would fail if the user would interact with the notification. |
+| Platform | We have added the possibility to configure the Tax Group Code. The Field Type is included in the setup file. |
+| Platform | Caption improvements in the French localizations. |
+| Platform | We have added support for Business Central 2019 Spring CU19. |
+| Platform | Expense Management is now available for Iceland, Finland, Brazil, Ireland, Italy, Hungary, Mexico and South Africa in Microsoft AppSource. |
+| Platform | We have added the following Publisher Events: <ul><li>Codeunit 6086302 “CEM Navigate Mileage – Find”<br> - OnBeforeNavigateMileage </li><li>Codeunit 6086306 “CEM About Expense Management”<br> - OnAfterFullProductName </li><li>Codeunit 6086308 “CEM Expense Inbox-Transfer”<br> - OnAfterHandleAllocations<br> - OnBeforeExpenseAllocInsert </li><li>Codeunit 6086317 “CEM Navigate Bnk Trans. - Find”<br> - OnBeforeNavigateBankTrans </li><li>Codeunit 6086319 “CEM NAV-version Mgt.”<br> - OnBeforePostGenJnlLine<br> - OnBeforePostJobJnlLine </li><li>Codeunit 6086322 “CEM Navigate Expense - Find”<br> - OnBeforeNavigateExpense </li><li>Codeunit 6086326 “CEM Navigate Settlement - Find”<br> - OnBeforeNavigateSettlements </li><li>Codeunit 6086330 “CEM Expense-Post”<br> - OnBeforeValidatePricesInclVAT<br> - OnAfterEmployeePICreated<br> - OnAfterEmployeeCrMemoCreated<br> - OnAfterBankPICreated<br> - OnShouldSkipPosting </li><li>Codeunit 6086331 “CEM Expense-Post (Yes/No)”<br> - OnBeforeConfirmAccMissmatch </li><li>Codeunit 6086336 “CEM Posting Functions”<br> - OnBeforeAddJobsToJnlLine<br> - OnAfterAddJobsToJnlLine<br> - OnBeforeCreateJobJnlLine<br> - OnAfterCreateJobJnlLine </li><li>Codeunit 6086338 "CEM Settlement-Post"<br> - OnBeforeBalancePostGenJnlLine<br> - OnAfterBalancePostGenJnlLine<br> - OnBeforeExpensePostGenJnlLine<br> - OnAfterExpensePostGenJnlLine<br> - OnBeforeMileagePostGenJnlLine<br> - OnAfterMileagePostGenJnlLine<br> - OnBeforePerDiemPostGenJnlLine<br> - OnAfterPerDiemPostGenJnlLine<br> - OnAfterValidatePostBalanceAccountNo </li><li>Codeunit 6086351 “CEM Mileage-Post (Yes/No)”<br> - OnBeforeConfirmAccMissmatch </li><li>Codeunit 6086515 “CEM Settlement Online Mgt.”<br> - OnAfterReadSettlementDims </li><li>Codeunit 6086516 “CEM Expense Online Mgt.”<br> - OnAfterReadExpDimensions<br> - OnAfterReadExpAllocDimensions </li><li>Codeunit 6086517 “CEM Mileage Online Mgt.”<br> - OnAfterReadMilDimensions </li><li>Codeunit 6086518 “CEM Per Diem Online Mgt.”<br> - OnAfterReadPerDiemDimensions </li><li>Codeunit 6086535 “CEM Navigate Per Diem - Find”<br> - OnBeforeNavigatePerDiem </li><li>Codeunit 6086537 “CEM Field Type Code Mgt.”<br> - OnAfterGetExpSystemFieldNo<br> - OnAfterGetExpAllocSystemFieldNo<br> - OnAfterGetMilSystemFieldNo<br> - OnAfterGetPerDiemSystemFieldNo<br> - OnAfterGetDetailSystemFieldNo<br> - OnAfterGetSettlSystemFieldNo </li></ul> |
+| Expenses | We have corrected an issue where the "Created Doc. No." on a posted document would have not been filled. When pressing Navigate on a posted Expense, no document was able to be retrieved. The issue happens when using "Preferable Purchase Invoice" on a matched expense where the credit card is linked to a Vendor. |
+| Transactions | We've prevented the following error when changing "Post at import" from false to true, when the Intermediate Account would have been the same as the Credit Card Account. <ul><li><em>"G/L Account cannot be found. Value='' "</em></li></ul> |
+
+## Expense Management 2020 R2 Service Pack 1
+*Released: October 7, 2020*  
+*App version: 6.5.1*  
+*FOB version: 6.50.01*  
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Platform | When an error occurred while sending history documents to Continia Online, no feedback was given to the user. Moreover, sometimes an unrelated error message could have been presented. The issue is only found in the NAV 2013 to NAV 2017 clients. |
+| Platform | When an Expense Management document was paid, we would have created a background session for sending that information to Continia Online. That is not recommended by Microsoft because it can lead to performance issues, so we have changed the functionality to use the Task Scheduler instead. |
+| Platform | The Expense Management Assisted Setup would have jumped to the "Setup Company" step when a bank record would have been created in the Expense Management Setup. We have added extra conditions when taking the decision if the system is a new installation or not. |
+| Platform | We have changed the approval mail subject in the setup file from "Your expenses awaiting approval" to "Documents waiting for your approval" |
+| Platform | The Assisted Setup and Manual Setup actions were visible in versions older than NAV 2017 but the functionality had no implementation. The actions have become hidden in those versions. |
+| Platform | We have added read permissions for Tax Area and Tax Area Group. |
+| Platform | We have improved the messages in Comments on a Per Diem. |
+| Platform | The Expense Management Assisted Setup was supposed to add a Private Car and a Company Car to the list of Vehicles. It failed to add the Company car. When importing the setup from Continia Online the two Vehicles got added in English. Now you only see the two Vehicles in the local language. |
+| Platform | We have removed the S-DEPARTURE DATETIME and S-RETURN DATETIME fields from the setup file so that they will not be configured fields by default. |
+| Platform | We have removed the company logo Blob bitmap from the Expense Management Setup page. |
+| Platform | After exporting the Expense Management Setup using the Assisted Setup, the system would continue to setup the Expense Management instead of going to the last page of the Assisted Setup. This has been fixed. |
+| Platform | Synchronization would have failed if the field translation was longer than 30 characters. We have increased it to 50 characters. |
+| Platform | Caption improvements in FRA. |
+| Platform | If no archive path was setup in Expense Management Setup, you could the this error: "The value of COPYSTR parameter 2 is outside of the permitted range." |
+| Platform | We have fixed an issue in the Danish and Spanish translations where an action category in then Expense Management Setup page was not translated. In Danish it would have appeared as "Kategori 7". |
+| Platform | We have added missing captions on the Reimbursement Method options in the Default User Setup page. |
+| Platform | A document was not sent back to the expense user if a reject comment would have not been specified. |
+| Platform | If the fields FROM HOME and TO HOME would be configured, it was never possible to remove them from Configured Fields because of the error below”: <ul><li><em>“You are not allowed to delete a system field: FROM HOME".</em></li></ul> |
+| Platform | We have added the following Publisher Events: <ul><li>Codeunit 6086338 "CEM Settlement-Post"<br> - OnBeforeBalancePostGenJnlLine<br> - OnBeforeExpensePostGenJnlLine<br> - OnBeforeMileagePostGenJnlLine<br> - OnBeforePerDiemPostGenJnlLine </li></ul> |
+| Platform | We have updated the RDLC for the status report because the "Reimbursed"/"Paid" column was not present. |
+| Platform | We have fixed an issue that was crashing the Expense Management Assisted Setup in the Spanish localization when using the Spanish language. The error below would have been encountered. <ul><li><em>"Interrumpir en mensaje de error: No hay Idioma dentro del filtro.Filltros: ID Idioma Windows: 3082"</em></li></ul> |
+| Platform | On the Assisted Setup we have changed the Danish caption "Afslut" with "Udfør" to be more consistent with standard NAV/Business Central. |
+| Platform | Support for Business Central Wave 1 (Spring) Cumulative Update 16. |
+| Expense | We have added the Reimbursement Method field on all the document details (Expense, Mileage, Per Diem) |
+| Expense | The "Cash/Private" field was hidden when matching was not required. That made it impossible to specify amounts paid by cash. |
+| Expense | When showing digitally signed documents, we have added a dialog asking which document should be visualized: either the original attachment or the digitally signed attachment. |
+| Expense | Department items for document registers have been removed from the UI. |
+| Expense | "Merge expenses" action is now hidden when bank transactions are disabled. |
+| Expense | The Expense Allocation Dimensions page were showing both Dimensions and Extra Fields. Extra Fields now have their own page and we fixed some related issues. |
+| Expense | When posting the last remaining approved Settlement, you would get the following message: <ul><li><em>"Posted must be No in Expense Header Document Type='Settlement',No.=''.</em></li></ul> We have changed that so you get back to creating a new Settlement. |
+| Expense | We have avoided an the error below when posting Vendor ledger entries with Jobs. The Job posting will be skipped in this case, without an error. <ul><li><em>"Bal. Account Type must be G/L Account or Bank Account."</em></li></ul> |
+| Expense | We have fixed the attachment counter in the add-in. In the Business  Central clients the add-in was presenting wrong information for a PDF with multiple images. |
+| Expense | Rotating images in NAV/Business  Central was not working on expenses. |
+| Transactions | Removed an un-necessary confirm message on the expense setup page, when changing the value of "Post At Import". |
+| Transactions | A confirm message was presenting the text below. We are not showing it when there is no bank transaction to be processed. <ul><li><em>"This will post 0 bank transactions to intermediate expense account. Do you want to continue?"</em></li></ul> |
+| Mileage | We are now downloading and storing pdf formatted attachments on mileage. |
+| Mileage | We have fixed an issue when creating a new mileage from the mileage card in MS Dynamics NAV 2009 R2 would have resulted in the following error: <ul><li><em>"Entry No. must be filled in. Please enter a value."</em></li></ul> |
+| Mileage | The action "Recalculate Mileage Rate" had no quick access key in the Form Mileage Rates. We have added a quick access key and made the text shorter in version 7.00. |
+| Mileage | When posting Per Diem or Mileage on a Settlement, the external document number would have been wrongly filled. We have added the Per Diem and Mileage external document number in this situation. |
+| Per Diem | When pressing View on a Per Diem from the Approval page with the EM-APPROVE permission set, the following error would occur: <ul><li><em>"You do not have the following permissions on TableData CEM Per Diem Group: Read" We have given read permissions to this table and other setup tables. (Mileage Rate, Per Diem Rate, Allowance, Per Diem Posting Group, EM Country/Region).</em></li></ul> |
+| Per Diem | The "Per Diem Reimbursement" control action was missing in the Role Center. |
+| Per Diem | Per Diem rates were created for the year 2019 instead of 2020. This would have triggered an un-neccessary dialog when opening the Per Diem page. |
+| Per Diem | When posting a per diem with accommodation allowance, a general ledger entry was created on the associated account with amount 0. We have changed the functionality so that 0 amounts are not posted anymore. |
+| Per Diem | Settlements total amounts would have not included the Per Diem amounts in the calculation. |
+| Per Diem | We have aligned the appearance of the "Description 2" on the Per Diem card, with that on the Expense card. |
+
+## Expense Management 2020 R2, Hotfix 1
+*Released: September 10, 2020*  
+*App version: 6.5.0.1*  
+
+EM6.50 hotfix 1 has only been released for the on-premises and cloud APPs. The below-listed issues will be corrected in EM6.50 SP1 for the FOB based versions of NAV.
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Upgrade | We have fixed a potential critical issue for the upgrade routine. This could have happened if incomplete Continia User Setup would have been created (without having a User Setup entry). The upgrade would have failed irremediable in this situation. |
+| Upgrade | We have fixed an issue on the Expense Management Setup where the “Release Notification Method” (introduced in EM 4.00 SP02) would have been changed as part of the upgrade. |
+| Upgrade | We have fixed and issue in which the settlement was disabled as part of the upgrade. |
+
+## Expense Management 2020 R2
+*Released: September 1, 2020*  
+*App version: 6.5.0.0*  
+*FOB version: 6.50*  
+
+### New or changed functionality
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Setup | We are now issuing reminder message to add mileage rates and per diem rates for the upcoming year 14 days before year end. If new rates have not been added, all mileage will be marked with a comment that the amount has been calculated on a rate which is older than a year. This warning will raise awareness at the posting time, where an extra confirmation will be necessary |
+| Setup | In the Field Types, when filtering the lookup values it is now possible to add filters on an a filed of type Option. Multiple options will then be able to be selected, compared to the past versions where only one value could be selected for filtering. A new option field "Release Notification Method" is replacing the Boolean field "Send Release to App". The options are Never, Instantly, and Scheduled. |
+| UI/UX | We have added titles to all the pages in the setup wizard. |
+| UI/UX | The Expense Management Setup Wizard has been redesigned. |
+| UI/UX | The Expense Management Setup page has been redesigned to optimize the setup process. |
+| UI/UX | The Setup Wizard doesn’t add default RoleCenters anymore. |
+| UI/UX | The Setup Wizard creates the RoleCenters automatically, as opposed to the past where user the user had to take a decision. We have therefore simplified the Setup Wizard. |
+| UI/UX | The Setup Wizard will automatically create the demo bank agreements, in a demo installation, as opposed to the past when user input was needed. |
+| UI/UX | A new page was added in the Expense Management Setup to setup the Approval Portal. The setup of Approval Portal will no longer be included in the setup Wizard. |
+| UI/UX | The ”Default Web/App Language” field has been removed from the Setup wizard. ENU will be set as the default language. It can still be changed from the Expense Management Setup |
+| UI/UX | The field “Limited Role ID” has been removed from the Expense Management Setup. It is implicitly assumed that this user is the user who has "EM-NAVUSER" permission set. |
+| UI/UX | Assisted Setup and Manual Setup are available from the Expense Management Setup page. |
+| History | We have added the possibility to keep history documents in the cloud (Continia Online). This way all documents can be visible in the Expense App/Portal up to one year. |
+| Status Report | The payment status of documents can be filtered on the Expense Management Status Report. |
+| Digital Sign | We have added the possibility to sign the attachments digitally. This is especially relevant for the Spanish market where this is a legal requirement. |
+| File Storage | We have introduced the possibility to extract all the expense attachments in an archive file. This is relevant for VAT claims. The documents can be exported from the posted Expense and Settlement pages. |
+| File Storage | It is not possible to store attachments in Azure Blob Storage. |
+| Events | We have added events in the file handling so that external extensions can implement their own storage location. Help from developers will be necessary, so contact support for further details. |
+| Add-in | We have added the possibility to show PDF files in the web client. The PDF is converted into multiple PNG pages, and the Add-in presents one page at a time. |
+| Settlement | It is now possible to make the use of settlements mandatory. In the past it was not enforced. |
+| Expense | A warning comment is raised on an expense if similar expenses exist on the same date with the same amount. |
+| Approval | We have separated the Expense Management approval flow from the Document Capture one. On “Continia User Setup” we have introduced a new field “Expense Approver ID” that is used to specify the approver for Expense Management documents. |
+| Posting | We have added the document number for posted documents in the Expense App/Portal. |
+| Reimbursement | We have split the reimbursement method so that different methods can be selected on different document types. As an example, expenses can have a different reimbursement method than mileages or per diem. |
+
+### Bug fixes
+
+| <span style="white-space: nowrap;">Functional area</span> | Description |
+| --- | --- |
+| Setup | We have added the "VEHICLE REG. NO." field type into the setup file. This is already uploaded to versions 4.xx and 4.50. |
+| Setup | We have hidden the "Employee No." on the “Continia User Setup”, when Lessor Integration is disabled. |
+| Setup | In the Expense Management Setup Wizard, when switching between the different possible Actions: Import Configuration, Export Configuration and Setup Company, you would experience that when coming back to Import Configuration it would suggest Import from File rather than Import from Online. This has been fixed so if you have entered a filename, then the default option is Import from File if you have not entered a filename the default option is Import from Database. |
+| Setup | Lookup values are not allowed for Field Types that are not of data type Code. We have prevented this setup, as it was not enforced in the past. |
+| Setup | We have prevented the user from adding a global dimension to Custom Fields in Expense Management Setup. The Global Dimensions are already present on the relevant tables. |
+| Setup | Validation and formatting of input in the Field Value in Extra Fields have been improved to respect the XML format. |
+| UI/UX | Editing the Departure Date/Time and Return Date/Time on the Per Diem became difficult if the difference was more than 180 days. The tests were too restrictive and could deadlock the user. If a blocking condition happens the Return Date/Time is cleared, and the user can easily change the Departure Date and afterwards the Return Date. |
+| File Storage | We have fixed a bug where old attachment files would remain in the File Storage system when synching back and forth between Continia Online, even though they should have been discarded. |
+| Add-in | We have fixed an issue where the Add-in image would not be refreshed on a non-editable settlement. |
+| Settlement | Fixed a bug where sending a Settlement from the Expense Portal with departure and/or return date/time exceeding 31-12-9999 18:59 would cause synchronization with NAV/Business  Central to crash. |
+| Settlement | In the Posted Settlement List, the Amount (LCY) was only totaling the amount from the mileage and the amount from the Expenses. We have also added the Per Diem amount. |
+| Expense | When creating a new expense or a new mileage, the fields "Expense Account Type" and "Expense Account No." (also the external accounts) would have been hidden by default and only shown after a refresh. We have made them visible as soon as the user changed or validated the value. |
+| Synchronization | Inbox processing will not fail when a document is already posted. The entry will be accepted. |
+| Posting | Sales Tax for Canada will be calculated, considering that the total amount includes taxes. Previously taxes were calculated based on the total amount. |
+| Posting | When posting a mileage with Purchase Invoice with Dataloen integration, a Purchase Invoice would still be created in the system even though it should have not. |
+| Posting | In Business Central clients, when posting with Purchase Invoice, the users would have gotten the message below. This message was only meant for the Canadian localization. "*Expense Management Canada extension is required for this functionality. Please install the extension from Microsoft AppSource.*" |
+| Posting | When disabling Post at Import in the Expense Management Setup, the Intermediate Posting G/L Account was required. This is no longer the case. Bank Transactions will be reverted to their original accounts. |
+| Reimbursement | When changing the Reimbursement Method from the Expense User Group a dialogue would present the user the possibility of updating the new Reimbursement Method to all the open documents. This method missed a re-validation of errors on these documents, so even though the issues were resolved, the error was still present. |
+| Permissions | A team member is not stopped from rejecting an approval entry anymore when notifications are enabled. |
+| Dimensions | The Per Diem did not inherit the Default Dimensions, except for Global Dimension 1 and 2. The issue was found in versions older than NAV 2009 R2. When creating a Per Diem with a User linked to either a salesperson/purchaser or a vendor with Default Dimensions, then these dimensions were not passed on to the Per Diem. |
+| Dimensions | Default dimension issues were not presented in the Expense Comments. We have fixed the issue. |
+| Captions | Several caption improvements have been made. |
+| Captions | We have renamed "User Paid Credit Card" with "Private Invoiced Credit Card." |

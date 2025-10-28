@@ -1,0 +1,1 @@
+Fully functional cross-company dashboard listing all pending approvals.md | Mandantenübergreifende Übersicht aller ausstehenden Genehmigungen einschließlich verfügbarer Aktionen

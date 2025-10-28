@@ -1,0 +1,6 @@
+Bank transaction posting description configuration.md | Bank transaction posting description configuration
+Introducing Cash Advance.md | Introducing Cash Advance
+Payment type handling enhancement.md | Payment type handling enhancement
+Enhanced image-to-PDF conversion for invoices processed with Document Capture.md | Enhanced image-to-PDF conversion for invoices processed with Document Capture
+Expense reimbursement page shows all expense types.md | Expense reimbursement page shows all expense types
+Posting project expenses in Business Central independently of the reimbursement method.md | Posting project expenses in Business Central independently of the reimbursement method

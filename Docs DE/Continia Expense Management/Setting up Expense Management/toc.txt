@@ -1,0 +1,9 @@
+Setting up Expense Management Overview.md | Überblick
+Setting up general business functionality | Allgemeine Geschäftsfunktionen einrichten
+Setting up expenses | Belege einrichten
+Setting up mileages | Fahrstrecken einrichten
+Setting up per diems | Pauschalen einrichten
+Setting up expense reports| Abrechnungen einrichten
+Setting up web approval | Web-Genehmigung einrichten
+Setting up document approval | Beleggenehmigung einrichten
+Credit card transactions | Kreditkartentransaktionen  

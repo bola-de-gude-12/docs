@@ -1,0 +1,9 @@
+Continia eDocuments.md | Überblick
+Continia eDocuments flows | Continia eDocuments-Flows
+Local functionality | Lokale Funktionalität
+Activating Continia eDocuments.md | Continia eDocuments aktivieren
+Setting up Continia eDocuments.md | Continia eDocuments einrichten
+Setting up customers and vendors.md | Debitoren und Kreditoren einrichten
+eDocuments table structures.md | eDocuments-Tabellenstrukturen
+Capturing data from eDocuments.md | Daten aus eDokumenten erfassen
+Using payment means in eDocuments.md | Zahlungsmittel in eDocuments verwenden

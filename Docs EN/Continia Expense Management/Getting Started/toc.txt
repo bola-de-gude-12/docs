@@ -1,0 +1,12 @@
+Overview.md | Getting started with Expense Management
+Quickstart guides | Quickstart guides
+Business Functionality.md | Overview of business functionality
+Trials and Subscriptions.md | Trials and subscriptions
+Setting up accounts | Setting up accounts
+Signing in to the expense portal and mobile app.md | Signing in to the Continia Expense Portal and Mobile App
+Understanding priority and inheritance of dimensions in expense management.md | Understanding priority and inheritance of dimensions in Expense Management
+Help and Support.md | Help and support
+Continia notifications.md | Continia Notifications
+Continia Hub.md | Continia Hub
+Resellers and Partners | Resellers and partners
+Troubleshooting and FAQs | Troubleshooting and FAQs 

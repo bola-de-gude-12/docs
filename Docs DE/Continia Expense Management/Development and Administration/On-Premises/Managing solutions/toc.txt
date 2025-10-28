@@ -1,0 +1,3 @@
+Managing licenses.md | Lizenzen verwalten
+Managing solutions.md | Lösungen verwalten
+Modules for Continia Expense Management.md | Module für Expense Management

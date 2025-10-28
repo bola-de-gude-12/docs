@@ -1,0 +1,4 @@
+Additional filter buttons on matching page.md | Zusätzliche Filter auf der Abgleichseite
+Automatic matching via job queue.md | Automatischer Abgleich mithilfe einer Aufgabenwarteschlange
+Support for serial and lot numbers in the matching process.md | Unterstützung von Serien- und Chargennummern im Abgleichprozess
+Ability to add missing order lines for matching purposes.md | Möglichkeit zum Hinzufügen fehlender Bestellzeilen zum Abgleich

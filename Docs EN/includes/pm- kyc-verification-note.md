@@ -1,0 +1,4 @@
+> [!IMPORTANT]
+>
+> Important information in relation to banks connecting through Tietoevry (also Handelsbanken through Tietoevry):
+> When a company requests access to our Payment Management service, we require the contact information of the person registered in the [Brønnøysundregistrene](https://www.brreg.no/) under the **Prokura** or **Signatur** field for KYC verification. This person must approve the request by sending an email to Continia's inbox at bank-integration@continia.com. We recommend using your company email address associated with your registration at [Brønnøysundregistrene](https://www.brreg.no/) for this purpose. In case multiple names are registered, all of them need to give separate approvals. 

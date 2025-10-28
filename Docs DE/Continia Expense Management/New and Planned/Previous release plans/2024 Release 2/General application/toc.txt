@@ -1,0 +1,5 @@
+Enhanced handling of purchase documents.md | Verbesserte Handhabung von Einkaufsbelegen, die von anderen Lösungen verarbeitet wurden
+Expanded job queue setup options.md | Erweiterte Einrichtungsoptionen für Aufgabenwarteschlangen
+Canada sales tax.md | Umsatzsteuer (Kanada)
+Enhanced Microsoft 365 sign in management.md | Verbesserte Verwaltung der Microsoft 365-Anmeldung
+Improvements to the Purchase Contracts module.md | Verbessertes Einkaufsverträge-Modul

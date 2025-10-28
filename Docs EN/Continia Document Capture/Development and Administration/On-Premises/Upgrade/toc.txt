@@ -1,0 +1,16 @@
+Updating to the latest version.md | Overview
+Upgrading Document Capture for app versions.md | Upgrading Document Capture (app)
+Supported Upgrade Paths.md | Supported upgrade paths (FOB)
+Upgrading with multiple solutions installed, FOB | Upgrading with multiple solutions installed (FOB)
+Document Capture 2024 R2, FOB | Document Capture 2024 R2 (FOB)
+Document Capture 2024 R1, FOB | Document Capture 2024 R1 (FOB)
+Document Capture 2023 R2, FOB | Document Capture 2023 R2 (FOB)
+Document Capture 2023 R1, FOB | Document Capture 2023 R1 (FOB)
+Document Capture 2022 R2, FOB | Document Capture 2022 R2 (FOB)
+Document Capture 2022 R1, FOB | Document Capture 2022 R1 (FOB)
+Document Capture 2021 R2, FOB | Document Capture 2021 R2 (FOB)
+Document Capture 2021 R1, FOB | Document Capture 2021 R1 (FOB)
+Upgrading NAV or Business Central with Document Capture installed | Upgrading NAV/Business Central
+Migrate from On-Premises to Cloud.md | Migrating from on-premises to cloud
+Upgrading customized CAL versions of Document Capture.md | Upgrading customized C/AL versions of Document Capture
+Implementing service packs.md | Implementing service packs

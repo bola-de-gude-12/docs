@@ -1,0 +1,12 @@
+Overview.md | Überblick
+Understanding Continia Core.md | Grundlegendes zu Continia Core
+Feature Management.md | Funktionsverwaltung
+Secure Archive.md | Secure Archive
+Countries and Languages.md | Unterstützte Länder und Sprachen
+Expense Management permissions.md | Expense Management-Berechtigungen
+Data centers.md | Rechenzentren
+Using your Microsoft 365 account to sign in.md | Anmeldung mit Ihrem Microsoft 365-Konto 
+Development and customization | Entwicklung und Anpassung
+Setting up Azure Blob storage.md | Azure Blob Storage einrichten
+Online
+On-Premises | On-Premises

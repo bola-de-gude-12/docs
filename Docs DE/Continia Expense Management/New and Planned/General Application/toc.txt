@@ -1,0 +1,2 @@
+Enhanced department menu navigation.md | Verbesserte Navigation in den Geschäftsfunktionen
+Viewing full details in a document card from an expense report.md | Anzeige der vollständigen Details in einer Dokumentenkarte aus einer Abrechnung

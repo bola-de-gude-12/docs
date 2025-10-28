@@ -1,0 +1,33 @@
+---
+title: Upgrading to Business Central April 2019 (v14)
+date: 29-09-2021
+description:  
+id: DC-102
+lang: en
+---
+
+# Upgrading to Business Central April 2019 (v14, FOB-based)
+
+The following table provides an overview of what you have to do if you have Continia Document Capture (DC) installed and want to update your old version of Microsoft Dynamics NAV/Business Central (BC) to Business Central April 2019 (v14, FOB-based). When you follow the guidelines given under **Tasks** below, Document Capture remains fully functional and compatible with your updated version of Business Central.
+
+<br>
+
+| Scenario | Tasks |
+| --- | --- |
+| Full upgrade from one of the following versions: <ul><li>Microsoft Navision NAV 3.70</li><li>Microsoft Dynamics NAV 4.0</li><li>Microsoft Dynamics NAV 4.0 SP1</li><li>Microsoft Dynamics NAV 4.0 SP2</li><li>Microsoft Dynamics NAV 4.0 SP3</li><li>Microsoft Dynamics NAV 5.0</li><li>Microsoft Dynamics NAV 5.0 SP1</li><li>Microsoft Dynamics NAV 2009</li><li>Microsoft Dynamics NAV 2009 SP1</li><li>Microsoft Dynamics NAV 2009 R2</li></ul> | From these versions, you must do as follows to upgrade: <ol><li>Upgrade DC to the latest version. Use <a href="/continia-document-capture/development-and-administration/on-premises/upgrade/supported-upgrade-paths">this page</a> to determine how to upgrade from your particular version of DC.</li><li>Upgrade to NAV 2013 or NAV 2015 using <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrading-to-business-central-on-premises">this Microsoft guide</a> (see the third row in the table). We recommend upgrading to NAV 2015.</li><li>From NAV 2013 or NAV 2015, upgrade to BC v14 (FOB-based) using the approach described further below in the table under "Microsoft Dynamics NAV 2013, Microsoft Dynamics NAV 2013 R2, Microsoft Dynamics NAV 2015".</li></ol> |
+| Full upgrade from one of the following versions: <ul><li>Microsoft Dynamics NAV 2013</li><li>Microsoft Dynamics NAV 2013 R2</li><li>Microsoft Dynamics NAV 2015</li></ul> | From these versions, you must do as follows to upgrade: <ol><li>Upgrade DC to the latest version (unless you've already done so coming from an earlier BC version). Use <a href="/continia-document-capture/development-and-administration/on-premises/upgrade/supported-upgrade-paths">this page</a> to determine how to upgrade from your particular version of DC.</li><li>Complete the tasks described in <a href="https://continia.zendesk.com/hc/en-us/articles/360000872980-Upgrading-NAV-2013-2013-R2-or-2015-to-NAV-2016-and-above-with-Document-Capture-5-00">this guide</a> to prepare to upgrade your pre-workflow version of NAV (2013, 2013 R2, or 2015) to a workflow-enabled version (NAV 2016 and later). Note that these tasks must be carried out after the technical upgrade of NAV but before running the data conversion.</li><li>Upgrade to BC v14 (FOB-based) using <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrading-to-business-central-on-premises">this Microsoft guide</a>.</li></ol> |
+| Full upgrade from one of the following versions: <ul><li>Microsoft Dynamics NAV 2016</li><li>Microsoft Dynamics NAV 2017</li><li>Microsoft Dynamics NAV 2018</li><li>Business Central October 2018 (v13)</li></ul> | From these versions, you must do as follows to upgrade: <ol><li>Upgrade DC to the latest version (unless you've already done so coming from an earlier BC version). Use <a href="/continia-document-capture/development-and-administration/on-premises/upgrade/supported-upgrade-paths">this page</a> to determine how to upgrade from your particular version of DC.</li><li>Upgrade to BC v14 (FOB-based) using <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/upgrade/upgrading-to-business-central-on-premises">this Microsoft guide</a>.</li></ol> |
+
+## Related information
+[Supported Upgrade Paths for Continia Document Capture (FOB)](@DC-8)  
+
+
+
+<style>
+  .content table tr td:nth-child(1) {
+    width: 230px;
+  }
+  .content table tr td:nth-child(2) {
+    width: 500px;
+  }  
+</style>

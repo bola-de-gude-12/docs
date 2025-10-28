@@ -1,0 +1,4 @@
+Minimum Requirements.md | Mindestanforderungen
+Web Approval Portal Requirements On-Premises.md | Web Approval Portal-Anforderungen
+Lifecycle Policy On-premises.md | Software Lifecycle-Richtlinie
+Configuring the Continia File Service | Den Continia File Service konfigurieren

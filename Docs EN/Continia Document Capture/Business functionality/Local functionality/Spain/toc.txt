@@ -1,0 +1,3 @@
+Local functionality in Spain.md | Local functionality in Spain
+Calculating due dates with payment days.md | Calculating due dates with payment days
+Certifying digitized documents.md | Certifying digitized documents

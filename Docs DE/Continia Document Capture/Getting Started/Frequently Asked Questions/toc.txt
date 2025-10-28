@@ -1,0 +1,2 @@
+FAQ.md | Allgemeine häufig gestellte Fragen
+Minimum Requirements | Mindestanforderungen

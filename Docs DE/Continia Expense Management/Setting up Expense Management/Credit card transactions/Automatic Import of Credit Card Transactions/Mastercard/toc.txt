@@ -1,0 +1,2 @@
+Importing Mastercard transactions.md | Mastercard-Transaktionen importieren
+Setting up a Mastercard transaction feed.md | Einen Mastercard-Transaktions-Feed einrichten

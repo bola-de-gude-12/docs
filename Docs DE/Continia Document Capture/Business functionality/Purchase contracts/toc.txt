@@ -1,0 +1,7 @@
+Overview of purchase contracts.md | Überblick
+Creating purchase contracts.md | Einkaufsverträge erstellen
+Creating purchase contracts based on invoice history.md | Einkaufsverträge basierend auf der Rechnungshistorie erstellen
+Purchase contract reviews.md | Einkaufsverträge genehmigen
+Creating contract invoices.md | Vertragsrechnungen erstellen
+Approving contract invoices.md | Vertragsrechnungen genehmigen
+Viewing the purchase contract archive.md | Das Einkaufsvertragsarchiv anzeigen

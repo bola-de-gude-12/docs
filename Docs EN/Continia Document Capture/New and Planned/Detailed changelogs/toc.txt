@@ -1,0 +1,10 @@
+Overview.md | Overview
+Document Capture 2025 R2.md | Document Capture 2025 R2
+Document Capture 2025 R1.md | Document Capture 2025 R1
+Document Capture 2024 R2.md | Document Capture 2024 R2
+Document Capture 2024 R1.md | Document Capture 2024 R1
+Document Capture Service.md | Document Capture Service
+Web Approval Portal.md | Web Approval Portal
+Continia Delivery Network.md | Continia Delivery Network
+Detailed changelog for Docs.md | Document Capture Docs
+Previous changelogs | Previous changelogs

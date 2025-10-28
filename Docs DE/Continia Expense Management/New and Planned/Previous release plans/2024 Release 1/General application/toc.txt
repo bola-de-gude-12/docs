@@ -1,0 +1,3 @@
+Deletion, GDPR, and the Secure Archive.md | Aktionen zum Löschen von Daten zur DSGVO-Compliance (GDPR) unter Berücksichtigung von Secure Archive
+Changed user ID visibility for document log entries.md | Änderungen bei der Anzeige von Benutzer-IDs in Belegprotokolleinträgen
+Automatic creation of digital vouchers.md | Digitale Belege automatisch erstellen

@@ -1,0 +1,8 @@
+Overview.md | Überblick
+Activating credit card agreements.md | Kreditkartenvereinbarungen aktivieren
+Importing American Express transactions.md | American Express
+Mastercard
+Visa
+Importing Eurocard transactions.md | Eurocard
+Importing transactions from other cards.md | Andere Karten
+Manual file import.md | Manueller Dateiimport

@@ -1,0 +1,6 @@
+Ability to handle payment means in Continia eDocuments.md | Verwaltung von Zahlungsmitteln in Continia eDocuments
+Allow testing of eDocuments in sandboxes.md | Testen von eDocuments in einer Sandbox
+Improve XML structure pages for easier customization.md | Verbesserte Seiten, um die Anpassung der XML-Struktur zu vereinfachen
+Improved usability and stability in Continia eDocuments.md | Verbesserte Benutzerfreundlichkeit und Stabilität in Continia eDocuments
+Resending eBilling documents.md | Erneutes Senden von eAbrechnungsdokumenten
+Support for the PINT Billing and PINT A-NZ Billing formats in APAC.md | Unterstützung für die Formate PINT Billing und PINT A-NZ Billing formats in APAC

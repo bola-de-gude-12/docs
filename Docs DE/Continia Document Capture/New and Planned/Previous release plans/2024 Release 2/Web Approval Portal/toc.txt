@@ -1,0 +1,2 @@
+Fully functional cross-company dashboard listing all pending approvals.md | Mandantenübergreifende Übersicht aller ausstehenden Genehmigungen einschließlich verfügbarer Aktionen
+Highlighting only relevant lines for advanced approval.md | Hervorheben der relevanten Zeilen für die erweiterte Genehmigung

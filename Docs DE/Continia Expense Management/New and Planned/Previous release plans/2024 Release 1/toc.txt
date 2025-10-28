@@ -1,0 +1,4 @@
+2024 release 1.md | 2024 Release 1
+General application | Allgmeine Anwendung
+Expense Mobile App and Portal | Expense Mobile App und Portal
+Platform and technology | Plattform und Technologie

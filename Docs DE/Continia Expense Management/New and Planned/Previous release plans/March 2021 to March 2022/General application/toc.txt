@@ -1,0 +1,4 @@
+Delegating users to manage other users expenses.md | Delegieren von Benutzern
+Editing approved documents in business central.md | Bearbeiten genehmigter Belege in Business Central
+New business vendor feature.md | Neue Option zum Hinzufügen eines Kreditors
+Setting limits for expense users.md | Unternehmensrichtlinien

@@ -1,0 +1,2 @@
+Assign per diems to projects by destination.md | Zuweisen von Pauschalen zu Projekten nach Ziel
+Enhanced transparency for per diem calculations.md | Verbesserte Transparenz bei der Berechnung von Pauschalen

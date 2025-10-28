@@ -1,0 +1,10 @@
+In app introductory videos.md | In-App-Einführungsvideos
+Continia notifications.md | Continia-Benachrichtigungen
+Description field extension.md | Erweiterung von Beschreibungsfeldern
+Better validation of number series and source codes.md | Bessere Validierung von Nummernserien und Herkunftscodes
+Payment type ui improvements.md | Verbesserte Benutzeroberfläche für Zahlungsarten
+Portuguese localization.md | Portugiesische Lokalisierung
+Polish localization.md | Polnische Lokalisierung
+Purchase contracts module.md | Einkaufsverträge-Module
+Improved payment details.md | Verbesserte Zahlungsdetails
+Payment types for user groups.md | Zahlungsarten für Benutzergruppen

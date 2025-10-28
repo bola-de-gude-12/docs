@@ -1,0 +1,2 @@
+Extension of the OCR service to support EWS.md | Extension of the OCR service to support EWS
+Support for additional storage types.md | Support for additional storage types

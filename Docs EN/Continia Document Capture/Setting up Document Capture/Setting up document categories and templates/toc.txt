@@ -1,0 +1,9 @@
+Setting up document categories and templates.md | Overview
+Working with document categories.md | Working with document categories
+Setting up identification fields.md | Setting up identification fields
+Understanding identification templates.md | Understanding identification templates
+Setting up search texts for a template.md | Setting up search texts for a template
+Configuring advanced OCR options.md | Configuring advanced OCR options
+Setting up the registration of documents as general journal lines.md | Setting up the registration of documents as general journal lines
+Enabling the document viewer to display embedded PDF files by default for XML.md | Enabling the document viewer to display embedded PDF files (XML)
+Setting up fraud checks.md | Setting up fraud checks

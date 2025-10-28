@@ -1,0 +1,1 @@
+![More-options-small](/images/show-more-options-icon-small.png)

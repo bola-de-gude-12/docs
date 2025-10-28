@@ -1,0 +1,3 @@
+Matching variances.md | Matching variance settings synchronization from Business Central to Continia Online
+Improved currency OCR recognition.md | Improved currency OCR recognition by matching against ISO codes
+Autofill in the expense app and expense portal.md | Autofill in the Expense Mobile App and Portal

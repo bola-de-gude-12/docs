@@ -1,0 +1,9 @@
+2024 release 2.md | 2024 Release 2
+General application | General application
+Expenses | Expenses
+Mileages | Mileages
+Expense reports | Expense reports
+Document approval | Document approval
+Expense Mobile App and Portal | Expense Mobile App and Portal
+Platform and technology | Platform and technology
+Web Approval Portal | Web Approval Portal

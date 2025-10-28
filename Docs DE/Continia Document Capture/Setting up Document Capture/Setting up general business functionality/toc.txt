@@ -1,0 +1,15 @@
+Setting up general business functionality.md | Überblick
+Setting up the Continia Delivery Network.md | Das Continia Delivery Network einrichten
+Setting up document storage.md | Dokumentenspeicher einrichten
+Preventing the deletion of documents as a company policy.md | Löschen von Dokumenten mit einer Unternehmensrichtlinie deaktivieren
+Defining document status codes.md | Dokumentstatuscodes definieren
+Setting up job queues.md | Aufgabenwarteschlangen einrichten
+Setting up company identification texts.md | Mandantensuchtexte einrichten
+Setting up the Secure Archive.md | Secure Archive einrichten
+Setting up data maintenance.md | Datenpflege einrichten
+Setting up cloud and on-premises OCR.md | Cloud und On-Premises OCR einrichten
+Connecting a desktop scanner.md | Einen Desktopscanner anschließen
+Automatic creation of digital vouchers.md | Digitale Belege automatisch erstellen
+
+
+

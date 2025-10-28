@@ -1,0 +1,6 @@
+Expense Management Approvals.md | Überblick über den Genehmigungsprozess
+Approving documents.md | Dokumente genehmigen
+Approval sharing.md | Geteilte Genehmigung
+Rejecting documents.md | Belege ablehnen
+Editing posting in the web approval portal.md | Buchungen im Web Approval Portal bearbeiten
+Continia Web Approval Portal.md | Das Continia Web Approval Portal verwenden

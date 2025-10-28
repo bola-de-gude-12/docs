@@ -1,0 +1,35 @@
+Documents and templates overview.md | Überblick
+Accessing the document archive.md | Auf das Belegarchiv zugreifen
+Accounts for Amounts.md | Buchungseinrichtung
+Adding captions to PDF master templates.md | Suchtexte zu PDF-Mastervorlagen hinzufügen
+Automatic assignment of item charges.md | Zu-/Abschläge für Artikel automatisch zuweisen
+Capturing header fields in a document.md | Kopffelder in einem Beleg erfassen
+Capturing item tracking information.md | Erfassen von Informationen zur Artikelverfolgung
+Capturing line fields in a document.md | Zeilenfelder in einem Beleg erfassen
+Configuring comment types and importance.md | Bemerkungsarten und deren Wichtigkeit konfigurieren
+Customizing list columns in the document journal.md | Listenspalten im Belegjournal anpassen
+Enhanced line recognition.md | Verbesserte Zeilenerkennung
+Exporting attachments.md | Anhänge exportieren
+Finding the document source and template.md | Belegherkunft und -vorlage identifizieren
+Handling discounts.md | Rabatte verwalten
+Handling reverse charges.md | Verlagerung der Steuerschuld
+Identifying the document type and other basic details.md | Die Belegart und andere Informationen identifizieren
+Importing documents.md | Belege importieren
+Managing template fields.md | Vorlagenfelder verwalten
+Moving a document to another company.md | Belege zu anderen Mandanten verschieben
+Notifying admins about open documents.md | Administratoren über offene Belege benachrichtigen
+OCR-processing a document.md | OCR-Verarbeitung von Belegen
+Purchaser code translation.md | Einkäufercodeübersetzung
+Registering documents.md | Belege registrieren
+Rejecting documents.md | Belege ablehnen
+Reopening documents.md | Belege erneut öffnen
+Setting up new template fields.md | Neue Vorlagenfelder einrichten
+Splitting and merging documents.md | Belege aufteilen und zusammenführen
+Support for Multi-Entity Management, MEM, by Binary Stream Software.md | Unterstützung für Multi-Entity-Management (MEM) von Binary Stream Software
+Using allocation accounts.md | Umlagekonten verwenden
+Using document search.md | Dokumentensuche verwenden
+Using field translations.md | Feldübersetzungen verwenden
+Using rules.md | Regeln verwenden
+Using the standard connector app to send electronic documents via Continia.md | Die Standard-Connector-App zum Senden elektronischer Belege über Continia verwenden
+Working with paper and PDF documents.md | Mit Papier- und PDF-Belegen arbeiten
+Working with templates.md | Mit Vorlagen arbeiten

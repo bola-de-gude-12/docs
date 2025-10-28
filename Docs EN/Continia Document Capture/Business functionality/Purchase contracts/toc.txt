@@ -1,0 +1,7 @@
+Overview of purchase contracts.md | Overview
+Creating purchase contracts.md | Creating purchase contracts
+Creating purchase contracts based on invoice history.md | Creating purchase contracts based on invoice history
+Purchase contract reviews.md | Purchase contract approvals
+Creating contract invoices.md | Creating contract invoices
+Approving contract invoices.md | Approving contract invoices
+Viewing the purchase contract archive.md | Viewing the purchase contract archive

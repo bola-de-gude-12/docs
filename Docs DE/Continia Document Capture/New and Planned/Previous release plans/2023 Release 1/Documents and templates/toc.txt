@@ -1,0 +1,10 @@
+Merging nonconsecutive documents.md | Zusammenführen nicht aufeinanderfolgender Belege
+Bulk deletion of master template fields.md | Massenlöschen von Mastervorlagenfeldern
+Configuring the allowed difference between imported and assigned amounts.md | Konfigurieren der zulässigen Differenz zwischen importierten und zugewiesenen Beträgen
+Dialog listing templates if multiple templates are found using search texts.md | Dialogfeld zur Anzeige von Vorlagen, wenn über Suchtexte mehrere Vorlagen gefunden werden
+Displaying embedded PDF files by default in the document viewer.md |Standardmäßiges Anzeigen eingebetteter PDF-Dateien in der Dokumentenvorschau
+Ignoring caption suggestions.md | Ignorieren von Suchtextvorschlägen
+New category for creating and updating purchase orders.md | Neue Kategorie zum Erstellen und Aktualisieren von Bestellungen
+Support for assignment of item charges during document registration.md | Unterstützung für die Zuweisung von Artikelzuschlägen bei der Belegregistrierung
+New option to enable manual-assignment comments.md | Neue Option zum Aktivieren von Kommentaren bei manueller Zuweisung
+Checking for dimensions on document registration.md | Überprüfung von Dimensionen bei der Belegregistrierung

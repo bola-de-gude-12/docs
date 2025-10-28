@@ -1,0 +1,4 @@
+Transactions overview.md | Overview
+Automatic Import of Credit Card Transactions | Automatic import of credit card transactions
+Use a vendor as posting account type.md | Use a vendor as posting account type
+Add one credit card to multiple expense users.md | Add one credit card to multiple expense users

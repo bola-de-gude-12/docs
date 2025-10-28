@@ -1,0 +1,2 @@
+Configuration of field dependencies in the Expense App and the Expense Portal.md | Konfiguration von Feldabhängigkeiten in der Expense App und im Expense Portal
+Notifications in the Expense App.md | Benachrichtigungen in der Expense Mobile App

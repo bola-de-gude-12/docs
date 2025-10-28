@@ -1,0 +1,8 @@
+Mileage Overview.md | Überblick
+Submitting mileage expenses.md | Fahrstrecken einreichen
+Posting mileage expenses.md | Fahrtkosten buchen
+Reimbursing mileage expenses.md | Fahrtkosten erstatten
+Reopening mileage expenses.md | Fahrstrecken wieder öffnen
+Moving a mileage expense to another company.md | Fahrstrecken in einen anderen Mandanten verschieben
+Downloading mileage expenses from continia online.md | Fahrstrecken manuell von Continia Online herunterladen
+Enabling taxable rates for mileage.md | Steuerpflichtige Sätze für Fahrstrecken aktivieren

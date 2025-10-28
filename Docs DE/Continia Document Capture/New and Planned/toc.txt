@@ -1,0 +1,8 @@
+Overview.md | Veröffentlichungsplan
+Detailed changelogs | Detaillierte Changelogs
+Country and Regional | Länder und Regionen
+Document Approval | Belegggenehmigung
+Documents and templates | Belege und Vorlagen
+Purchase Documents | Einkaufsbelege
+Web Approval Portal | Web Approval Portal
+Previous release plans | Vorherige Veröffentlichungspläne

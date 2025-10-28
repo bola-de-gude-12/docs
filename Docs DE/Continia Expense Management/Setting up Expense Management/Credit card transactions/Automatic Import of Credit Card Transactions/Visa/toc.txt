@@ -1,0 +1,2 @@
+Importing Visa transactions.md | Visa-Transaktionen importieren
+Setting up a Visa transaction feed.md | Einen Visa-Transaktions-Feed einrichten

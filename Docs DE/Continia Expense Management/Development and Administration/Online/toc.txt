@@ -1,0 +1,4 @@
+Using Continia Solution Management.md | Continia Lösungsverwaltung verwenden
+Installing the Expense Management app.md | Die Expense Management App installieren
+Updating to the latest version.md | Upgrade auf die neueste Version
+Minimum Requirements.md | Mindestanforderungen

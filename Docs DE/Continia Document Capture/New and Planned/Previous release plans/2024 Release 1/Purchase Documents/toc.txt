@@ -1,0 +1,3 @@
+Ability to update purchase orders based on delivery notes.md | Aktualisierung von Bestellungen basierend auf Lieferscheinen
+Aligning the Purchase Contracts module with North America.md | Anpassung des Einkaufsverträge-Moduls für Nordamerika
+End dates for purchase contract lines.md | Enddaten für Einkaufsvertragszeilen

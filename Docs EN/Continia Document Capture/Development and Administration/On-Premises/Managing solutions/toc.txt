@@ -1,0 +1,3 @@
+Managing licenses.md | Managing licenses
+Managing solutions.md | Managing solutions
+Modules for Document Capture.md | Modules for Document Capture

@@ -1,0 +1,6 @@
+Per diem overview.md | Überblick
+Setting up per diem groups.md | Pauschalgruppen einrichten
+Setting up per diem rates.md | Pauschalsätze einrichten
+Per diem trips across different countries with different rates.md | Pauschalen für Reisen zwischen verschiedenen Ländern mit unterschiedlichen Sätzen einrichten
+Setting up additional allowances.md | Zusätzliche Pauschalen einrichten
+Setting up taxable rates for per diems.md | Steuerpflichtige Sätze für Pauschalen festlegen

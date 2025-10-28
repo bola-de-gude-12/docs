@@ -1,0 +1,2 @@
+Improved visibility of comments in expense reports.md | Verbesserte Sichtbarkeit von Kommentaren in Spesenabrechnungen
+Streamlined document attachment.md | Optimiertes Anhängen von Belegen

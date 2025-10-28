@@ -1,0 +1,5 @@
+Adding the Change Imported Amounts action to general and purchase journals.md | Verfügbarkeit der Aktion „Importierte Beträge ändern“ in Fibu Buch.-Blättern und Einkaufs Buch.-Blättern
+Continia Hub.md | Continia Hub
+Notification of remaining pages in OCR licenses.md | Benachrichtigung über verbleibende Seiten in OCR-Lizenzen
+Secure Archive.md | Secure Archive
+Selecting or deselecting all records when exporting or importing configurations.md | Aus- und Abwählen aller Datensätze beim Exportieren oder Importieren von Konfigurationen

@@ -1,0 +1,5 @@
+An emission factor (EF) is a numerical coefficient that indicates the rate at which a particular activity releases greenhouse gases (GHGs) into the atmosphere. EFs are crucial in calculating the greenhouse gas (GHG) emissions associated with various activities such as energy consumption, water usage, waste management, recycling, and transportation. These factors are also known as conversion factors, emission intensity, and carbon intensity. 
+
+Continia Sustainability offers users the flexibility to create or import their own EFs, but it also comes with pre-installed EF databases. These databases are specific to each country and include factors utilized in national emissions inventories. The default EF databases in Continia Sustainability and are license-free and provided by official government sources. 
+
+The {param1} database contains the emission factors used in {param2}.

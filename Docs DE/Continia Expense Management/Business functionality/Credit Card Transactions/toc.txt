@@ -1,0 +1,8 @@
+Credit card transactions Overview.md | Überblick
+
+EM bank account reconciliation.md | EM-Bankkontoabstimmung
+
+Importing transactions with custom templates.md | Transaktionen mit benutzerdefinierten Vorlagen importieren
+
+Importing bank statements for Expense Management reconciliation.md | Kontoauszüge für die Abstimmung importieren
+

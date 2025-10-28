@@ -1,0 +1,7 @@
+Configuring the Continia File Service | Den Continia File Service konfigurieren
+Configuring on-premises OCR | On-Premises OCR konfigurieren
+Minimum Requirements.md | Mindestanforderungen
+Web Approval Portal Requirements On-Premises.md | Web Approval Portal-Anforderungen
+Lifecycle Policy On-premises.md | Software Lifecycle-Richtlinie
+Configuring cloud OCR for on-premises.md | Cloud OCR für On-Premises konfigurieren
+Getting notified of remaining OCR license pages.md | Benachrichtigung über verbleibende OCR-Lizenzseiten

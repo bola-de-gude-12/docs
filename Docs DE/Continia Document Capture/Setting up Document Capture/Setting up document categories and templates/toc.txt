@@ -1,0 +1,12 @@
+Setting up document categories and templates.md | Überblick
+Working with document categories.md | Mit Belegkategorien arbeiten
+Setting up identification fields.md | Identifikationsfelder einrichten
+Understanding identification templates.md | Grundlegendes zu Identifikationsvorlagen
+Setting up search texts for a template.md | Identifikationstexte für eine Vorlage einrichten
+Configuring advanced OCR options.md | Erweiterte OCR-Optionen konfigurieren
+Setting up the registration of documents as general journal lines.md | Registrierung von Belegen als Fibu. Buch.-Blattzeilen einrichten
+Enabling the document viewer to display embedded PDF files by default for XML.md | Eingebettete PDF-Dateien in der Dokumentenvorschau standardmäßig für XML anzeigen
+Setting up fraud checks.md | Betrugsprüfungen einrichten
+
+
+

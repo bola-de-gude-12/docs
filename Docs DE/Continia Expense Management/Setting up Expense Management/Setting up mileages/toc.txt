@@ -1,0 +1,7 @@
+Mileage overview.md | Überblick
+Setting up mileage vehicles.md | Fahrstreckenfahrzeuge einrichten
+Setting up mileage rates.md | Fahrstreckensätze einrichten
+Setting up company policies for mileages.md | Unternehmensrichtlinien für Fahrstrecken einrichten
+Setting up the 60-day rule.md | 60-Tage-Regel einrichten (DK)
+Setting up mileage to deduct distance between home and office.md | Fahrstrecken zum Abziehen der Entfernung zwischen Wohn- und Arbeitsort einrichten
+Configuring vehicle number registration.md | Registrierung von Fahrzeugzulassungsnummern konfigurieren

@@ -1,0 +1,1 @@
+Bank transaction descriptions follow expenses.md | Banktransaktionsbeschreibungen werden in Spesenabrechnungen übernommen

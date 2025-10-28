@@ -1,0 +1,5 @@
+Overview of quickstart guides.md | Schnelleinstieg-Überblick
+Quickstart guide for admins.md | Schnelleinstieg für Administratoren
+Quickstart guide for approvers.md | Schnelleinstieg für Genehmiger
+Quickstart guide for expense management users.md | Schnelleinstieg für Expense-Benutzer
+Quickstart guide faqs.md | Häufig gestellte Fragen zum Schnelleinstieg

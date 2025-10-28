@@ -1,0 +1,14 @@
+Continia eDocuments support for OIOUBL 3.0.md | Continia eDocuments – Unterstützung für OIOUBL 3.0
+Simpler eDocuments onboarding.md | Leichteres eDocuments-Onboarding
+Support for the EHF format for eOrders in Norway.md | Unterstützung für das EHF-Format für eBestellungen in Norwegen
+Support for the SimplerInvoicing format in the Netherlands.md | Unterstützung für das SimplerInvoicing-Format in den Niederlanden
+Educational page to improve user knowledge of eDocuments and formats.md | Eine neue Seite, auf der Benutzer mehr Informationen über eDokumente und Formate finden
+Support for the FA2 format in Poland.md | Unterstützung für das FA(2)-Format in Polen
+Support for sales shipments.md | Unterstützung für Verkaufslieferungen
+Handle XML files received via email using the eDocuments framework.md | Verarbeiten von XML-Dateien, die über E-Mail empfangen werden, mit dem eDocuments-Framework
+eDocuments first.md | eDocuments first
+eDocument validation.md | eDokument-Validierung
+Option to embed PDF files.md | Option zum Einbetten von PDF-Dateien
+Lookup in template field translations.md | Lookup in Vorlagenfeldübersetzungen
+Processing documents with rounding issues.md | Verarbeitung von Dokumenten mit Rundungsproblemen
+Capturing item tracking information.md | Erfassen von Informationen zur Artikelverfolgung
