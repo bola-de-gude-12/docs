@@ -1,8 +1,0 @@
-Mileage Overview.md | Overview
-Submitting mileage expenses.md | Submitting mileage expenses
-Posting mileage expenses.md | Posting mileage expenses
-Reimbursing mileage expenses.md | Reimbursing mileage expenses
-Reopening mileage expenses.md | Reopening mileage expenses
-Moving a mileage expense to another company.md | Moving a mileage expense to another company
-Downloading mileage expenses from continia online.md | Downloading mileage expenses from Continia Online manually
-Enabling taxable rates for mileage.md | Enabling taxable rates for mileage

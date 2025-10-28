@@ -1,7 +1,0 @@
-2023 release 2.md | 2023 Release 2
-General application | General application
-Expenses | Expenses
-Per diems | Per diems
-Document approval | Document approval
-Expense Mobile App and Portal | Expense Mobile App and Portal
-Platform and technology | Platform and technology

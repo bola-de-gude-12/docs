@@ -1,1 +1,0 @@
-![Settings](/images/settings_icon_small.png)

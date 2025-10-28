@@ -1,5 +1,0 @@
-Enhanced handling of purchase documents.md | Enhanced handling of purchase documents processed by other solutions
-Expanded job queue setup options.md | Expanded job queue setup options
-Canada sales tax.md | Canada sales tax
-Enhanced Microsoft 365 sign in management.md | Enhanced Microsoft 365 sign-in management
-Improvements to the Purchase Contracts module.md | Improvements to the Purchase Contracts module

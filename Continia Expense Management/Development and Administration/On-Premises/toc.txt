@@ -1,9 +1,0 @@
-Installing Expense Management on-premises.md | Installing Expense Management on-premises
-Installing or upgrading Continia apps in multitenant environments.md | Installing or upgrading in multitenant environments
-Installing Business Central upgrades.md | Installing Business Central upgrades
-Comparison of features.md | Comparison of features
-Versions On-Premises.md | Supported NAV and Business Central versions
-Countries and languages On-Premises.md | Supported countries and languages (FOB)
-Managing solutions
-Deployment
-Upgrade

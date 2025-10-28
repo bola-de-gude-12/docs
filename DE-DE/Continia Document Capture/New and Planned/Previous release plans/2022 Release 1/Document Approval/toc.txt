@@ -1,3 +1,0 @@
-Amount limits for approval flow codes.md | Betragslimits für Genehmigungsablaufcodes
-Amount limits for four-eyes approval.md | Betragslimits für die Vier-Augen-Genehmigung
-Attaching files from the Approval Entries page.md | Dateien von der Seite Genehmigungsposten hinzufügen

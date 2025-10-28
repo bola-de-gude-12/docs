@@ -1,7 +1,0 @@
-index.md | Welcome to Expense Management
-New and Planned | New and planned
-Getting Started | Getting started
-Setting up Expense Management | Setting up Expense Management
-Business functionality | Business functionality
-Development and Administration | Development and administration
-Compliance.md | Compliance

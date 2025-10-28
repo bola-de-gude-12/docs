@@ -1,6 +1,0 @@
-Setting up order and receipt matching.md | Overview
-Configuring automatic matching.md | Configuring automatic matching
-Setting up line matching.md | Setting up line matching
-Matching documents using a job queue.md | Matching documents using a job queue
-Enabling auto-approval.md | Enabling auto-approval
-Setting up matching checks before registration.md | Setting up matching checks before registration

@@ -1,3 +1,0 @@
-Upgrading with multiple solutions installed, FOB.md | Überblick
-Upgrading Continia Core, FOB.md | Upgrade von Continia Core (FOB)
-Upgrading the Continia Delivery Network, FOB.md | Upgrade des Continia Delivery Networks (FOB)

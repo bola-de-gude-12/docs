@@ -1,1 +1,0 @@
-![Vertical-dots](/images/three-vertical-dots.png)

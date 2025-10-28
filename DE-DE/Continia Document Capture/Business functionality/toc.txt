@@ -1,9 +1,0 @@
-Overview of business functionality.md | Überblick
-Continia eDocuments | Continia eDocuments
-Document categories | Belegkategorien
-Documents and templates | Belege und Vorlagen
-General business functionality | Allgemeine Geschäftsfunktionen
-Local functionality | Lokale Funktionen
-Order and receipt matching | Bestell- und Lieferabgleich
-Purchase approval | Einkaufsgenehmigung
-Purchase contracts | Einkaufsverträge

@@ -1,8 +1,0 @@
-2023 Release 1.md | 2023 Release 1
-Document Approval | Document approval
-Documents and templates | Documents and templates
-General Application | General application
-Order and receipt matching | Order and receipt matching
-Platform and technology | Platform and technology
-Purchase Documents | Purchase documents
-Web Approval Portal | Web Approval Portal

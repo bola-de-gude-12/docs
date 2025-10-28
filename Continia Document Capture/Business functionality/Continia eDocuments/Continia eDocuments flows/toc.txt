@@ -1,4 +1,0 @@
-Continia eDocuments flows.md | eDocuments flows
-Continia eDocuments customer flows.md | eDocuments customer flows
-Continia eDocuments vendor flows.md | eDocuments vendor flows
-Advanced ordering in eDocuments.md | eDocuments advanced ordering flows

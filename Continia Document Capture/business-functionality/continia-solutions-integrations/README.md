@@ -1,2 +1,0 @@
-# Continia solutions integrations
-

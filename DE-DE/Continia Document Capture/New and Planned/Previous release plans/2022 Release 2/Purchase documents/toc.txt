@@ -1,2 +1,0 @@
-Add the scanned image to the vendor ledger entries page.md | Hinzufügen gescannter Bilder auf der Kreditorenposten-Seite
-New Purchase Contracts module.md | Neues Einkaufsverträge-Modul

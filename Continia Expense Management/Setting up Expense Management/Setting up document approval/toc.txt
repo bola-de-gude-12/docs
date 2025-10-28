@@ -1,3 +1,0 @@
-Setting up document approval.md | Overview
-Approval sharing.md | Approval sharing
-Email notifications.md | Email notifications

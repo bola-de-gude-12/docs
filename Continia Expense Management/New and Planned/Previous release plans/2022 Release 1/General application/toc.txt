@@ -1,2 +1,0 @@
-Field type improvements.md | Field type improvements
-Payment type.md | Payment type

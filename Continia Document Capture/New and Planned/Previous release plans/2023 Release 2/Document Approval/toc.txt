@@ -1,3 +1,0 @@
-Preventing approvers from changing the on-hold status of documents for approval.md | Preventing approvers from changing the on-hold status of documents for approval
-Option to allow both types of approval-sharing users to receive notifications.md | Option to allow both types of approval-sharing users to receive notifications
-Ability to sort by due date on the Purchase Approval Entries page.md | Ability to sort by due date on the Purchase Approval Entries page

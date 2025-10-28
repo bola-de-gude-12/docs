@@ -1,6 +1,0 @@
-Splitting invoice amounts by dimension while keeping the existing account number.md | Splitting invoice amounts by dimension while keeping the existing account number
-Automatic checking of line item prices.md | Automatic checking of line item prices
-Creating general journal lines without a vendor balancing account.md | Creating general journal lines without a vendor balancing account
-Deferral code on the Accounts for Amounts page.md | Deferral code on the Accounts for Amounts page
-Support for prepayments.md | Support for prepayments
-Receiving OIOUTS documents via the Continia Delivery Network.md | Receiving OIOUTS documents via the Continia Delivery Network

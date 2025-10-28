@@ -1,3 +1,0 @@
-Enhanced tax travel expense statement.md | Enhanced tax travel expense statement
-Group employee and vendor ledger entries in expense reports or by document type.md | Group employee and vendor ledger entries in expense reports or by document type
-Improving workflows with new Approve actions.md | Improving workflows with new Approve actions added to Expense Document cards

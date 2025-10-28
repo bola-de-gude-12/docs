@@ -1,2 +1,0 @@
-Improved visibility of comments in expense reports.md | Improved visibility of comments in expense reports
-Streamlined document attachment.md | Streamlined document attachment

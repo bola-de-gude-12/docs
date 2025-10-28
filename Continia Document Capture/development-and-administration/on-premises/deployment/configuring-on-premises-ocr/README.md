@@ -1,2 +1,0 @@
-# Configuring on-premises OCR
-

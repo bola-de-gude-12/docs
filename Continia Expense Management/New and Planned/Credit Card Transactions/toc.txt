@@ -1,3 +1,0 @@
-Ability to approve and post expenses without importing transactions.md | Ability to approve and post expenses without importing transactions
-Importing own credit card transactions.md | Importing own credit card transactions
-New credit card agreement activation flow.md | New credit card agreement activation flow

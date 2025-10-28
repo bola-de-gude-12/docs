@@ -1,2 +1,0 @@
-Purchase Contracts trial.md | Purchase Contracts trial
-Automatic creation of purchase contracts based on historical invoice data.md | Automatic creation of purchase contracts based on historical invoice data

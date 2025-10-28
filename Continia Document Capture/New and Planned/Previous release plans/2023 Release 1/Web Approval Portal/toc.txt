@@ -1,2 +1,0 @@
-Support for purchase order approval using the Continia Web Approval Portal.md | Support for purchase order approval using the Continia Web Approval Portal
-Displaying OIOUTS documents in the Continia Web Approval Portal.md | Displaying OIOUTS documents in the Continia Web Approval Portal

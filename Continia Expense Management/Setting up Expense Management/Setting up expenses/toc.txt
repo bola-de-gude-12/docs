@@ -1,8 +1,0 @@
-Expenses overview.md | Overview
-How bank mapping rules work.md | How bank mapping rules work
-Mapping bank currency codes.md | Mapping bank currency codes
-Setting up expense types.md | Setting up expense types
-Setting up company policies for expenses.md | Setting up company policies for expenses
-Setting up vat sales tax input from expense users.md | Setting up VAT/sales tax input from expense users
-Creating expenses from credit card transactions.md | Creating expenses from credit card transactions
-Automatically split and allocate with amount distribution.md | Automatically split and allocate using amount distribution

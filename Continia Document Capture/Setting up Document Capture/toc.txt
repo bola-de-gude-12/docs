@@ -1,7 +1,0 @@
-Setting up Document Capture.md | Overview
-Setting up document approval | Setting up document approval
-Setting up document categories and templates | Setting up document categories and templates
-Setting up general business functionality | Setting up general business functionality
-Setting up order and receipt matching | Setting up order and receipt matching
-Setting up purchase documents | Setting up purchase documents
-Setting up web approval | Setting up web approval

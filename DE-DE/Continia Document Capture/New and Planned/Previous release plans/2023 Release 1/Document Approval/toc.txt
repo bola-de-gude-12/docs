@@ -1,3 +1,0 @@
-Support for purchase orders and return orders in the Continia approval workflows.md | Unterstützung von Bestellungen und Reklamationen in den Continia-Genehmigungsworkflows
-Displaying automatic-approval comments during the approval process.md | Anzeigen von Kommentaren der automatischen Genehmigung während des Genehmigungsvorgangs
-User-specific list of approvers when forwarding approval requests.md | Benutzerspezifische Liste von Genehmigern beim Weiterleiten von Genehmigungsanforderungen

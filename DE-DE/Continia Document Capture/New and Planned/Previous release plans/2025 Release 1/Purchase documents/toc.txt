@@ -1,1 +1,0 @@
-Inclusion of Document Capture files when copying, correcting, and canceling posted purchase invoices.md | Automatisches Anhängen von Document Capture-Dateien beim Kopieren, Korrigieren und Stornieren gebuchter Einkaufsrechnungen

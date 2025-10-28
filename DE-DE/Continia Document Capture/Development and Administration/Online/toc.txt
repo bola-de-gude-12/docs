@@ -1,4 +1,0 @@
-Using Continia Solution Management.md | Continia Lösungsverwaltung verwenden
-Installing the Document Capture app.md | Die Document Capture App installieren
-Updating to the latest version.md | Upgrade auf die neueste Version
-Minimum Requirements | Mindestanforderungen

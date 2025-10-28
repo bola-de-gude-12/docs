@@ -1,2 +1,0 @@
-Overview.md | Overview
-Additional guidelines.md | Additional guidelines

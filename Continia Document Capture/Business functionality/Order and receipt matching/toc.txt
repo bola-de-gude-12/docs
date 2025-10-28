@@ -1,6 +1,0 @@
-Overview of order and receipt matching.md | Overview
-Automatic document matching.md | Automatic document matching
-Filtering line matches.md | Filtering line matches
-Handling discrepancies, including partial matching.md | Handling discrepancies (partial matching)
-Handling freight amounts when matching to a purchase order.md | Handling freight amounts when matching to a purchase order
-Manual document matching.md | Manual document matching

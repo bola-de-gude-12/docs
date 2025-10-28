@@ -1,6 +1,0 @@
-Expense Management Approvals.md | Overview of the approval process
-Approving documents.md | Approving documents
-Approval sharing.md | Approval sharing
-Rejecting documents.md | Rejecting documents
-Editing posting in the web approval portal.md | Editing posting in the web approval portal
-Continia Web Approval Portal.md | Using the Continia Web Approval Portal

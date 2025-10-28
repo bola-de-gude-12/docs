@@ -1,3 +1,0 @@
-Support for Finnish localization.md | Support for Finnish localization
-Support for Polish localization.md | Support for Polish localization
-Support for Portuguese localization.md | Support for Portuguese localization

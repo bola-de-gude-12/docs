@@ -1,3 +1,0 @@
-FAQ.md | General FAQs
-Credit card transaction FAQ.md | Credit card transaction FAQ
-Minimum Requirements.md | Minimum requirements

@@ -1,2 +1,0 @@
-Can i set a default currency.md | Can I set a default currency for an expense user?
-Can i restrict which field values expense users can select in the continia expense app.md | Can I restrict which field values expense users can select in the Continia Expense App?

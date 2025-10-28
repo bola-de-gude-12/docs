@@ -1,4 +1,0 @@
-Configuring on-premises OCR.md | Configuring on-premises OCR
-Creating and configuring email addresses for document import.md | Creating and configuring email addresses for document import
-Installing ABBYY and Document Capture services.md | Installing ABBYY and Document Capture Services
-Setting up Exchange Web Services, EWS.md | Setting up Exchange Web Services (EWS)

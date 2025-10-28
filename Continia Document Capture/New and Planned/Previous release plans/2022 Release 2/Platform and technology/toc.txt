@@ -1,2 +1,0 @@
-Minimize that files are overwritten.md | Minimize that files are overwritten
-Support for shared mailboxes with EWS.md | Support for shared mailboxes with EWS

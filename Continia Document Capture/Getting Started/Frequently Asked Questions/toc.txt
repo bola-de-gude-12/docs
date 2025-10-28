@@ -1,2 +1,0 @@
-FAQ.md | General FAQ
-Minimum Requirements | Minimum requirements

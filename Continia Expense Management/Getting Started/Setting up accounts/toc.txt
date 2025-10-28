@@ -1,5 +1,0 @@
-Overview of account setups.md |  Overview of account setups  
-Email setup for external or guest users in Microsoft Entra.md | Email setup for external or guest users in Microsoft Entra  
-How to retain expense history when changing user emails.md | How to retain expense history when changing user emails    
-Understanding expense user email addresses.md | Understanding Expense user email addresses  
-Removing an expense user.md | Removing an Expense user
