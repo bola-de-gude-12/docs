@@ -8,3 +8,7 @@
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
 * [Continia Expense Management](continia-expense-management/README.md)
   * [Welcome to Continia Expense Management](<Continia Expense Management/index.md>)
+* [Includes](includes/README.md)
+  * [Document Capture](includes/document-capture/README.md)
+    * [First include](includes/document-capture/first-include.md)
+  * [Expense Management](includes/expense-management.md)
