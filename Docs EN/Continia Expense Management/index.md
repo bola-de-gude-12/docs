@@ -13,6 +13,8 @@ Expense Management is an end-to-end solution for Microsoft Dynamics 365 Business
 
 For an overview of the available modules and their features, see [Business Functionality](../../Docs%20EN/Continia%20Expense%20Management/@EM-69/).
 
+<code class="expression">page.vars.first_variable</code>
+
 {% include "../.gitbook/includes/this-is-the-first-include..md" %}
 
 ## [New and planned](../../Docs%20EN/Continia%20Expense%20Management/@EM-78/)
