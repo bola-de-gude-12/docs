@@ -12,6 +12,8 @@ Eager to learn more about Continia Document Capture and how to use it? Check out
 
 \{{space.vars.first\_variable\}}
 
+{% include "../../.gitbook/includes/this-is-the-first-include..md" %}
+
 | To                                                                                                     | See                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Get familiar with a number of basic Document Capture concepts and features                             | [Basic concepts in Document Capture](../../../Docs%20EN/Continia%20Document%20Capture/Business%20functionality/@DC-83/)                                    |
