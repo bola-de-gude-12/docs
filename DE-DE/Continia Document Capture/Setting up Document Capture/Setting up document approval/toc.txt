@@ -1,0 +1,9 @@
+Setting up document approval.md | Überblick
+Enabling purchase approval.md |Einkaufsgenehmigung aktivieren
+Continia user setup for approvals.md | Continia Benutzereinrichtung für Genehmigungen
+Approval user groups.md | Genehmigungsgruppen
+Approval sharing.md | Geteilte Genehmigung einrichten
+Creating user-specific lists of approvers for approval forwarding.md | Benutzerspezifische Listen von Genehmigern für die Genehmigungsweiterleitung erstellen
+Email notifications.md | E-Mail-Benachrichtigungen
+Creating approval flows.md | Genehmigungsabläufe erstellen
+Setting up advanced approval.md | Erweiterte Genehmigung einrichten

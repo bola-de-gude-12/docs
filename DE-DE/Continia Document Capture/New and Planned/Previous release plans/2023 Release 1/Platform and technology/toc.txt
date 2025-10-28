@@ -1,0 +1,2 @@
+Support for the Business Central Universal Code Initiative.md | Unterstützung für die Business Central Universal Code Initiative
+Support for local file system storage with the Business Central Universal Code Initiative.md | Unterstützung für Speicher in lokalen Dateisystemen im Rahmen der Business Central Universal Code Initiative

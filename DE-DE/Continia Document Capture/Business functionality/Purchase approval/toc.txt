@@ -1,0 +1,13 @@
+Overview of purchase approval.md | Überblick
+Standard purchase approval.md | Standardeinkaufsgenehmigung
+Using approval flows.md | Genehmigungsabläufe verwenden
+Different approval clients.md | Verfügbare Genehmigungs-Clients
+Purchase Approval Entries.md | Genehmigungsposten
+Continia Web Approval Portal.md | Continia Web Approval Portal
+Editing approval requests.md | Genehmigungsanforderungen bearbeiten
+Approval sharing.md | Geteilte Genehmigung
+Four-eyes approval.md | Vier-Augen-Genehmigung
+Force approval.md | Genehmigung erzwingen
+Forward approval.md | Genehmigung weiterleiten
+Advanced approval.md | Erweiterte Genehmigung
+Prohibited characters in the Continia Web Approval Portal.md | Unzulässige Zeichen im Continia Web Approval Portal

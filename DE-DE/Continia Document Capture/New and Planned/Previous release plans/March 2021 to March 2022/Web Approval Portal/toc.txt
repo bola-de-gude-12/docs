@@ -1,0 +1,2 @@
+Support for Intercompany purchase document fields in the Continia Web Approval Portal.md | Unterstützung von mandantenübergreifenden Feldern für Einkaufsbelege im Continia Web Approval Portal
+Ability to copy out-of-office settings to all companies.md | Kopieren der Abwesenheitseinstellungen in alle Mandanten

@@ -1,0 +1,3 @@
+Preventing approvers from changing the on-hold status of documents for approval.md | Verhindern, dass Genehmiger den Wartestatus von zu genehmigenden Dokumenten ändern können
+Option to allow both types of approval-sharing users to receive notifications.md | Benutzer und Vertreter können bei geteilter Genehmigung Benachrichtigungen empfangen
+Ability to sort by due date on the Purchase Approval Entries page.md | Möglichkeit zum Sortieren nach Fälligkeitsdatum auf der Seite Genehmigungsposten

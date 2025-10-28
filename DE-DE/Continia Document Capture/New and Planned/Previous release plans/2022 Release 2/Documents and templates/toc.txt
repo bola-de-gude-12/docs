@@ -1,0 +1,10 @@
+Caption suggestions for master template fields.md | Suchtextvorschläge für Mastervorlagenfelder
+Document Search enhancement.md | Verbesserung der Dokumentensuche
+Notify users when they change OCR settings.md | Benachrichtigung von Benutzern, wenn sie OCR-Einstellungen ändern
+Resizing the scanned image.md | Größenänderung des gescannten Bildes (Dokumentenvorschau)
+Set up if a document should be auto-registered on the template.md | Einrichten der automatischen Registrierung in der Vorlage
+Stop asking to set gl account as standard gl account.md | Keine Aufforderung zur Angabe des Standard-Sachkontos
+Account type in the document journal.md | Kontotyp im Belegjournal
+Assisted setup guide for the creation of new template fields.md | Konfigurationsassistent für die Erstellung neuer Vorlagenfelder
+Attachments in the document viewer.md | Anhänge in der Dokumentenvorschau
+Create a new line field VAT Prod. Post. Group on the master template.md | Neues Zeilenfeld „MwSt.-Produktbuchungsgruppe“ auf der Mastervorlage erstellen

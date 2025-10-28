@@ -1,0 +1,7 @@
+Setting up Document Capture.md | Überblick
+Setting up general business functionality | Allgemeine Geschäftsfunktionen einrichten
+Setting up document categories and templates | Belegkategorien und Vorlagen einrichten 
+Setting up purchase documents | Einkaufsbelege einrichten
+Setting up order and receipt matching | Bestell- und Lieferabgleich einrichten
+Setting up document approval | Genehmigung von Belegen einrichten
+Setting up web approval | Web-Genehmigung einrichten

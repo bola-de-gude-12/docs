@@ -1,0 +1,9 @@
+Extension of the OCR service to support EWS.md | Erweiterung des OCR-Service zur Unterstützung von EWS
+Support for additional storage types.md | Unterstützung für zusätzliche Speichertypen
+Direct upgrade to Document Capture 8.00.md | Direktes Upgrade auf Document Capture 2021 R2 (8.00)
+Support for the Business Central Universal Code Initiative.md | Unterstützung für die Business Central Universal Code Initiative
+Support for local file system storage with the Business Central Universal Code Initiative.md | Unterstützung für Speicher in lokalen Dateisystemen im Rahmen der Business Central Universal Code Initiative
+Minimize that files are overwritten.md | Verhindern, dass Dateien überschrieben werden
+Support for shared mailboxes with EWS.md | Unterstützung für gemeinsame Postfächer mit EWS
+Data maintenance using job queues for Continia Document Capture tables.md | Datenpflege von Continia Document Capture-Tabellen mithilfe von Aufgabenwarteschlangen
+Easier migration from on-premises to online for older versions.md | Einfachere Migration von On-Premises zu Online für ältere Versionen

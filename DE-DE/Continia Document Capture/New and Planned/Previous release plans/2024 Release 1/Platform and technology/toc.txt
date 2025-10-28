@@ -1,0 +1,2 @@
+Data maintenance using job queues for Continia Document Capture tables.md | Datenpflege von Continia Document Capture-Tabellen mithilfe von Aufgabenwarteschlangen
+Easier migration from on-premises to online for older versions.md | Einfachere Migration von On-Premises zu Online für ältere Versionen

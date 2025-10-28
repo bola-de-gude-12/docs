@@ -1,0 +1,3 @@
+Support for Finnish localization.md | Unterstützung für finnische Lokalisierung
+Support for Polish localization.md | Unterstützung für polnische Lokalisierung
+Support for Portuguese localization.md | Unterstützung für portugiesische Lokalisierung

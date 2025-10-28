@@ -1,0 +1,11 @@
+Ability to update related templates when changing any relevant field in the master template.md | Aktualisieren zugehöriger Vorlagen beim Ändern relevanter Felder in der Mastervorlage
+Addition of the drag-and-drop feature to the document card and the document journal.md | Drag-and-Drop-Funktion auf der Dokumentenkarte und im Belegjournal
+Category for attaching files to customers.md | Kategorie zum Anhängen von Dateien an Debitoren
+Category for attaching files to employees.md | Kategorie zum Anhängen von Dateien an Mitarbeiter
+Category for attaching files to purchase receipts.md | Kategorie zum Anhängen von Dateien an Einkaufslieferungen 
+Category for attaching files to vendors.md | Kategorie zum Anhängen von Dateien an Kreditoren
+Checking for bank account and VAT numbers to avoid fraud.md | Prüfung von Bankkonto- und Umsatzsteuer-Identifikationsnummern zur Vermeidung von Betrug
+Date calculation in the formula field.md | Datumsberechnung im Formelfeld
+Delegation improvements.md | Verbesserung bei der Delegation
+Faster reprocessing of files in the error folder for on-premises OCR.md | Schnellere Neuverarbeitung im Fehlerordner für On-Premises-OCR
+Reason for moving a file to the error folder.md | Informationen beim Verschieben von Dateien in den Fehlerordner

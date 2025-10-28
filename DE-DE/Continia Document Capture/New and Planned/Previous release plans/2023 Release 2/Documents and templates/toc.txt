@@ -1,0 +1,9 @@
+Adding scanned images to general journals.md | Hinzufügen gescannter Bilder zu Fibu Buch.-Blättern
+Automatic vendor and field recognition when moving documents to other companies.md | Automatische Erkennung von Kreditoren und Feldern beim Verschieben von Dokumenten zu anderen Mandanten
+Notifications for admins about open documents.md | Benachrichtigungen an die zuständigen Mitarbeitenden über offene Belege
+Option to display original sender in Ready to Import when using Cloud OCR.md | Option zum Anzeigen des ursprünglichen Absenders in Bereit zum Import bei Verwendung von Cloud OCR
+Dynamic columns in the document journal.md | Dynamische Spalten im Belegjournal
+New template fields, Vendor Remit-To and Customer Ship-To.md | Neue Vorlagenfelder  – Vendor Remit-To und Customer Ship-To
+Support for WORKDATE and TODAY in template field formulas.md | Unterstützung für ARBEITSDATUM und HEUTE in Vorlagenfeldformeln
+Business identification fields for determining document vendors.md | Geschäftsidentifikationsfelder zum Identifizieren der Kreditoren von Belegen
+

@@ -1,0 +1,5 @@
+Basic concepts in Document Capture.md | Grundlegende Konzepte in Document Capture
+The Document Capture section of the Business Central Role Center.md | Der Document Capture-Bereich im Business Central-Rollencenter
+Secure Archive.md | Secure Archive
+Document control log.md | Dokumentenkontrollprotokoll
+Unsupported standard features.md | Nicht unterstützte Standardfunktionen

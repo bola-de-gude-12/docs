@@ -1,0 +1,5 @@
+Setting up web approval.md | Überblick
+Enabling the Web Approval Portal, online.md | Das Portal aktivieren (Online)
+Enabling the Web Approval Portal, on-premises.md | Das Portal aktivieren (On-Premises)
+Configuring users for the Web Approval Portal.md | Benutzer für das Web Approval Portal konfigurieren
+Customizing the Web Approval Portal.md | Das Portal anpassen
