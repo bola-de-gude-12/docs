@@ -55,7 +55,9 @@ Navigating through Document Capture's wealth of documentation? Here's a high-lev
 * Want to know about Document Capture's key features? Read the [Business Functionality](../Continia%20Document%20Capture/@DC-50/) overview.
 * To find in-depth information on technical topics, refer to the \[Development and Administration]\(Development and Administration/Overview.md) section.
 
-> \[!NOTE] The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% hint style="info" %}
+The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% endhint %}
 
 ## [Need help?](../Continia%20Document%20Capture/@DC-14/)
 
