@@ -1,3 +1,0 @@
-Ability to configure comment type.md | Ability to configure comment type
-Ability to delegate documents to specific users.md | Ability to delegate documents to specific users
-Support for full-content QR codes, e.g. vendor data, for the Swiss market.md | Support for full-content QR codes (e.g. vendor data) for the Swiss market

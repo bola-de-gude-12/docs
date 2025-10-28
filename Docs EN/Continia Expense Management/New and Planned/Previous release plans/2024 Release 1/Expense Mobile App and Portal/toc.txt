@@ -1,2 +1,0 @@
-Figures indicating the number of documents for approval per type in the Web Approval Portal.md | Figures indicating the number of documents for approval per type in the Web Approval Portal
-Ai receipt scanner improvements.md | AI Receipt Scanner improvements

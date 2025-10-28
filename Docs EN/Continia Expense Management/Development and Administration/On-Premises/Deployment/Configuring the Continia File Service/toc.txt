@@ -1,4 +1,0 @@
-Overview.md | Overview
-Installing the Continia File Service.md | Installing the Continia File Service
-Configuring the Continia File Service.md | Configuring the Continia File Service
-Setting up the Continia File Service in Business Central.md | Setting up the Continia File Service in Business Central

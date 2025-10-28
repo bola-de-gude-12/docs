@@ -1,9 +1,0 @@
-Adding scanned images to general journals.md | Adding scanned images to general journals
-Automatic vendor and field recognition when moving documents to other companies.md | Automatic vendor and field recognition when moving documents to other companies
-Notifications for admins about open documents.md | Notifications for admins about open documents
-Option to display original sender in Ready to Import when using Cloud OCR.md | Option to display original sender in Ready to Import when using Cloud OCR
-Dynamic columns in the document journal.md | Dynamic columns in the document journal
-New template fields, Vendor Remit-To and Customer Ship-To.md | New template fields – Vendor Remit-To and Customer Ship-To
-Support for WORKDATE and TODAY in template field formulas.md | Support for WORKDATE and TODAY in template field formulas
-Business identification fields for determining document vendors.md | Business identification fields for determining document vendors
-

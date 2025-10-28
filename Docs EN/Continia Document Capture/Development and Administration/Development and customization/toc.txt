@@ -1,6 +1,0 @@
-Development and customization.md | Overview
-Scope of support services.md | Scope of support services
-Accessing the source code.md | Accessing the source code
-Customizing your storage.md | Customizing storage
-Requesting events and external functions.md | Requesting events and external functions
-Event publishers | Event publishers

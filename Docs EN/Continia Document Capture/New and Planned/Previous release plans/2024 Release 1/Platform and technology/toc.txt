@@ -1,2 +1,0 @@
-Data maintenance using job queues for Continia Document Capture tables.md | Data maintenance using job queues for Continia Document Capture tables
-Easier migration from on-premises to online for older versions.md | Easier migration from on-premises to online for older versions

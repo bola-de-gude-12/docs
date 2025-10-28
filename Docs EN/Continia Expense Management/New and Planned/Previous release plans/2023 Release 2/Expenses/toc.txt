@@ -1,5 +1,0 @@
-VAT sales tax input from expense users.md | VAT/Sales tax input from expense users
-VAT and sales tax amounts from Expense App and Expense Portal.md | VAT and sales tax amounts from Expense App and Expense Portal
-Support for gst gst free in australia.md | Support for GST/GST-free expenses in Australia
-Support for automatic allocation using distribution codes.md | Support for automatic allocation using distribution codes
-Dynamic zoom in the document viewer.md | Dynamic zoom in the document viewer

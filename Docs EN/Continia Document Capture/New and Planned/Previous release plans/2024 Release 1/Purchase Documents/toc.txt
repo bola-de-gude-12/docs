@@ -1,3 +1,0 @@
-Ability to update purchase orders based on delivery notes.md | Ability to update purchase orders based on delivery notes
-Aligning the Purchase Contracts module with North America.md | Aligning the Purchase Contracts module with North America
-End dates for purchase contract lines.md | End dates for purchase contract lines

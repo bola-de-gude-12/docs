@@ -1,4 +1,0 @@
-Delegating users to manage other users expenses.md | Delegating users to manage other users expenses
-Editing approved documents in business central.md | Editing approved documents in Business Central
-New business vendor feature.md | New business vendor feature
-Setting limits for expense users.md | Company policies

@@ -1,4 +1,0 @@
-2025 Release 1.md | 2025 Release 1
-Documents and templates | Documents and templates
-Order and receipt matching | Order and receipt matching
-Purchase documents | Purchase documents

@@ -1,2 +1,0 @@
-Manual upgrade.md | Manual upgrade
-Automated data upgrade.md | Automated data upgrade

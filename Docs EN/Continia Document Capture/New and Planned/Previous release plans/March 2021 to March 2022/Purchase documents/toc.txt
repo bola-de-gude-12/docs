@@ -1,8 +1,0 @@
-Continia Delivery Network.md | Continia Delivery Network
-Support for the ZUGFeRD XML format for Germany.md | Support for the ZUGFeRD XML format for Germany
-Exporting and downloading multiple attachments in bulk.md | Exporting and downloading multiple attachments in bulk
-Ability to view PDF and XML files directly from the Vendor Ledger Entries screen.md | Ability to view PDF/XML files directly from the Vendor Ledger Entries screen
-Forced registration of documents.md | Forced registration of documents
-Support for the Finvoice XML format for Finland.md | Support for the Finvoice XML format for Finland
-Partial support for the UTS XML format.md | Partial support for the UTS XML format
-Full support for the UTS XML format.md | Full support for the UTS XML format

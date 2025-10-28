@@ -1,7 +1,0 @@
-Support for registration to purchase journals when the Secure Archive is enabled.md | Support for registration to purchase journals when the Secure Archive is enabled
-Deletion, GDPR, and the Secure Archive.md | Deletion, GDPR, and the Secure Archive
-Integration to the Microsoft QR-Bill Management app for Switzerland.md | Integration to the Microsoft QR-Bill Management app for Switzerland
-Changed user ID visibility for document log entries.md | Changed user ID visibility for document log entries
-Support for multi-entity management, MEM, by Binary Stream Software.md | Support for multi-entity management (MEM) by Binary Stream Software
-List of documents requiring special attention with regard to the Secure Archive.md | List of documents requiring special attention with regard to the Secure Archive
-List of documents for which activity log entries have been created between approval and posting.md | List of documents for which activity log entries have been created between approval and posting

@@ -1,2 +1,0 @@
-Expense attachments visible on allocation pages in the mobile expense app.md | Expense attachments visible on Allocation pages in the Expense Mobile App
-Support for OData V4 for the Continia Web Approval Portal.md |Support for OData V4 for the Continia Web Approval Portal

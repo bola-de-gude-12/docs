@@ -1,7 +1,0 @@
-Overview of document categories.md | Overview
-The Contact-related documents category.md | The Contact-related documents category
-The Customers, Employees, and Vendors categories.md | The Customers, Employees, and Vendors categories
-The GL documents category.md | The G/L Documents category
-The Posted Purchase Receipts category.md | The Posted Purchase Receipts category
-The Purchase Order category.md | The Purchase Order category
-The Sales Orders and Credit Memos category.md | The Sales Orders and Credit Memos category

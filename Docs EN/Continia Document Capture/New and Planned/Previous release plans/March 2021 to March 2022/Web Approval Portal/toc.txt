@@ -1,2 +1,0 @@
-Support for Intercompany purchase document fields in the Continia Web Approval Portal.md | Support for intercompany purchase document fields in the Continia Web Approval Portal
-Ability to copy out-of-office settings to all companies.md | Ability to copy out-of-office settings to all companies

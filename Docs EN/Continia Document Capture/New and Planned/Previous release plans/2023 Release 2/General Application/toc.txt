@@ -1,5 +1,0 @@
-Adding the Change Imported Amounts action to general and purchase journals.md | Adding the Change Imported Amounts action to general and purchase journals
-Continia Hub.md | Continia Hub
-Notification of remaining pages in OCR licenses.md | Notification of remaining pages in OCR licenses
-Secure Archive.md | Secure Archive
-Selecting or deselecting all records when exporting or importing configurations.md | Selecting or deselecting all records when exporting or importing configurations
