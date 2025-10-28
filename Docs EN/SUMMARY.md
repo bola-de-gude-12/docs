@@ -3,7 +3,7 @@
 * [Continia Document Capture](README.md)
   * [Welcome to Continia Document Capture](<Continia Document Capture/index.md>)
   * [Business functionality](continia-document-capture/business-functionality/README.md)
-    * [Business functionality (with the title changed)](<Continia Document Capture/Business functionality/Overview of business functionality.md>)
+    * [Business functionality](<Continia Document Capture/Business functionality/Overview of business functionality.md>)
     * [This is a draft, innit?](continia-document-capture/business-functionality/this-is-a-draft-innit.md)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)

@@ -8,11 +8,15 @@ vars:
 description: An overview of the business functionality in Document Capture.
 ---
 
-# Business functionality (with the title changed)
+# Business functionality
 
 Eager to learn more about Continia Document Capture and how to use it? Check out some of our many resources, which include detailed documentation on documents and templates as well as a large number of useful setup and user guides.
 
+\---
+
 <code class="expression">page.vars.first_variable</code>
+
+\---
 
 {% include "../../.gitbook/includes/this-is-the-first-include..md" %}
 
