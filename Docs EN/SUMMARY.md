@@ -20,4 +20,5 @@
 * [Continia Document Capture](continia-document-capture/README.md)
   * [Welcome to Continia Document Capture](continia-document-capture/welcome-to-continia-document-capture.md)
   * [Business functionality](continia-document-capture/business-functionality/README.md)
-    * [Business functionality](continia-document-capture/business-functionality/business-functionality.md)
+    * [Document Categories](continia-document-capture/business-functionality/document-categories/README.md)
+      * [Overview of Document categories](continia-document-capture/business-functionality/document-categories/overview-of-document-categories.md)
