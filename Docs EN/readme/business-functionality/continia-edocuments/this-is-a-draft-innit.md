@@ -4,6 +4,7 @@
 id: DC-?
 lang: en
 date: 2025-10-29
+description: A draft article.
 ```
 
 ## This is a h1
