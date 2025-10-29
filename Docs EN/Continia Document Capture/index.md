@@ -17,7 +17,7 @@ lang: en
 
 Document Capture is an end-to-end solution for Microsoft Dynamics 365 Business Central that enables you to import, OCR-process, register, approve, and archive invoices and other business documents. It streamlines and automates every step of your document management process, featuring a full approval workflow that allows users to approve documents after they’ve been received, scanned, and registered. Also, the digital archive makes it easy to retrieve previously processed documents for auditing, reporting, or other purposes.
 
-For an overview of the available modules and their features, see [Business Functionality](../../Docs%20EN/Continia%20Document%20Capture/@DC-49/).
+For an overview of the available modules and their features, see \[Business Functionality]\(@DC-49).
 
 {% embed url="https://player.vimeo.com/video/865548640?amp;app_id=58479&amp;autopause=0&amp;badge=0&amp;player_id=0&h=e083c6692e" %}
 
@@ -25,20 +25,20 @@ For an overview of the available modules and their features, see [Business Funct
 
 Stay in the loop:
 
-* Learn about upcoming development plans in the [roadmap overview](../../Docs%20EN/Continia%20Document%20Capture/@DC-56/).
-* Discover the latest features and enhancements in Document Capture by checking out \[the changelogs]\(New and Planned/Detailed changelogs/Overview.md).
-* Stay updated on new and revised documentation by visiting the [Docs changelog](../../Docs%20EN/Continia%20Document%20Capture/@DC-29/).
+* Learn about upcoming development plans in the \[roadmap overview]\(@DC-56).
+* Discover the latest features and enhancements in Document Capture by checking out \[the changelogs]\(@DC-449).
+* Stay updated on new and revised documentation by visiting the \[Docs changelog]\(@DC-29).
 
 ## [Getting started](../../Docs%20EN/Continia%20Document%20Capture/@DC-148/)
 
-Read about [the fundamentals of Document Capture](../../Docs%20EN/Continia%20Document%20Capture/@DC-148/) and its modules, features, and more.
+Read about the \[fundamentals of Document Capture]\(@DC-148) and its modules, features, and more.
 
 ## Popular pages
 
 Discover the most frequently visited pages for guides, instructions, and resources to help with your tasks. These popular pages are a valuable starting point for troubleshooting, information gathering, or simply finding best practices.
 
-* [Setting up Job Queues](../../Docs%20EN/Continia%20Document%20Capture/@DC-16/)
-* [Continia User Setup for Approvals](../../Docs%20EN/Continia%20Document%20Capture/@DC-23/)
+* \[Setting up Job Queues]\(@DC-16)
+* Continia User Setup for Approvals
 * [Supported On-Premises Versions of NAV and Business Central](../../Docs%20EN/Continia%20Document%20Capture/@DC-44/)
 * [Setting up Azure Blob Storage](../../Docs%20EN/Continia%20Document%20Capture/@DC-171/)
 * [Email Notifications](../../Docs%20EN/Continia%20Document%20Capture/@DC-26/)
