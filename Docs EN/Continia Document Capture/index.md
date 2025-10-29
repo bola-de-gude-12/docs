@@ -3,6 +3,7 @@ title: Meet Continia Document Capture | Continia Docs
 date: 17-09-2025
 id: DC-66
 lang: en
+description: An introduction to Continia Document Capture.
 ---
 
 # Welcome to Continia Document Capture
