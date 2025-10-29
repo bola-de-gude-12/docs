@@ -14,6 +14,7 @@ description: The Document Capture roadmap provides an overview of upcoming funct
 id: DC-56
 lang: en
 date: 2025-10-29
+description: The Document Capture roadmap provides an overview of upcoming functionality.
 ```
 
 {% include "../../.gitbook/includes/detailed-changelogs-overview.md" %}
