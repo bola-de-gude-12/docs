@@ -9,7 +9,7 @@ description: An introduction to Continia Document Capture.
 # Welcome to Continia Document Capture
 
 ```meta
-id: DC-50
+id: DC-66
 date: 28-10-2025
 description: An introduction to Continia Document Capture.
 lang: en
