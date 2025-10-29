@@ -13,6 +13,8 @@ Expense Management is an end-to-end solution for Microsoft Dynamics 365 Business
 
 For an overview of the available modules and their features, see \[Business Functionality]\(@EM-69).
 
+{% embed url="https://player.vimeo.com/video/865549893?amp;app_id=58479&amp;autopause=0&amp;player_id=0&badge=0" %}
+
 
 
 <code class="expression">page.vars.first_variable</code>
