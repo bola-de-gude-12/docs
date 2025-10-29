@@ -8,6 +8,7 @@ description: A description of the advanced ordering functionality in eDocuments
 id: DC-237
 lang: en
 date: 2025-10-29
+description: A description of the advanced ordering functionality in eDocuments.
 ```
 
 This article describes the advanced ordering functionality in eDocuments, which allows for the alteration and cancellation of electronic orders (eOrders) exchanged via the Peppol network in Continia Document Capture.
