@@ -9,6 +9,13 @@ vars:
 
 # Welcome to Continia Expense Management
 
+```meta
+id: EM-90
+lang: en
+date: 2025-10-29
+description: The welcome page for Expense Management.
+```
+
 Expense Management is an end-to-end solution for Microsoft Dynamics 365 Business Central that enables you to streamline and automate every step of your daily expense, mileage, and per diem management process. The dedicated mobile app makes it easy to submit expenses and per diem reports, and the direct integration with Business Central ensures quick configuration and a comprehensive admin overview. Add to this the smooth approval process and tight integration with Google Maps and major credit card providers, and you have the ultimate expense management solution for every business.
 
 For an overview of the available modules and their features, see \[Business Functionality]\(@EM-69).
