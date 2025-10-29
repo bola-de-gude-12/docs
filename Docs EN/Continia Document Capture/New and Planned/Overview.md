@@ -3,12 +3,18 @@ title: Release plan for Document Capture
 date: 28-10-2025
 id: DC-56
 lang: en
-description: The Document Capture roadmap provides an overview of upcoming functionality
 vars:
   solution_name: Document Capture
+description: The Document Capture roadmap provides an overview of upcoming functionality
 ---
 
 # Release plan for Document Capture
+
+```meta
+id: DC-56
+lang: en
+date: 2025-10-29
+```
 
 {% include "../../.gitbook/includes/detailed-changelogs-overview.md" %}
 
