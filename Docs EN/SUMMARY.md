@@ -9,6 +9,7 @@
       * [eDocuments advanced ordering flows](readme/business-functionality/continia-edocuments/edocuments-advanced-ordering-flows.md)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
+    * [Very basic template](readme/new-and-planned/very-basic-template.md)
 * [Continia Expense Management](continia-expense-management/README.md)
   * [Welcome to Continia Expense Management](<Continia Expense Management/index.md>)
 * [Includes](includes/README.md)
