@@ -5,7 +5,7 @@
   * [Business functionality](continia-document-capture/business-functionality/README.md)
     * [Extra folder](readme/business-functionality/extra-folder/README.md)
       * [Business functionality](<Continia Document Capture/Business functionality/Overview of business functionality.md>)
-      * [This is a draft, innit?](readme/business-functionality/extra-folder/this-is-a-draft-innit.md)
+      * [This is a draft](readme/business-functionality/extra-folder/this-is-a-draft-innit.md)
     * [Continia eDocuments](readme/business-functionality/continia-edocuments.md)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
