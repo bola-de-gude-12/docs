@@ -6,6 +6,7 @@
     * [Business functionality](readme/business-functionality/overview-of-business-functionality.md)
     * [Continia eDocuments](readme/business-functionality/continia-edocuments/README.md)
       * [This is a draft](readme/business-functionality/continia-edocuments/this-is-a-draft-innit.md)
+      * [eDocuments advanced ordering flows](readme/business-functionality/continia-edocuments/edocuments-advanced-ordering-flows.md)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
 * [Continia Expense Management](continia-expense-management/README.md)
