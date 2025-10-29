@@ -1,6 +1,11 @@
 # This is a draft
 
-\[metadata]
+```meta
+id: 
+lang: en
+date: yyyy-mm-dd
+description: 
+```
 
 ## This is a h1.
 
