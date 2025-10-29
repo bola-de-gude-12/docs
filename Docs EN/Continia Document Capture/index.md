@@ -21,7 +21,7 @@ For an overview of the available modules and their features, see \[Business Func
 
 {% embed url="https://player.vimeo.com/video/865548640?amp;app_id=58479&amp;autopause=0&amp;badge=0&amp;player_id=0&h=e083c6692e" %}
 
-## [Release plan](../../Docs%20EN/Continia%20Document%20Capture/@DC-56/)
+## \[Release plan]\(@DC-56)
 
 Stay in the loop:
 
@@ -29,7 +29,7 @@ Stay in the loop:
 * Discover the latest features and enhancements in Document Capture by checking out \[the changelogs]\(@DC-449).
 * Stay updated on new and revised documentation by visiting the \[Docs changelog]\(@DC-29).
 
-## [Getting started](../../Docs%20EN/Continia%20Document%20Capture/@DC-148/)
+## \[Getting started]\(@DC-148)
 
 Read about the \[fundamentals of Document Capture]\(@DC-148) and its modules, features, and more.
 
@@ -37,31 +37,33 @@ Read about the \[fundamentals of Document Capture]\(@DC-148) and its modules, fe
 
 Discover the most frequently visited pages for guides, instructions, and resources to help with your tasks. These popular pages are a valuable starting point for troubleshooting, information gathering, or simply finding best practices.
 
-* \[Setting up Job Queues]\(@DC-16)
-* Continia User Setup for Approvals
-* [Supported On-Premises Versions of NAV and Business Central](../../Docs%20EN/Continia%20Document%20Capture/@DC-44/)
-* [Setting up Azure Blob Storage](../../Docs%20EN/Continia%20Document%20Capture/@DC-171/)
-* [Email Notifications](../../Docs%20EN/Continia%20Document%20Capture/@DC-26/)
-* [Document Capture Permissions](../../Docs%20EN/Continia%20Document%20Capture/@DC-140/)
+* \[Setting up job queues]\(@DC-16)
+* \[Continia User Setup for Approvals]\(@DC-23)
+* \[Supported on-premises versions of NAV and Business Central]\(@DC-44)
+* \[Setting up Azure blob storage]\(@DC-171)
+* \[Email notifications]\(@DC-26)
+* \[Document Capture permissions]\(@DC-140)
 
-## [How the documentation is organized](../../Docs%20EN/Continia%20Document%20Capture/@DC-14/#continia-docs)
+## \[How the documentation is organized]\(@DC-14)
 
 Navigating through Document Capture's wealth of documentation? Here's a high-level overview to help you find what you need:
 
-* Want to know how to set up different parts of the solution? Read the [Setting up Document Capture](../../Docs%20EN/Continia%20Document%20Capture/@DC-121/) overview.
-* Want to send and receive electronic documents via networks such as Peppol? Read the [Continia eDocuments](../../Docs%20EN/Continia%20Document%20Capture/@DC-177/) overview.
-* Want to know about Document Capture's key features? Read the [Business Functionality](../../Docs%20EN/Continia%20Document%20Capture/@DC-50/) overview.
+* Want to know how to set up different parts of the solution? Read the \[Setting up Document Capture overview]\(@DC-121).
+* Want to send and receive electronic documents via networks such as Peppol? Read the \[Continia eDocuments overview]\(@DC-177).
+* Want to know about Document Capture's key features? Read the \[Business Functionality overview]\(@DC-50).
 * To find in-depth information on technical topics, refer to the \[Development and Administration]\(Development and Administration/Overview.md) section.
 
-> \[!NOTE] The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% hint style="info" %}
+The content on Continia Docs is based on the latest versions of Continia apps and Business Central online, unless noted otherwise. If you can't find a feature mentioned, your organization may be using an older version of Business Central or your Continia app.
+{% endhint %}
 
-## [Need help?](../../Docs%20EN/Continia%20Document%20Capture/@DC-14/)
+## \[Need help?]\(@DC-14)
 
 Have you encountered issues? Help is never far away.
 
 * Looking for specific information? Try the detailed table of contents, use the search, or filter by title fields.
 * Check out the FAQ sections for common queries. You can find the FAQ section directly in the folder of each specific topic, when available. Alternatively, enter 'FAQ' in the title filter in the navigation pane.
-* Are you stuck in a difficult scenario, or is a bug causing trouble? [Contact Support for assistance](../../Docs%20EN/Continia%20Document%20Capture/@DC-14/).
+* Are you stuck in a difficult scenario, or is a bug causing trouble? \[Contact Support for assistance]\(@DC-14).
 * Eager to delve into further details? [Check out the Learn site](https://learn.continia.com/).
 
 ## Start a [free trial](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.continia365|AID.6da8dd2f-e698-461f-9147-8e404244dd85|PAPPID.6da8dd2f-e698-461f-9147-8e404244dd85?tab=Overview)!
@@ -69,6 +71,5 @@ Have you encountered issues? Help is never far away.
 ## Related information
 
 [Document Capture on continia.com](https://www.continia.com/solutions/continia-document-capture/)\
-\[Notice about Documentation and Website Usage]\(Legal notice.md)\
-[Compliance](broken-reference)\
-[Other Continia Solutions](../../)
+\[Notice about documentation and website usage]\(@DC-495)\
+\[Compliance]\(@DC-496)\
