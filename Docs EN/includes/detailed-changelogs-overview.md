@@ -5,4 +5,4 @@ vars:
 
 # Detailed changelogs overview
 
-{% include "../../.gitbook/includes/detailed-changelogs-overview.md" %}
+{% include "../.gitbook/includes/detailed-changelogs-overview.md" %}
