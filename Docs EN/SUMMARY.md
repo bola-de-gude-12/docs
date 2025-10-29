@@ -19,3 +19,5 @@
   * [Expense Management](includes/expense-management.md)
 * [Continia Document Capture](continia-document-capture/README.md)
   * [Welcome to Continia Document Capture](continia-document-capture/welcome-to-continia-document-capture.md)
+  * [Business functionality](continia-document-capture/business-functionality/README.md)
+    * [Business functionality](continia-document-capture/business-functionality/business-functionality.md)
