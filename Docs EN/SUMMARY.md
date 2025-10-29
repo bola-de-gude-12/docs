@@ -13,4 +13,5 @@
 * [Includes](includes/README.md)
   * [Document Capture](includes/document-capture/README.md)
     * [First include](includes/document-capture/first-include.md)
+    * [Detailed changelogs overview](includes/document-capture/detailed-changelogs-overview.md)
   * [Expense Management](includes/expense-management.md)
