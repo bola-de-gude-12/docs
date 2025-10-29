@@ -1,30 +1,24 @@
-# This is a draft, innit?
+# This is a draft
+
+```meta
+id: DC-?
+lang: en
+date: 2025-10-29
+```
 
 ## This is a h1
 
-
-
 ### This is a h2
-
-
 
 #### This is a h3
 
-
-
 This is a paragraph.
-
-
 
 * Unordered
 * list
 
-
-
 1. Ordered
 2. list
-
-
 
 {% hint style="info" %}
 Note
