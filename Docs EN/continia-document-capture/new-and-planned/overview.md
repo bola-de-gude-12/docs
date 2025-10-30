@@ -10,6 +10,8 @@ description: The Document Capture roadmap provides an overview of upcoming funct
 
 # Release plan for Document Capture
 
+## Release plan for Document Capture
+
 ```meta
 id: DC-56
 lang: en
