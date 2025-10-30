@@ -1,3 +1,0 @@
-FAQ.md | Allgemeine häufig gestellte Fragen
-Credit card transaction FAQ.md | Häufig gestellte Fragen zu Kreditkartentransaktionen
-Minimum Requirements.md | Mindestanforderungen

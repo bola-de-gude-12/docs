@@ -1,5 +1,0 @@
-Angesichts zunehmender Umweltprobleme wird Nachhaltigkeit beim Geschäftserfolg immer wichtiger. Der durch überschüssige Treibhausgase (THG) verursachte Klimawandel stört unser Klima und zwingt uns, ein Gleichgewicht zwischen den Emissionen und der natürlichen Aufnahmefähigkeit der Erde zu finden.
-
-Durch die Integration der Nachhaltigkeitsfunktionalität von Business Central mit Continia {param1} können Sie Ihren Einfluss auf das Klima effektiver verfolgen und verwalten. So kann Ihr Unternehmen die Vorschriften einhalten und gleichzeitig zu einer nachhaltigeren Zukunft beitragen.
-
-Weitere Informationen zur Nachhaltigkeitsfunktionalität von Business Central finden Sie unter [Nachhaltigkeitsmanagement – Überblick](https://learn.microsoft.com/de-de/dynamics365/business-central/finance-manage-sustainability) (Microsoft-Artikel).

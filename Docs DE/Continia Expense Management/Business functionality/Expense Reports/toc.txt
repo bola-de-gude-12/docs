@@ -1,7 +1,0 @@
-Expense report overview.md | Überblick über Abrechnungen
-Setting up expense reports.md | Abrechnungen einrichten
-Setting up pre-approval of expense reports.md | Vorabgenehmigung von Abrechnungen einrichten
-Submitting reports.md | Abrechnungen mit dem Browser verwalten
-Using expense reports in the expense mobile app.md | Abrechnungen mit der Expense Mobile App verwalten
-Viewing multiple comments in expense reports.md | Mehrere Kommentare in Abrechnungen anzeigen
-

@@ -1,2 +1,0 @@
-Field type improvements.md | Verbesserungen bei Feldtypen
-Payment type.md | Zahlungsart

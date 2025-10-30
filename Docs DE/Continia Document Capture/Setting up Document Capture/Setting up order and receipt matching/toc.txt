@@ -1,6 +1,0 @@
-Setting up order and receipt matching.md | Überblick
-Configuring automatic matching.md | Automatischen Abgleich konfigurieren
-Setting up line matching.md | Zeilenabgleich einrichten
-Matching documents using a job queue.md | Belege mit einer Aufgabenwarteschlange abgleichen
-Enabling auto-approval.md | Automatische Genehmigung aktivieren
-Setting up matching checks before registration.md | Abgleichprüfungen vor der Registrierung einrichten

@@ -1,4 +1,0 @@
-Easier migration from on-premises to online for older versions.md | Einfachere Migration von On-Premises zu Online für ältere Versionen
-Optimized export of users – part 1.md | Optimierter Export von Benutzern – Teil 1
-Optimized export of users – part 2.md | Optimierter Export von Benutzern – Teil 2
-Data maintenance using a job queue for Continia Expense Management tables.md | Datenpflege von Continia Expense Management-Tabellen mithilfe von Aufgabenwarteschlangen

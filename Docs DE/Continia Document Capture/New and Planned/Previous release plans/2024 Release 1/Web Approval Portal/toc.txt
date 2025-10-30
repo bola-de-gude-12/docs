@@ -1,2 +1,0 @@
-Figures indicating the number of documents for approval per type in the Web Approval Portal.md | Anzeigen der Anzahl zu genehmigender Belege nach Typ im Web Approval Portal
-Optimized export of users - part 1.md | Optimierter Export von Benutzern – Teil 1

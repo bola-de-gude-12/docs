@@ -1,3 +1,0 @@
-Local functionality in Spain.md | Lokale Funktionalität in Spanien
-Calculating due dates with payment days.md | Fälligkeitsdaten anhand von Zahlungstagen berechnen
-Certifying digitized documents.md | Digitalisierte Dokumente zertifizieren

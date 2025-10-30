@@ -1,3 +1,0 @@
-Ability to configure comment type.md | Konfigurieren von Kommentartypen
-Ability to delegate documents to specific users.md | Möglichkeit zum Delegieren von Dokumenten an bestimmte Benutzer
-Support for full-content QR codes, e.g. vendor data, for the Swiss market.md | Unterstützung für QR-Codes mit vollem Inhalt (z. B. Kreditordaten) für den Schweizer Markt

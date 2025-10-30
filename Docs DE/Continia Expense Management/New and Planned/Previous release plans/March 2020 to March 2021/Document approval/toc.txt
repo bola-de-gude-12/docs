@@ -1,1 +1,0 @@
-Option of making the approval flow different from Continia Document Capture.md | Anpassen des Genehmigungsablaufs von Continia Document Capture

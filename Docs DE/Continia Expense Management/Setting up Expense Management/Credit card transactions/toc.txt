@@ -1,4 +1,0 @@
-Transactions overview.md | Überblick
-Automatic Import of Credit Card Transactions | Automatischer Import von Kreditkartentransaktionen
-Use a vendor as posting account type.md | Einen Kreditor als Buchungskontoart verwenden
-Add one credit card to multiple expense users.md | Eine Kreditkarte mehreren Expense-Benutzern hinzufügen

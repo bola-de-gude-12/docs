@@ -1,5 +1,0 @@
-Registration of documents directly to general journal lines.md | Registrierung von Belegen direkt in Fibu Buch.-Blattzeilen
-Storage migration guide.md | Speichermigrationsassistent
-Inclusion of purchase reason codes when exporting the Document Capture setup.md | Einschließen von Einkauf Ursachencodes beim Exportieren des Document Capture-Setups
-Drag-and-drop functionality for additional Business Central pages.md | Drag & Drop-Funktionalität für zusätzliche Business Central-Seiten
-Teaching tips.md | Unterrichtstipps

@@ -1,5 +1,0 @@
-Overview of account setups.md |  Überblick über die Einrichtung von Konten  
-Email setup for external or guest users in Microsoft Entra.md | E-Mail-Einrichtung für externe Benutzer oder Gastbenutzer in Microsoft Entra  
-How to retain expense history when changing user emails.md | Beibehalten der Expense-Historie beim Ändern von Benutzer-E-Mails    
-Understanding expense user email addresses.md | Grundlegendes zu Expense-Benutzer-E-Mail-Adressen  
-Removing an expense user.md | Einen Expense-Benutzer entfernen

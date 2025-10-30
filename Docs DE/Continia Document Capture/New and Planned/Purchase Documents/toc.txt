@@ -1,2 +1,0 @@
-Support for the PINT XML format.md | Support for the PINT XML format
-Inclusion of Document Capture files when reversing transactions registered in journals.md | Automatisches Anhängen von Document Capture-Dateien beim Stornieren von Transaktionen, die in Buch.-Blättern registriert wurden

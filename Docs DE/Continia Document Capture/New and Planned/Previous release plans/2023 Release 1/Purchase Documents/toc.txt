@@ -1,6 +1,0 @@
-Splitting invoice amounts by dimension while keeping the existing account number.md | Aufteilen von Rechnungsbeträgen nach Dimension unter Beibehaltung der bestehenden Kontonummer
-Automatic checking of line item prices.md | Automatische Überprüfung von Artikelpreisen pro Zeile
-Creating general journal lines without a vendor balancing account.md | Erstellen von Fibu Buch.-Blattzeilen ohne Kreditorengegenkonto
-Deferral code on the Accounts for Amounts page.md | Abgrenzungscodes auf der Seite Buchungseinrichtung
-Support for prepayments.md | Unterstützung für Vorauszahlungen
-Receiving OIOUTS documents via the Continia Delivery Network.md | Empfangen von OIOUTS-Dokumenten über das Continia Delivery Network

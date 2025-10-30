@@ -1,2 +1,0 @@
-Purchase Contracts trial.md | Einkaufsverträge-Testversion
-Automatic creation of purchase contracts based on historical invoice data.md | Automatische Erstellung von Einkaufsverträgen basierend auf Daten wiederkehrender Rechnungen

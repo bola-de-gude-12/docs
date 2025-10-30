@@ -1,2 +1,0 @@
-Continia notifications.md | Continia-Benachrichtigungen
-Automatic deactivation of Continia solutions when copying companies.md | Automatische Deaktivierung von Continia-Lösungen beim Kopieren von Mandanten

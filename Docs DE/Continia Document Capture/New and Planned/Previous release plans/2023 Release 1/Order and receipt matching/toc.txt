@@ -1,1 +1,0 @@
-Support for vendor shipment numbers and vendor order numbers on lines.md | Unterstützung für Kreditorenlieferungsnummern und Kreditorenbestellnummern in Zeilen

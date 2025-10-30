@@ -1,2 +1,0 @@
-Upgrading with multiple solutions installed, FOB.md | Überblick
-Upgrading Continia Core, FOB.md | Upgrade von Continia Core (FOB)

@@ -1,3 +1,0 @@
-Enhanced tax travel expense statement.md | Verbesserter Steuerbericht für Reisekostenabrechnungen
-Group employee and vendor ledger entries in expense reports or by document type.md | Gruppieren von Mitarbeiter- und Kreditorenposten in Abrechnungen oder nach Dokumenttyp
-Improving workflows with new Approve actions.md | Verbesserte Workflows durch Verfügbarkeit neuer Genehmigungsaktionen auf Expense-Dokumentkarten

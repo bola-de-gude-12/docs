@@ -1,4 +1,0 @@
-2022 Release 2.md | 2022 Release 2
-Documents and Templates | Belege und Vorlagen
-Order and receipt matching | Bestell- und Lieferabgleich
-Purchase documents | Einkaufsbelege

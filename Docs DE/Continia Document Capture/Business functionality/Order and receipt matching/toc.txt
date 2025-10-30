@@ -1,5 +1,0 @@
-Overview of order and receipt matching.md | Überblick
-Manual document matching.md | Manueller Belegabgleich
-Automatic document matching.md | Automatischer Belegabgleich
-Handling discrepancies, including partial matching.md | Umgang mit Abweichungen, einschließlich Teilabgleich
-Filtering line matches.md | Zeilen beim Abgleich filtern

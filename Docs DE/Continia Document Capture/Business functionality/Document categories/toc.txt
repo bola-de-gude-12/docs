@@ -1,7 +1,0 @@
-Overview of document categories.md | Überblick
-The Contact-related documents category.md | Die Kategorie „Kontaktbezogene Dokumente“
-The Customers, Employees, and Vendors categories.md | Die Kategorien „Debitoren“, „Mitarbeiter“ und „Kreditoren“
-The GL documents category.md | Die Kategorie „Sachbeleg“
-The Posted Purchase Receipts category.md | Die Kategorie „Geb. Einkaufslieferungen“
-The Purchase Order category.md | Die Kategorie „Einkaufsbestellungen“
-The Sales Orders and Credit Memos category.md | Die Kategorie „Verkaufsaufträge und -gutschriften“

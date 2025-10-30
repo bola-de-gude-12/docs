@@ -1,5 +1,0 @@
-Setting up purchase documents.md | Überblick
-Configuring purchase documents.md | Einkaufsbelege konfigurieren
-Setting up purchase allocations.md | Einkaufszuordnungen einrichten
-Using amount distribution codes.md | Betragsverteilungscodes verwenden
-Enabling the import of PDF files with embedded XML files.md | Import von PDF-Dateien mit eingebetteten XML-Dateien aktivieren

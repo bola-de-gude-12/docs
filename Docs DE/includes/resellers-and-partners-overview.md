@@ -1,5 +1,0 @@
-Die Zahl der Kunden von Continia {param1} nimmt immer weiter zu. Um diesen wachsenden Kundenstamm optimal zu unterstützen, hat sich Continia mit einem großen Netzwerk von Microsoft Dynamics 365 Business Central-Partnern zusammengeschlossen. Diese sind für alle Bereiche zuständig, vom Verkauf und der Bereitstellung der Continia-Apps bis hin zur Unterstützung ihrer Endbenutzer. Kurz gesagt: Benutzer werden von offiziellen Microsoft-Partnern unterstützt, während Continia diese Partner bei Bedarf unterstützt.
-
-Als _Endbenutzer_ sollten Sie sich immer an Ihren Partner wenden, wenn Sie Hilfe benötigen. Weitere Informationen finden Sie [hier](/Continia {param1}/Getting started/Resellers and Partners/Find a Reseller.md).
-
-Wenn Sie daran interessiert sind, ein _Continia-Partner_ zu werden, empfehlen wir es Ihnen, sich als Partner zu bewerben! Es ist eine gute Gelegenheit für Sie, Ihr Geschäftsfeld zu erweitern. Weitere Informationen finden Sie [hier](/Continia {param1}/Getting started/Resellers and Partners/Become a Reseller.md).

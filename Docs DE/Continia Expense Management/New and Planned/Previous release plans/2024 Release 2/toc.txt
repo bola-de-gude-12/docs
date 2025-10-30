@@ -1,9 +1,0 @@
-2024 release 2.md | 2024 Release 2
-General application | Allgmeine Anwendung
-Expenses | Belege
-Mileages | Fahrstrecken
-Expense reports | Abrechnungen
-Document approval | Beleggenehmigung
-Expense Mobile App and Portal | Expense Mobile App und Portal
-Platform and technology | Plattform und Technologie
-Web Approval Portal | Web Approval Portal

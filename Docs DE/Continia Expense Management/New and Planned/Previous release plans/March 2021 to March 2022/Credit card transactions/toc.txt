@@ -1,2 +1,0 @@
-Importing own credit card transactions.md | Importieren eigener Kreditkartentransaktionen
-New credit card agreement activation flow.md | Neuer Aktivierungsablauf für Kreditkartenvereinbarungen

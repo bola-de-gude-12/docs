@@ -1,4 +1,0 @@
-Improved line recognition.md | Verbesserte Zeilenerkennung
-Checking for phone numbers to avoid fraud.md | Überprüfung von Telefonnummern zur Vermeidung von Betrug
-Continia eDocuments.md | Continia eDokumente
-New Danish bookkeeping, demands for electronic invoicing.md | Neue dänische Buchhaltung – Anforderungen für elektronische Rechnungsstellung

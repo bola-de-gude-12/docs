@@ -1,2 +1,0 @@
-ESG expense types for carbon footprint registration.md | ESG-Belegkategorien für die Erfassung der CO2-Bilanzierung
-Integration with continia sustainability.md | Integration mit Continia Sustainability

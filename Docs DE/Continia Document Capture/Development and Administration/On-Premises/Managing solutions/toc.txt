@@ -1,3 +1,0 @@
-Managing licenses.md | Lizenzen verwalten
-Managing solutions.md | Lösungen verwalten
-Modules for Document Capture.md | Module für Document Capture

@@ -1,6 +1,0 @@
-Bank transaction posting description configuration.md | Konfiguration der Buchungsbeschreibung für Banktransaktionen
-Introducing Cash Advance.md | Einführung von Bargeldvorschuss
-Payment type handling enhancement.md | Verbesserungen bei der Verwaltung von Zahlungsarten
-Enhanced image-to-PDF conversion for invoices processed with Document Capture.md | Verbesserte Bild-zu-PDF-Konvertierung für mit Document Capture verarbeitete Rechnungen
-Expense reimbursement page shows all expense types.md | Auf der Seite für Rückerstattungen werden alle Belegarten angezeigt
-Posting project expenses in Business Central independently of the reimbursement method.md | Buchung von Projektausgaben in Business Central unabhängig von der Erstattungsmethode

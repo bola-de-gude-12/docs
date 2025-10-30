@@ -1,5 +1,0 @@
-VAT sales tax input from expense users.md | Eingabe von MwSt./Umsatzsteuer durch Benutzer
-VAT and sales tax amounts from Expense App and Expense Portal.md | Mehrwert- und Verkaufssteuer aus Expense App und Expense Portal
-Support for gst gst free in australia.md | Unterstützung für GST-pflichtige/GST-freie Ausgaben (Australien)
-Support for automatic allocation using distribution codes.md | Automatische Betragsaufteilung anhand von Verteilungscodes
-Dynamic zoom in the document viewer.md | Dynamisches Vergrößern in der Dokumentenvorschau

@@ -1,3 +1,0 @@
-Ability to approve and post expenses without importing transactions.md | Spesen ohne Import von Transaktionen genehmigen und buchen
-Importing own credit card transactions.md | Importieren eigener Kreditkartentransaktionen
-New credit card agreement activation flow.md | Neuer Aktivierungsablauf für Kreditkartenvereinbarungen

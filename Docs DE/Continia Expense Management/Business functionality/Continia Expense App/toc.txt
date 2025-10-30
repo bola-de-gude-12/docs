@@ -1,7 +1,0 @@
-Continia expense app Overview.md | Überblick über die Continia Expense Mobile App
-Creating and submitting expenses in the app.md | Belege in der Expense Mobile App einreichen
-Continia expense app notifications.md | Continia Expense Mobile App-Benachrichtigungen
-Images in the continia expense app.md | Bilder der gespeicherten Anhänge in der Continia Expense Mobile App
-Color codes in the continia expense app history.md | Farbcodes in der Continia Expense Mobile App-Historie
-Allocating expense costs.md | Kosten in Belegen verteilen
-Expense App FAQ.md | Häufig gestellte Fragen zur Expense App

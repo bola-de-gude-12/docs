@@ -1,7 +1,0 @@
-2023 release 2.md | 2023 Release 2
-General application | Allgmeine Anwendung
-Expenses | Belege
-Per diems | Pauschalen
-Document approval | Beleggenehmigung
-Expense Mobile App and Portal | Expense Mobile App und Portal
-Platform and technology | Plattform und Technologie

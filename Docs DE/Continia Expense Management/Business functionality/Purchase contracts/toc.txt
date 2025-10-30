@@ -1,5 +1,0 @@
-Overview of purchase contracts.md | Überblick
-Creating purchase contracts.md | Einkaufsverträge erstellen
-Purchase contract reviews.md | Einkaufsverträge überprüfen
-Approving expenses based on a contract.md | Belege basierend auf einem Vertrag genehmigen
-Viewing the purchase contract archive.md | Das Einkaufsvertragsarchiv anzeigen
