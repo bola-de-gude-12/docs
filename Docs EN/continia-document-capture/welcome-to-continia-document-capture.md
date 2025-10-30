@@ -15,6 +15,8 @@ Document Capture is an end-to-end solution for Microsoft Dynamics 365 Business C
 
 For an overview of the available modules and their features, see \[Business Functionality]\(@DC-50).
 
+This is for Zygi.
+
 {% embed url="https://player.vimeo.com/video/865548640?amp;app_id=58479&amp;autopause=0&amp;badge=0&amp;player_id=0&h=e083c6692e" %}
 
 ## \[Release plan]\(@DC-56)
