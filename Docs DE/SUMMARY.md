@@ -10,4 +10,4 @@
 * [Continia Expense Management](continia-expense-management/README.md)
   * [Continia Expense Management](<Continia Expense Management/index.md>)
   * [New and Planned](continia-expense-management/new-and-planned/README.md)
-    * [Veröffentlichungsplan für Continia Expense Management](<Continia Expense Management/New and Planned/Overview.md>)
+    * [Release plan for Continia Expense Management](<Continia Expense Management/New and Planned/Overview.md>)
