@@ -11,8 +11,6 @@ description: An overview of the business functionality in Document Capture.
 
 Eager to learn more about Continia Document Capture and how to use it? Check out some of our many resources, which include detailed documentation on documents and templates as well as a large number of useful setup and user guides.
 
-Now back to the \[Welcome to Continia Document Capture]\(@DC-66) page.
-
 | To                                                                                                     | See                                                |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
 | Get familiar with a number of basic Document Capture concepts and features                             | \[Basic concepts in Document Capture]\(@DC-83)     |
