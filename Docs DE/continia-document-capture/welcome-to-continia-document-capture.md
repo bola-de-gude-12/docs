@@ -1,5 +1,7 @@
 # Welcome to Continia Document Capture
 
+## Willkommen bei Continia Document Capture
+
 ```
 id: DC-66
 date: 28-10-2025
