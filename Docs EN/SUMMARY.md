@@ -12,6 +12,7 @@
     * [Overview of business functionality](continia-document-capture/business-functionality/business-functionality.md)
     * [Document Categories](continia-document-capture/business-functionality/document-categories/README.md)
       * [Overview of Document categories](continia-document-capture/business-functionality/document-categories/overview-of-document-categories.md)
+    * [Overview of business functionality](continia-document-capture/business-functionality/overview-of-business-functionality.md)
 * [Continia Expense Management](continia-expense-management/README.md)
   * [Welcome to Continia Expense Management](<Continia Expense Management/index.md>)
   * [New and Planned](continia-expense-management/new-and-planned/README.md)
