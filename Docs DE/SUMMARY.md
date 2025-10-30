@@ -8,6 +8,6 @@
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
 * [Continia Expense Management](continia-expense-management/README.md)
-  * [Willkommen bei Continia Expense Management](<Continia Expense Management/index.md>)
+  * [Continia Expense Management](<Continia Expense Management/index.md>)
   * [New and Planned](continia-expense-management/new-and-planned/README.md)
     * [Veröffentlichungsplan für Continia Expense Management](<Continia Expense Management/New and Planned/Overview.md>)
