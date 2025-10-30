@@ -20,7 +20,14 @@ layout:
     visible: true
 ---
 
-# Veröffentlichungsplan für Document Capture
+# Release plan for Document Capture
+
+```meta
+id: DC-56
+lang: de
+date: 2025-10-30
+description: The Document Capture roadmap provides an overview of upcoming functionality.
+```
 
 In diesem Artikel werden die Funktionen aufgeführt, deren Veröffentlichung in dem kommenden Major Release (Hauptversion) geplant ist. Außerdem werden die im aktuellsten Major Release verfügbaren Funktionen genannt sowie die zwischen diesen beiden Major Releases geplanten oder veröffentlichten Funktionen. Beachten Sie, dass das Veröffentlichungsdatum ein beliebiger Tag innerhalb des angegebenen Monats sein kann und geplante Funktionen möglicherweise verschoben oder überhaupt nicht herausgegeben werden (siehe Continia-Richtlinie).
 
