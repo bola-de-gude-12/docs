@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Continia Document Capture](README.md)
+  * [Welcome to Continia Document Capture](continia-document-capture/welcome-to-continia-document-capture.md)
   * [Business functionality](continia-document-capture/business-functionality/README.md)
     * [Business functionality](<Continia Document Capture/Business functionality/Overview of business functionality.md>)
     * [Continia eDocuments](continia-document-capture/business-functionality/continia-edocuments/README.md)
