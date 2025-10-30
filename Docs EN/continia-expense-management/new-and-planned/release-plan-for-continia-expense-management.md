@@ -19,6 +19,8 @@ layout:
 
 # Release plan for Continia Expense Management
 
+## Release plan for Continia Expense Management
+
 ```meta
 id: EM-78
 lang: en
