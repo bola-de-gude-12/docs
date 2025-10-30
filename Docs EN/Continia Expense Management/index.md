@@ -9,6 +9,8 @@ vars:
 
 # Welcome to Continia Expense Management
 
+## Welcome to Continia Expense Management
+
 ```meta
 id: EM-90
 lang: en
