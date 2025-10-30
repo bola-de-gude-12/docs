@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Continia Document Capture](README.md)
+  * [Welcome to Continia Document Capture](continia-document-capture/welcome-to-continia-document-capture.md)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](continia-document-capture/new-and-planned/overview.md)
     * [Very basic template](continia-document-capture/new-and-planned/very-basic-template.md)
-  * [Welcome to Continia Document Capture](continia-document-capture/welcome-to-continia-document-capture.md)
   * [Business functionality](continia-document-capture/business-functionality/README.md)
     * [Continia eDocuments](continia-document-capture/business-functionality/continia-edocuments/README.md)
       * [This is a draft](continia-document-capture/business-functionality/continia-edocuments/this-is-a-draft.md)
