@@ -9,7 +9,6 @@
     * [Continia eDocuments](continia-document-capture/business-functionality/continia-edocuments/README.md)
       * [This is a draft](continia-document-capture/business-functionality/continia-edocuments/this-is-a-draft.md)
       * [eDocuments advanced ordering flows](continia-document-capture/business-functionality/continia-edocuments/edocuments-advanced-ordering-flows.md)
-    * [Overview of business functionality](continia-document-capture/business-functionality/business-functionality.md)
     * [Document Categories](continia-document-capture/business-functionality/document-categories/README.md)
       * [Overview of Document categories](continia-document-capture/business-functionality/document-categories/overview-of-document-categories.md)
     * [Overview of business functionality](continia-document-capture/business-functionality/overview-of-business-functionality.md)
