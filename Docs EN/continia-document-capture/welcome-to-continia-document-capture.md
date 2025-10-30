@@ -13,7 +13,7 @@ lang: en
 
 Document Capture is an end-to-end solution for Microsoft Dynamics 365 Business Central that enables you to import, OCR-process, register, approve, and archive invoices and other business documents. It streamlines and automates every step of your document management process, featuring a full approval workflow that allows users to approve documents after they’ve been received, scanned, and registered. Also, the digital archive makes it easy to retrieve previously processed documents for auditing, reporting, or other purposes.
 
-For an overview of the available modules and their features, see \[Business Functionality]\(@DC-49).
+For an overview of the available modules and their features, see \[Business Functionality]\(@DC-50).
 
 {% embed url="https://player.vimeo.com/video/865548640?amp;app_id=58479&amp;autopause=0&amp;badge=0&amp;player_id=0&h=e083c6692e" %}
 
