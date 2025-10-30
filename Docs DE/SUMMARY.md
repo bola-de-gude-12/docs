@@ -4,7 +4,7 @@
   * [Business functionality](continia-document-capture/business-functionality/README.md)
     * [Business functionality](<Continia Document Capture/Business functionality/Overview of business functionality.md>)
     * [Continia eDocuments](continia-document-capture/business-functionality/continia-edocuments/README.md)
-      * [eDocuments Erweiterte Bestellflows](<Continia Document Capture/Business functionality/Continia eDocuments/Advanced ordering in eDocuments.md>)
+      * [eDocuments advanced ordering flows](<Continia Document Capture/Business functionality/Continia eDocuments/Advanced ordering in eDocuments.md>)
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Veröffentlichungsplan für Document Capture](<Continia Document Capture/New and Planned/Overview.md>)
 * [Continia Expense Management](continia-expense-management/README.md)
