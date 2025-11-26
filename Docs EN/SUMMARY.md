@@ -5,6 +5,8 @@
   * [New and Planned](continia-document-capture/new-and-planned/README.md)
     * [Release plan for Document Capture](continia-document-capture/new-and-planned/overview.md)
     * [Very basic template](continia-document-capture/new-and-planned/very-basic-template.md)
+    * [CDN test environment for sandboxes](continia-document-capture/new-and-planned/cdn-test-environment-for-sandboxes.md)
+    * [Item tracking   capture multiple values per item line](continia-document-capture/new-and-planned/item-tracking-capture-multiple-values-per-item-line.md)
   * [Business functionality](continia-document-capture/business-functionality/README.md)
     * [Continia eDocuments](continia-document-capture/business-functionality/continia-edocuments/README.md)
       * [This is a draft](continia-document-capture/business-functionality/continia-edocuments/this-is-a-draft.md)
