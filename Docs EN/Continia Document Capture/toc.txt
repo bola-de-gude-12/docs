@@ -1,7 +1,0 @@
-index.md | Welcome to Document Capture
-New and Planned | New and planned
-Getting Started | Getting started
-Setting up Document Capture | Setting up Document Capture
-Business functionality | Business functionality
-Development and Administration | Development and administration
-Compliance.md | Compliance

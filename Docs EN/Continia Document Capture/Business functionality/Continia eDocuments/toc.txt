@@ -1,9 +1,0 @@
-Continia eDocuments.md | Overview
-Continia eDocuments flows | Continia eDocuments flows
-Local functionality | Local functionality
-Activating Continia eDocuments.md | Activating Continia eDocuments
-Setting up Continia eDocuments.md | Setting up Continia eDocuments
-Setting up customers and vendors.md | Setting up customers and vendors
-eDocuments table structures.md | eDocuments table structures
-Capturing data from eDocuments.md | Capturing data from eDocuments
-Using payment means in eDocuments.md | Using payment means in eDocuments
