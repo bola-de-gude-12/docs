@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Detailed changelog for Continia Document Capture 2026 R1 incl. CDN](README.md)
